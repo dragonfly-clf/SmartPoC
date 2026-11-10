@@ -1,0 +1,3 @@
+various manipulations.
+   Contracts: ASYAGRO
+   

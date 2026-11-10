@@ -1,0 +1,23 @@
+#### L13 - Divide before Multiply Operation
+
+**Criticality** minor
+
+**Location** contract.sol#L656,821
+
+##### Description
+
+Performing divisions before multiplications may cause lose of prediction.
+
+|Criticality|minor|
+|---|---|
+|Location|contract.sol#L656,821|
+
+```
+gonSwapThreshold = TOTAL_GONS.div(_denom).mul(_num)
+contractTokenBalance = _gonBalances[address(this)].div(_gonsPerFragment)
+
+```
+
+##### Recommendation
+
+The multiplications should be prior to the divisions.

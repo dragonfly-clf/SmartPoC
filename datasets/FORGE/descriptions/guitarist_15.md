@@ -1,0 +1,36 @@
+#### L16 - Validate Variable Setters
+
+**Criticality** Minor / Informative
+
+**Location** Guitarist.sol#L1716,1720,1724
+
+**Status** Unresolved
+
+#### Description
+
+The contract performs operations on variables that have been configured on user-supplied
+
+input. These variables are missing of proper check for the case where a value is zero. This
+
+can lead to problems when the contract is executed, as certain actions may not be properly
+
+handled when the value is zero.
+```
+ treasuryWallet = _treasuryWallet
+ wallet2 = _wallet2
+ wallet3 = _wallet3
+
+#### Recommendation
+
+```
+By adding the proper check, the contract will not allow the variables to be configured with
+
+zero value. This will ensure that the contract can handle all possible input values and avoid
+
+unexpected behavior or errors. Hence, it can help to prevent the contract from being
+
+exploited or operating unexpectedly.
+
+
+-----
+

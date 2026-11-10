@@ -1,0 +1,30 @@
+#### L02 - State Variables could be Declared Constant
+
+**Criticality** minor
+
+**Location** contract.sol#L737,L739,L740 and 3 more
+
+##### Description
+
+Constant state variables should be declared constant to save gas.
+
+|Criticality|minor|
+|---|---|
+|Location|contract.sol#L737,L739,L740 and 3 more|
+
+```
+numTokensSellToAddToLiquidity
+burningTokenCriteria
+burnTokenEveryWeek
+
+```
+...
+
+
+##### Recommendation
+
+Add the constant attribute to state variables that never change.
+
+
+-----
+

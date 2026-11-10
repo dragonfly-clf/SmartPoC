@@ -1,0 +1,32 @@
+#### L12 - Using Variables before Declaration
+
+**Criticality** minor / informative
+
+**Location** contract.sol#L1237
+
+**Status** Unresolved
+
+##### Description
+
+The contract is using a variable before the declaration. This is usually happening
+either if it has not been declared yet or the variable has been declared in a different
+scope.
+
+|Criticality|minor / informative|
+|---|---|
+|Location|contract.sol#L1237|
+|Status|Unresolved|
+
+
+lastProcessedIndex
+claims
+iterations
+
+
+##### Recommendation
+
+The variables should be declared before any usage of them.
+
+
+-----
+

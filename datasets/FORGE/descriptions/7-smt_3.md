@@ -1,0 +1,44 @@
+#### L04 - Conformance to Solidity Naming Conventions
+
+**Criticality** minor / informative
+
+**Location** contract.sol#L1107,967,790,1318,756,235,252,626,234,672,680,1100,676,272,6
+84
+
+**Status** Unresolved
+
+##### Description
+
+Solidity defines a naming convention that should be followed. Rule exceptions:
+
+ - Allow constant variable name/symbol/decimals to be lowercase.
+
+ - Allow _ at the beginning of the mixed_case match for private variables and
+unused parameters.
+
+|Criticality|minor / informative|
+|---|---|
+|Location|contract.sol#L1107,967,790,1318,756,235,252,626,234,672,680,1100,676,272,6 84|
+|Status|Unresolved|
+
+
+_charityWallet
+DEAD
+_account
+_maxWalletAmount
+_newMinimumBalance
+PERMIT_TYPEHASH
+MINIMUM_LIQUIDITY
+magnitude
+DOMAIN_SEPARATOR
+...
+
+
+##### Recommendation
+
+Follow the Solidity naming convention.
+[https://docs.soliditylang.org/en/v0.4.25/style-guide.html#naming-conventions.](https://docs.soliditylang.org/en/v0.4.25/style-guide.html#naming-convention)
+
+
+-----
+

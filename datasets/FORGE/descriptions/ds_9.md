@@ -1,0 +1,3 @@
+Your Score 49/100
+
+###### DoctorShiba is a high risk project. The smart contract analysis showed 3 major issues. There is a "pause" function that the team can abuse to manipulate trades and prevent users from selling. The owner can also mint new tokens, inflating the price and decreasing existing user's value. Finally the contract Owner can prevent a single address from selling tokens. The team was not found or mentioned anywhere. The Tokenomics shown in the website suggest there are reflections and rewards to holders but in reality the contract does not support them. Renouncing ownership will eliminate all contract threats and issues.

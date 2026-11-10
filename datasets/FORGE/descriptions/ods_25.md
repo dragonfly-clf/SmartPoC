@@ -1,0 +1,35 @@
+#### L15 - Local Scope Variable Shadowing
+
+**Criticality** Minor / Informative
+
+**Location** Odesis.sol#L753,754,1756
+
+**Status** Unresolved
+
+#### Description
+
+Local scope variable shadowing occurs when a local variable with the same name as a
+
+variable in an outer scope is declared within a function or code block. When this happens,
+
+the local variable "shadows" the outer variable, meaning that it takes precedence over the
+
+outer variable within the scope in which it is declared.
+```
+ string memory _name
+ string memory _symbol
+
+#### Recommendation
+
+```
+It's important to be aware of shadowing when working with local variables, as it can lead to
+
+confusion and unintended consequences if not used correctly. It's generally a good idea to
+
+choose unique names for local variables to avoid shadowing outer variables and causing
+
+confusion.
+
+
+-----
+

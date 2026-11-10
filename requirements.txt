@@ -1,0 +1,8 @@
+openai==1.65.3
+slither-analyzer==0.11.3
+crytic-compile==0.3.10
+solc-select==1.0.4
+tiktoken==0.8.0
+tqdm==4.67.1
+packaging==24.2
+requests==2.32.3

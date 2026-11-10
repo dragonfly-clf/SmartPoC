@@ -1,0 +1,1105 @@
+./contracts/ByTradeToken, ./contracts/BEP20, ./contracts/IBEP20
+./contracts/ByTradeToken, ./contracts/BEP20, ./contracts/IBEP20
+AFM.sol#L759
+AIOToken.sol#L229
+APHCore.sol, APHPool.sol
+APHPool contract
+ARMYDOLLAR.sol, `transferWithLocking()` function
+ASYAGRO contract, extendLockTime and reduceLockTime functions
+ASYAGRO contract, freezeAccount function
+ASYAGRO contract, lock function
+ASYAGRO contract, mint function
+ASYAGRO contract, unlockToken and releaseLock functions
+AbsToken contract
+Active smart contract owner
+Active smart contract owner privileges
+Address.sendValue(address, uint256) (SlappyCat.sol#91-97), Address._functionCallWithValue(address, bytes, uint256, string) (SlappyCat.sol#116-137)
+Address: multiple locations (see below)
+Address: multiple locations (see below)
+AddressUpgradeable, StandardERC20
+Advon.sol (contract owner)
+Advon.sol (ecosystemFund address, token allocation)
+Advon.sol (initialize function)
+Airdrop function
+All files
+Alrihla's smart contract
+Ant Dao's smart contract
+Ant Dao’s smart contract
+AntiBot interface
+Apple DAO smart contract
+AquaPets's smart contract owner
+Auth, BEP20LUNA implementation contracts
+Authorized address privileges
+BABYTOKEN.sol#L2047
+BEP20, mint function
+BEP20LUNAINU.sol#L371
+BEP20LUNAINU.sol#L532
+BEP20Token contract, Owned module
+BEP20Token contract, functions _mint and _burn
+BEP20Token.sol smart contract
+BEP20Token.sol, mint function
+BRICS.sol#L501
+BUTANE.sol#L445
+BWORKER contract, mint functionality
+BabyCAW implementation, function enable_blacklist and manage_blacklist.
+BabyHkTiger contract, admin functions
+Balance Modifier Function
+BankController.sol Line: 218
+BeerusShiba contract, burn logic
+BetBitcoinAi.sol#L610,703,749
+Binate Sown contract, mint and burn functions
+BingoGame contract, admin functions
+BingoGame contract, various functions (e.g., setMarketPairStatus, setBuyTaxes, setSelTaxes, etc.)
+BossBaby contract, liquidity functionality
+BossBaby contract, transaction functionality
+BossBaby contract, transfer flow
+Bridge's smart contract ownership
+BullMeerkatToken.sol#L765,778
+BullsRunToken contract
+BullsRunToken.sol#L637
+Burn and mint functions
+Burn and mint functions
+Burn function
+BurnableToken contract, burnAddress() function
+Bytrade_Staking.sol, stake(uint,uint) function
+Bytrade_Staking.sol, stake(uint,uint) function
+CEOLinda.sol#L298
+CHITAVERSE contract
+CHITAVERSE.sol#L283,292
+CHITAVERSE.sol#L347
+CHITAVERSE.sol#L414,432
+CLE.sol
+CLIMBToken contract, function approve, line 722
+CLIMBToken contract, function burn, line 732
+CZLunaToken contract, function not specified.
+CamKingToken.sol#L870,877
+CamKingToken.sol#L937
+CarGaiaToken.sol
+Cas Inu's smart contract, specifically the active ownership
+Catboy's smart contract
+CelerIMFacet
+CelerIMFacet.sol#L171-L177
+CiccaDefi.sol
+CiccaDefi.sol
+CleverMinu Contract, IMOreferral() function
+CleverMinu Contract, IMOsale() function
+Coin Fuel's smart contract
+Coin98DollarMintBurn contract, cUSD token
+Coin98DollarMintBurn contract, state variable
+CoinToken (functions: setTaxFeePercent, setDevFeePercent, setLiquidityFeePercent)
+CoinToken contract's mint function
+CoinToken contract, various functions (e.g., handleTax, triggerTax, pause, unpause, etc.)
+CoinToken contract, various functions (e.g., pause, burn, enableBlacklist, etc.)
+CoinToken.sol
+CoinToken.sol#L1207
+Colexion, function: purchaseToken
+Colexion, function: purchaseToken
+Colexion, functions: withdraw, end_auction
+Constructor function
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract
+Contract (ElevenGold.sol)
+Contract (https://bscscan.com/address/0x6a73a99fac60c265863307c5a40abf32f0a040ac#code#L2704, L2709,L2714)
+Contract (https://bscscan.com/address/0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad#code#L2731)
+Contract (https://bscscan.com/address/0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad#code#L2890)
+Contract - B4Real.sol, Function - transferFrom()
+Contract - Factory.sol
+Contract - Nugen Token
+Contract - TRG.sol
+Contract Owner
+Contract Owner Privileges
+Contract Owner Privileges
+Contract Owner Privileges
+Contract Owner functionality
+Contract Owner, function pause() or lock()
+Contract Ownership
+Contract SCCS, function `publicBurn`
+Contract SlappyCat uses literals with too many digits: - DEAD = 0x00000000000000000000000000000000dEaD (SlappyCat.sol#381)
+Contract admin functions
+Contract as a whole
+Contract composition checklist
+Contract constructor, DOMAIN_SEPARATOR generation
+Contract deployment
+Contract function at https://bscscan.com/address/0x7fA6f63B11CC1af508cD19Ba823853d6aaCd9d65#code#L1015
+Contract function setDevFeePercent at https://bscscan.com/address/0x7fA6f63B11CC1af508cD19Ba823853d6aaCd9d65#code#L643,L647,L639
+Contract functionality related to liquidity
+Contract integration checklist
+Contract owner functionality
+Contract owner's authority to set `_maxTxAmount` to zero.
+Contract owner's private key
+Contract owner, active ownership
+Contract ownership
+Contract ownership
+Contract ownership (0x94e94ef27453c24a8787036a8c9d0b8ae29ed1a5)
+Contract ownership and access control
+Contract ownership and management
+Contract ownership set to 0xd4ce9ecbd1ac69e3dd96c5d2bd176d17c34e092a
+Contract security architecture
+Contract – T99(TNN)Token, function transferFrom
+Contract, Function: `setClaimRewardAsTokensPercentage`
+Contract, `liquidityFee` variable.
+Contract, algorithmic logic.
+Contract, division operations.
+Contract, function (n/a)
+Contract, function (pause())
+Contract, function swapAndLiquify()
+Contract, function transferOwnership(address payable adr)
+Contract, swap functionality.
+Contract, total supply and balance variables.
+Contract, try-catch statement in external call to router contract
+Contract.sol#L296, SendETHToFee function
+Contract.sol, various locations
+Contracts LottoAdmin and LottoCore
+CoreBorrowing contract, _rollover() function
+CoreBorrowing contract, repay() function
+CryptoBitaxy.sol#L901,905,909,913
+CryptoStellar contract, functions setBuyTaxes, setSellTaxes, setDistributionSettings, etc.
+CryptoStellar contract, functions setMarketPairStatus, setIsTxLimitExempt, etc.
+DARKMATTER Implementation (Ownable)
+DDSContracts.sol
+DDSContracts.sol
+DEXI contract
+DEXI contract
+DEXI contract
+DMToken smart contract
+DMToken smart contract
+DOCTORSTRA contract (NGE implementation), specifically fee-related functions.
+DP2PTokenLegacyUSDT contract
+DUZU_Coin.sol#L399
+DeFiYieldProtocol contract, _delegate() function
+DeHealthToken.sol
+DeHealthToken.sol, function __loadBalances
+DecentralZone.sol#L555
+DemonHellboy contract
+DemonHellboy contract
+Deployer cannot burn or lock user funds function
+DexterLabs.sol contract
+Diagnostics, MT; mint function
+Diagnostics, OTUT; callget function
+Diagnostics, TAP; Transaction processing
+DiamondDexToken.sol#L1168,1172,1180
+Disney.sol#L4200
+DogBoss’s smart contract
+DogeSuperman contract (function `blacklist_Add_Wallets` and others)
+DogeSuperman contract (functions with `onlyOwner` modifier)
+DreamAi.sol
+DreamAi.sol
+DreamAi.sol
+DreamAi.sol
+DreamAi.sol
+DreamAi.sol
+DripToken.sol#L212
+DripToken.sol#L342
+EKAR Token smart contract, Line No: 165
+EKAR Token smart contract, Line No: 196
+EKAR Token smart contract, various functions (isExcludedFromReward, excludeFromFee, includeInFee, setLiquidityFee, setTaxFee, setCovidFee)
+ELONTICKER (openTrading, setmarketingWallet, etc.)
+ELONTICKER (updateDividendTracker, excludeFromFees, etc.)
+ERC20 conformity checks
+ERC20Control, SecondToken contracts
+ERC20DividendToken (function setRewardsFee)
+ERC721 conformity checks
+ETH Saitama's smart contract
+Elite Code’s smart contract
+Elon1's smart contract
+Elon1's smart contract
+ErugoCoin contract, `transferFrom` function
+Eth Burn's smart contract ownership
+EvocPlus.sol, _maxTxAmount function
+EvocPlus.sol, devListAddress function
+EvocPlus.sol, mint function
+EvocPlus.sol, setTransferBuyFee, setFeeDistribution, and setFeeSwap functions
+EvocPlus.sol, swapBack function
+Fame contract, various admin functions (e.g. setMarketPairStatus, setIsTxLimitExempt, etc.)
+FatAnimalToken contract, specifically in the `_delegate` function.
+Fetty Coins' smart contract owner
+FidoMeta.sol
+FidoMeta.sol
+FidoMeta.sol
+FidoMeta.sol
+FidoMeta.sol, Function: setCommunityCharge, setEcoSysFee, setSurcharge1, setSurcharge2, setSurcharge3
+FidoMeta.sol, Function: setServiceWallet
+FidoMeta.sol, Functions: _burn, _mint, constructor
+FidoMeta.sol, Functions: burn
+FidoMeta.sol, Functions: burn, mint
+FidoMeta.sol, Functions: transferWithLock, unlock
+FidoMeta.sol, Functions: unlock
+FidoMeta.sol, Functions: unlock
+FidoMeta.sol, function: burn
+FidoMeta.sol, function: unlock
+FidoMeta.sol, function: unlock
+FidoMeta.sol, functions: _burn, _mint, constructor
+FidoMeta.sol, functions: burn, mint
+FidoMeta.sol, functions: setCommunityCharge, setEcoSysFee, setSurcharge1, setSurcharge2, setSurcharge3
+FidoMeta.sol, functions: transferWithLock, unlock
+FidoMeta.sol, functions: transferWithLock, unlock
+FirmSeed contract
+Flack Exchange contract
+Flack Exchange contract
+Floki Dollar's smart contract
+Floki Marvin's smart contract
+FootballAI.sol#L527,530,533
+FreezingToken contract, setFrozen() function
+FreezingToken contract, transferFrom() function
+Function Deposit()
+Function distributeDividends(uint256 amount)
+Function distributeRewards()
+Function staking, line 1076
+Function swapAndLiquify()
+Functions (Lines 940-947)
+Functions _transfer and swapAndLiquify
+Functions like excludeFromFee, includeInFee, enableAllFees
+Functions like setDevWallet, setMaxTxPercent, setMaxWalletPercent
+Functions lock(), transferFromWithLock(), increaseLockAmount(), and unlock()
+Functions setTaxFeePercent(), setLiquidityFeePercent(), and setMaxTxPercent()
+GalaxyFox.sol
+Global (smart contract ownership)
+GlobalReserveCoin.sol#L1407
+Gold Rush Casino’s smart contract
+GoldHunt.sol#L338,344
+GoldHunt.sol#L552
+GovernanceTimelock contract, DAO role assignment
+GovernorAlpha contract
+HXPE.sol#L710
+HaggleToken.sol#679-1110, _staking[_msgSender()].push(temp) (HaggleToken.sol#1076)
+HoldingContract, transferAnyERC20Token() function
+Honeypot Analyse function
+HopFacetOptimized.sol
+HubGame's smart contract
+IKOMP contract, delegateBySig() function
+IMETACoin223Token_13 contract, getLast24hSendingValue() function.
+IPancakePair, approve function
+IndexFund.sol, function withdrawWithPermission()
+JETFINDER.sol#L1071
+JETFINDER.sol#L1185
+JIMBOY contract, various admin-only functions (e.g., `setFee`, `toggleSwap`, etc.)
+JIMBOY contract, various admin-only functions (e.g., `setFee`, `toggleSwap`, etc.)
+JIMBOY contract, various admin-only functions (e.g., `setFee`, etc.)
+JIMBOY.sol#L319,323,326
+JLT.sol
+Jesus 2.0 contract, Jesus.sol#L522
+Joke contract, fee-setting functions
+Joke contract, token management functions
+Joke contract, transaction management functions
+KARMA.sol#L639
+KARMA.sol#L650
+KARMA.sol#L732
+KARMMToken.sol#L665, function blacklistAddress
+Karma.sol#L537,610
+KlumsyFatChicken.sol, contract ownership mechanisms
+KlumsyFatChicken.sol, contract ownership mechanisms
+L19 - Stable Compiler Version
+LFGdoge contract, various functions
+LOPE Contract (Implementation)
+Line #563
+Line 1159-1242, _handleLottery function
+Line 1159-1242, _handleLottery function
+Line 586-597, insertUser function
+Line 586-597, insertUser function
+Line 621-629, addWinner function
+Line 621-629, addWinner function
+LinerPowerPoint.sol
+LinerPowerPoint.sol#L470
+LinerPowerPoint.sol#L476
+Lines #478, #484
+LiquidityGeneratorToken: transfer
+LittlePony contract (functions with `onlyOwner` modifier)
+LybraWstETHVault, LybraWBETHVault, and LybraRETHVault contracts
+MIGHTYCHIMP.sol#L686
+MNTNToken contract, function approve, line 736
+MNTNToken contract, function burn, line 746
+MOLLARS.sol#L382
+MOVEZ's smart contract ownership.
+Magneto's smart contract
+Main Contract
+Main Contract (SWC-1 03)
+Main Contract, SELFDESTRUCT instruction
+Main Contract, ether withdrawal functionality
+Main Contract, reentrancy attack vulnerability
+Main contract
+Main contract
+Main contract
+Main contract
+Main contract
+Main contract
+Main contract, ERC20Mintable, state variable: _mintingFinished, function: finishMinting
+MarvinInu.sol#L1060,1068
+MarvinInu.sol#L1183,1302
+MasterChef (Pool allocation)
+MasterChef contract, `updateMulitplier` function
+MasterChef contract, setMigrator() function, migrate() function
+Max Transaction Function
+Maximum_Token.sol
+MemeFarm contract
+MemeFarm contract, various admin functions
+Meta contract, various functions (e.g., `setBuyTaxes`, `setSelTaxes`, `transferToAddressETH`)
+Meta contract, various functions (e.g., `setMarketPairStatus`, `setIsTxLimitExempt`)
+MetaBros's smart contract owner
+MetaSantaFloki.sol, line 24585835961B44d28dd9261E10551C2706076b6c
+Milesinu contract, specifically the Owner role
+Milesinu contract, specifically the lock and renounceOwnership functions
+MineBNB.sol#L468,479,484,489,532
+MineBNB.sol#L548,553
+Mint function
+Mint function
+Mint function
+MitaoCat.sol#L421
+Modifier launchRestrict
+MoriaUniverse Contract
+Mrs Cheems' smart contract, token contract address 0x690c3D6B89A102A31916ff87Ac42262bc564379F
+Multiple contracts (CoreBaseFunc, CoreSetting, StakePool, Vault, Membership, PoolSetting, InterestVault, PriceFeeds_BSC)
+Multiple functions in the AbsToken contract (e.g., setLimitEnable, setisMaxEatExempt, transferToAddressETH, etc.)
+Multiple functions related to ownership and configuration.
+NDAPProtocol implementation (Ownable, WhitelistedRole)
+NFTMarvelFan contract, includeInReward() function
+NINJATURTLES contract, _mint() function
+NINJATURTLES.sol, function setIsBlacklisted
+NINJATURTLES.sol, function setIsBlacklisted
+NINJATURTLES.sol, function setSniperTaxEnabled
+Nabana Token contract, Nabana.sol#L1958
+Nabana Token contract, Nabana.sol#L2076,2130
+NonceChanged configuration circuit (mpt-circuit/src/gadgets/mpt_update.rs#1209-1228)
+Not specified
+Novawchi contract, burn function
+Novawchi.sol (contract)
+Novawchi.sol (contract)
+OneHot primitive (constraint_builder/binary_column.rs#29-37 and mpt-circuit/src/gadgets/one_hot.rs#14-30)
+OpenZeppelin contracts
+Oracula.sol, _transfer(address _from, address _to, uint256 _amount) function
+Ouka Inu's smart contract
+Ovencoin.sol, mint function
+Ownable contract, BEP20 contract (transfer, approve, etc.)
+Ownable.sol (transferOwnership function)
+Owner permissions
+Owner privileges
+Owner privileges
+Owner privileges checklist
+Owner privileges checklist
+Owner role, increaseAllowanc() function
+PAUSE CONTRACT, Elite Code’s smart contract
+PEPESMOKING.sol#L1184
+PETWARS contract
+PETWARS contract
+POC_ERC20.sol, POC_BEP20.sol; functions: pegin_submit, pegout_submit
+POPO contract
+PPIG.sol#L526,533
+PSM contract
+PastryPunks.sol
+PastryPunks.sol
+PastryPunks.sol
+Payable method
+Payable methods in the contract
+PaymentVault.sol
+PaymentVault.sol, function initialize()
+PaymentVault.sol, functions like renounceOwnership and transferOwnership
+PepeEconomyToken.sol (contract)
+PepeHalloweenFloki.sol#L212
+Pie Share Token contract, address management function
+Pie Share Token contract, fee-related function
+Pie Share Token contract, token amount management function
+Pixel Kings' smart contract, owner privileges (BLACKLIST, BURN FROM, PAUSE – UNPAUSE)
+Pool.sol
+PoolLending.sol (withdraw() function), CoreBorrowing.sol (repay(), rollover() functions)
+PresidentsSquidGame contract (updateUniswapV2Router, excludeFromFees, setAutomatedMarketMakerPair, setRewardAddress, setBuyFee, setSellFee, blacklistAddress)
+Process_Trigger_Now method
+Proxy Contract function
+Pupils Token's solidity source code, specifically in the ownership-related functions.
+PymeToken.sol (contract)
+PymeToken.sol (contract)
+PymeToken.sol (contract)
+QAP Token contract
+RLC_Contract.sol, transfer and transferFrom functions
+ROBOFLOKI Smart Contract, fee-related functions.
+RariFundManager.sol
+RariFundManager.sol
+RariGovernanceToken.sol
+RariGovernanceToken.sol
+RariGovernanceTokenDistributor.sol
+RariGovernanceTokenDistributor.sol in rari-governance-contracts
+Reflection Rewards functions
+Relying on other contracts (not specified)
+Reward Miner’s smart contract
+RichRabbitToken.sol#L1110
+Rick Coin contract, owner's account
+RouterAddress contract, `removeLiquidity` function
+Royal Riches Smart Contract, ACTIVE OWNERSHIP
+Runwin's smart contract (Contract address: 0xE1AFb90aB42AaE4B8eea659304A1E5B17030dfaA)
+SCAI.sol#L306
+SCIP.sol#L946
+SHYTCOIN.sol#L491
+SLEEPZ.sol
+SPAY contract, forceConsiderAsSnipe() function
+SW C-1 03
+SW C-1 03
+SW C-1 04
+SW C-1 05
+SW C-1 06
+SW C-10 4
+SW C-11 9
+Saitama
+ShadowFi's smart contracts
+Shinjiru Inu contract, burn logic
+SimpleStake contract
+SimpleStake contract
+SitoCash Implementation_contract owner functions (e.g., renounceOwnership, transferOwnership)
+SlappyCat._decimals (SlappyCat.sol#354), SlappyCat._name (SlappyCat.sol#352), SlappyCat._symbol (SlappyCat.sol#353)
+SlappyCat.claimStuckTokens(address) (SlappyCat.sol#563-572)
+SlappyCat.constructor().router (SlappyCat.sol#402), SlappyCat._tTotal (SlappyCat.sol#357), SlappyCat._rTotal (SlappyCat.sol#358)
+SlappyCat.includeInReward(address) (SlappyCat.sol#548-559)
+Smart Contract
+Smart Contract
+Smart Contract
+Smart Contract
+Smart Contract
+Smart Contract Max Transaction Functionality
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner
+Smart Contract Owner (0x2ce227657cca2ae088c3d621542e6b23917dba8b)
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner Privileges
+Smart Contract Owner address 0x6e838299116e428d73e5070d47a8782708fb7414
+Smart Contract Owner functionality
+Smart Contract Owner privileges
+Smart Contract Owner, Function Modules
+Smart Contract Owner, Function Modules
+Smart contract
+Smart contract
+Smart contract
+Smart contract analysis
+Smart contract owner
+Smart contract owner
+Smart contract owner (0xf922969340b2be91dd19884a5c9c3d8a7544eaf7)
+Smart contract owner functionality
+Smart contract owner privileges
+Smart contract owner privileges
+Smart contract owner privileges
+Smart contract owner privileges
+Smart contract owner's private key
+Smart contracts deployed on a blockchain
+SmartBaryFactory contract
+SmartBaryFactory contract, functions with onlyOwner modifier (setPool(), withdrawMultiplePool(), withdrawPoolTokens(), setRewardConfig(), withdrawMultiple())
+Solar.sol#L662
+Solidity compiler version
+Son Of Floki's smart contract, Owner Privileges
+SpotPlayArena.sol#L712
+SquidVerse 3D’s smart contract
+StandardERC20
+StarlinkSatire_BEP20.sol#L202,210
+StrategyCompoundPantherV2 contract, functions: tax, _depositTo, withdrawAll
+SuperSquidGame contract, fee-related functions
+SushiSwap contract, migration blocking function
+Swap address assignment
+TGP smart contract
+THRToken contract (functions with onlyOwner modifier)
+TLIFE_Coin.sol (mint function)
+TRITON.sol#L1453
+TRITON.sol#L1561
+TRUSTxGAMING contract, burn function
+TRUSTxGAMING.sol, _burn internal function
+Tax Fee contract
+TeaToken contract, functions setTaxFeePercent and setLiquidityFeePercent
+Teddi contract, various functions with onlyOwner modifier
+Token Contract, Function pauseTx
+Token Contract, Functions addToBlackList and removeFromBlackList
+Token Contract, Functions setBuyTimeLock, setSellTimeLock, setIsSellLockExempt, and setIsBuyLockExempt
+Token contract, _tokenTransfer() function
+Token contract, burn logic
+Token contract, lock() and unlock() functions
+Token transfer functions
+Token.sol
+Token.sol contract, compiler version
+Token.sol#L295
+Token.sol#L365
+TorWallet.sol#L415
+Trading Disable Functions
+Transaction Fee Function Module
+Transfer flow, swap functionality
+Transfer function
+Transfer function, GetOwner() function
+Transfer functionality
+Treasury contract
+TrebolToken.sol#L36
+TrumpToken contract, fee structure
+Unknown
+Unspecified function or location in the Odesis contract.
+VRAI.sol#L585
+Various admin functions in the StackUp contract
+Various admin functions in the StackUp contract
+Various contract functions (_takeLiquidity, swapAndLiquify, addLiquidity)
+Various contracts and functions
+Various contracts and functions (e.g., `transferFrom`, `_transfer`, `withdrawDividend`, etc.)
+Various functions
+Various functions (e.g., `setMarketPairStatus`, `setIsTxLimitExempt`, etc.) in the `bsc` contract.
+Various functions (e.g., `setMarketPairStatus`, `setIsTxLimitExempt`, etc.) in the `bsc` contract.
+Various functions (e.g., swapExactTokensForETHSupportingFeeOnTransferTokens, _transfer, updateStakingAmounts)
+Various functions (e.g., transfer, approve)
+Various functions (forbidMint, setFees, etc.)
+Various functions (stopSwap, setBurnFee, setMarketFee, etc.)
+Various functions in Auth, IDEXFactory, IDEXRouter, IDividendDistributor, and EverUp contracts
+Various functions in BybetTokenERC20 contract
+Various functions in EverUp and DividendDistributor contracts
+Various functions in TokenTool implementation (e.g., setMarketPairStatus, setIsTxLimitExempt)
+Various functions in the Auth and DOGEMOON contracts
+Various functions in the CHITAVERSE contract (e.g., setFees, setMaxWallet, setIsFeeExempt)
+Various functions in the IMOV contract.
+Various functions in the MajorDOGE contract (e.g., setBuyTaxes, setSellTaxes, etc.)
+Various functions in the MajorDOGE contract (e.g., setMarketPairStatus, setIsTxLimitExempt, etc.)
+Various functions in the SimpleStake contract (e.g., setWhitelist, setBotBlacklist, transferOwnership)
+Various functions in the SpaceCat contract (e.g., setBuyTaxes, setSelTaxes)
+Various functions in the SpaceCat contract (e.g., setMarketPairStatus, setIsTxLimitExempt)
+Various functions in the SuperMoonLotto contract
+Various functions in the TokenDistributor contract
+Various functions in the ZOUTBREAK contract implementation
+Various functions in the `GoatWolf` contract (e.g., `claimStuckTokens`, `setAutomatedMarketMakerPair`, etc.)
+Various functions using pair addresses
+Various functions with potential reentrancy risks
+Various functions, including claimStuckTokens and claimStuckBNB
+WOWSale, buyTokens function
+WOWToken
+WOWToken, approve function
+XMasGrok.sol
+YUG.sol, Core Functionality
+YUG.sol, mint function
+YYDS.sol, tokenPrice() function
+Yell contract, burn function
+YuGiOhProtocol contract, _sendToBurn() function
+ZangAi.sol#L694
+ZeusPet.sol#L231
+_burn() function
+_reflectFee function
+_reflectFee() function
+_safeMint function within the mint function
+_takeburnFee()
+_transferBothExcluded(), _transferStandard(), _transferToExcluded(), _transferFromExcluded()
+`Bnt` role in `bntFromSown` function
+`Bnt` role in `sownFromBnt` function
+`SellFee` function
+`approve` function
+`assembly` block in the `add()` function (lines 524-527)
+`blacklistAddress` function
+`mint` function in `RunwinToken` contract
+`mint` function in `https://bscscan.com/address/0xd61b85636b4a5834c1e8a196da7218cebbf76c36#code#L256`
+`setBuyFee` and `setSellFee` functions
+`totalSupply()` function
+active smart contract owner
+addToBlackList function
+approve and transfer functions
+authorize function
+bbi.sol, function buyBBITokens
+blackList function
+bsc.sol#L559
+bsc.sol#L677
+bullstoken.sol#L629
+burn and mint functions
+burn function, Metano contract
+burn() function
+burnAmount and feeAmount calculation
+burnSupply() function
+burnTokens function
+claimRewardExpress function
+collectFee() function
+contract(sol#L481
+contract.sol#879
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1
+contract.sol#L1,L892
+contract.sol#L1004
+contract.sol#L1007,1015,1023
+contract.sol#L1011
+contract.sol#L1026,1032,1076
+contract.sol#L1030
+contract.sol#L1045, 1049, 1054, 1060
+contract.sol#L1050
+contract.sol#L1051
+contract.sol#L1062,1057,1067
+contract.sol#L1070
+contract.sol#L1076
+contract.sol#L1084,1087,1097
+contract.sol#L1088
+contract.sol#L1094
+contract.sol#L1104,1121
+contract.sol#L1110
+contract.sol#L1110,1116
+contract.sol#L1117, 1104
+contract.sol#L1142,1173
+contract.sol#L1147, function setTransferTax
+contract.sol#L1155,1168
+contract.sol#L1156,1160,1164
+contract.sol#L1165,1178
+contract.sol#L1171,1179
+contract.sol#L1172
+contract.sol#L1182
+contract.sol#L1184
+contract.sol#L1184
+contract.sol#L1188
+contract.sol#L1190
+contract.sol#L1193
+contract.sol#L1203,1207,1211,1215
+contract.sol#L1210
+contract.sol#L1229
+contract.sol#L1239
+contract.sol#L1273
+contract.sol#L1276
+contract.sol#L1293
+contract.sol#L1293
+contract.sol#L1305
+contract.sol#L1326,995,1027
+contract.sol#L1352
+contract.sol#L1355
+contract.sol#L1360,1365,1370
+contract.sol#L1374,L11730,L1424
+contract.sol#L1396,1401,1406
+contract.sol#L1408,1413,1418
+contract.sol#L1413,L1418,L1423,L1428
+contract.sol#L1422, 1426, 1430, 1434
+contract.sol#L1450
+contract.sol#L1458 (mint function)
+contract.sol#L1484
+contract.sol#L1484, function setAllFeePercent
+contract.sol#L1485
+contract.sol#L1496
+contract.sol#L1504
+contract.sol#L1511
+contract.sol#L1520
+contract.sol#L1573
+contract.sol#L1584,1591
+contract.sol#L1609
+contract.sol#L1656
+contract.sol#L1759
+contract.sol#L1769,L1809
+contract.sol#L1774
+contract.sol#L1796
+contract.sol#L1845
+contract.sol#L194,206 (MT - Mint Tokens)
+contract.sol#L1960, 2014
+contract.sol#L2008
+contract.sol#L2034
+contract.sol#L2034
+contract.sol#L2074
+contract.sol#L2088,2109,1744
+contract.sol#L2187,2190
+contract.sol#L221
+contract.sol#L2228
+contract.sol#L2256
+contract.sol#L240
+contract.sol#L285,354,358,373
+contract.sol#L289
+contract.sol#L289
+contract.sol#L300
+contract.sol#L301,L309
+contract.sol#L302,323
+contract.sol#L304
+contract.sol#L304
+contract.sol#L304
+contract.sol#L309
+contract.sol#L323 (function _funTransfer)
+contract.sol#L334
+contract.sol#L362
+contract.sol#L362,367
+contract.sol#L374
+contract.sol#L376
+contract.sol#L383
+contract.sol#L389
+contract.sol#L394
+contract.sol#L398,410
+contract.sol#L404
+contract.sol#L407
+contract.sol#L418,420
+contract.sol#L425
+contract.sol#L426
+contract.sol#L433,L441,L447,L452
+contract.sol#L448
+contract.sol#L452
+contract.sol#L454-470
+contract.sol#L465
+contract.sol#L468
+contract.sol#L474,541
+contract.sol#L478
+contract.sol#L486
+contract.sol#L486
+contract.sol#L486
+contract.sol#L487
+contract.sol#L492
+contract.sol#L497
+contract.sol#L497
+contract.sol#L497 (mint function)
+contract.sol#L499
+contract.sol#L499, function mint
+contract.sol#L501
+contract.sol#L501
+contract.sol#L502
+contract.sol#L502
+contract.sol#L502
+contract.sol#L502
+contract.sol#L511,518,522
+contract.sol#L513,517,522
+contract.sol#L515
+contract.sol#L515, L516, L525, L534
+contract.sol#L521
+contract.sol#L521 (setBuyTaxes function)
+contract.sol#L521,L466
+contract.sol#L521,L524,L527
+contract.sol#L523
+contract.sol#L523,526,529
+contract.sol#L526,529,532 (function)
+contract.sol#L529
+contract.sol#L533,630
+contract.sol#L534
+contract.sol#L535, 545
+contract.sol#L536
+contract.sol#L536
+contract.sol#L536 (function manage_bl)
+contract.sol#L543
+contract.sol#L544, 552
+contract.sol#L545
+contract.sol#L545, 553
+contract.sol#L549, 557
+contract.sol#L550, 557
+contract.sol#L551
+contract.sol#L551,557
+contract.sol#L553
+contract.sol#L553
+contract.sol#L553
+contract.sol#L553
+contract.sol#L554
+contract.sol#L557
+contract.sol#L557, 565
+contract.sol#L558,561
+contract.sol#L561, 571, 664, 773
+contract.sol#L564,L663
+contract.sol#L567
+contract.sol#L573
+contract.sol#L573,770
+contract.sol#L577
+contract.sol#L578
+contract.sol#L580,954
+contract.sol#L581
+contract.sol#L581,565
+contract.sol#L583
+contract.sol#L584
+contract.sol#L586,594
+contract.sol#L586,L602
+contract.sol#L592
+contract.sol#L600,604,608
+contract.sol#L612,585
+contract.sol#L614
+contract.sol#L616
+contract.sol#L617
+contract.sol#L619
+contract.sol#L62
+contract.sol#L621, 626, 631, 639
+contract.sol#L624,L628
+contract.sol#L631
+contract.sol#L632,647
+contract.sol#L632,676 (setFees and setDeadBlocks functions)
+contract.sol#L633
+contract.sol#L634
+contract.sol#L634
+contract.sol#L635,639,643
+contract.sol#L636
+contract.sol#L636,641,646
+contract.sol#L637,648
+contract.sol#L638
+contract.sol#L640
+contract.sol#L640
+contract.sol#L640,492
+contract.sol#L640,644,648
+contract.sol#L642
+contract.sol#L644
+contract.sol#L644
+contract.sol#L644,L648,L652, functions setTaxFeePercent, setDevFeePercent, and setLiquidityFeePercent
+contract.sol#L646
+contract.sol#L656,759
+contract.sol#L658, 677, 757
+contract.sol#L658, 759
+contract.sol#L658, 760
+contract.sol#L658,677,757
+contract.sol#L662
+contract.sol#L662
+contract.sol#L662, 681, 764
+contract.sol#L663
+contract.sol#L663
+contract.sol#L670
+contract.sol#L670, 689, 772
+contract.sol#L671
+contract.sol#L672, L676
+contract.sol#L672,676
+contract.sol#L674, function setFees
+contract.sol#L677
+contract.sol#L680
+contract.sol#L682,784
+contract.sol#L684
+contract.sol#L685, 691, 696
+contract.sol#L692
+contract.sol#L692
+contract.sol#L692
+contract.sol#L693 (MT - Mint Tokens)
+contract.sol#L696
+contract.sol#L696
+contract.sol#L697
+contract.sol#L699,L801
+contract.sol#L708
+contract.sol#L722,726
+contract.sol#L729
+contract.sol#L730
+contract.sol#L731
+contract.sol#L732
+contract.sol#L735
+contract.sol#L737
+contract.sol#L737
+contract.sol#L738,845
+contract.sol#L742, function "_burn"
+contract.sol#L743
+contract.sol#L744
+contract.sol#L751, 806
+contract.sol#L752, 771, 859
+contract.sol#L757,L760,L787
+contract.sol#L759,880
+contract.sol#L760,764
+contract.sol#L769
+contract.sol#L779
+contract.sol#L783, function _setTaxFee
+contract.sol#L787
+contract.sol#L790,793,796,799,802,805
+contract.sol#L799
+contract.sol#L801
+contract.sol#L804
+contract.sol#L810, 851, 694
+contract.sol#L824,828
+contract.sol#L831, 837
+contract.sol#L839,853,883
+contract.sol#L841,846,851,856
+contract.sol#L841,846,851,856
+contract.sol#L848, 834, 880, 721
+contract.sol#L850
+contract.sol#L851, function "mint"
+contract.sol#L852
+contract.sol#L862 (mint function)
+contract.sol#L874,915
+contract.sol#L882,883,887
+contract.sol#L883, 887
+contract.sol#L885, L889, L893, L897
+contract.sol#L887,L891
+contract.sol#L895
+contract.sol#L903,917
+contract.sol#L903,L906,L909
+contract.sol#L912
+contract.sol#L912
+contract.sol#L917
+contract.sol#L919
+contract.sol#L920
+contract.sol#L921, L925, L934
+contract.sol#L925,L936
+contract.sol#L926,930,934
+contract.sol#L934,977 (MT - Mint Tokens)
+contract.sol#L953
+contract.sol#L955,926
+contract.sol#L956,960
+contract.sol#L965,969,973
+contract.sol#L976
+contract.sol#L989, 993, 997
+contract.sol#L997
+contracts/GODFATHER.sol#L287
+contracts/JasonInu.sol#L559
+contracts/Pry.sol#L1209
+contracts/WorldToken.sol
+contracts/cover/CoverData.sol, function addCoverOwner
+contracts/honeyether.sol#L1763,1772,1781,1790
+contracts/honeyether.sol#L2384
+contracts/pool/StakersPool.sol, function claimPayout and _convertTokenforExactPaymentToken
+distributeDividends() function
+distributeUSDTDividends() function
+function Contract_SetUp_03__Wallet_Limits(uint256 Max_Tokens_Per_Transaction, uint256 Max_Total_Tokens_Per_Wallet) external onlyOwner;
+function Launch_Settings_01__Blacklist_Bots(address Wallet, bool true_or_false) external onlyOwner;
+function Launch_Settings_03__OpenTrade() external onlyOwner;
+function blacklistAddress(address account, bool value)
+function disruptiveTransfer(address recipient, uint256 amount) public payable returns (bool)
+function mint(uint256 amount) public onlyOwner returns (bool)
+function transferFrom (#L327-340)
+functions setTaxFeePercent, setDevFeePercent, setLiquidityFeePercent, and setMaxTxPercent
+functions setTokenRewardsFee, setLiquiditFee, setMarketingFee
+hoop.sol, function: constructor
+hoop.sol, function: mint
+hoop.sol, function: setTotalSupply
+https://bscscan.com/address/0x048FFa8aAE293470932388b615A90A8265bFB2, function setTaxFeePercent
+https://bscscan.com/address/0x1511cD02655926Ee9B2ddEBf4726B7ab5d005b9e#code#L1640,L644,648
+https://bscscan.com/address/0x205afd08cefe438377a0abc5a20cb4462e1a8c5c #code#L285
+https://bscscan.com/address/0x205afd08cefe438377a0abc5a20cb4462e1a8c5c #code#L300
+https://bscscan.com/address/0x23189B77FF454C0F20835aA02B481D029701b707#code#L594,L598
+https://bscscan.com/address/0x289bf7f7f4d474318f86d2213f51c32360d79fbe#contracts#L1092
+https://bscscan.com/address/0x289bf7f7f4d474318f86d2213f51c32360d79fbe#contracts#L611
+https://bscscan.com/address/0x2df0c13487efdf4eb7f6c042273b7aca781b29a0#code#L1008,L1014,L1020
+https://bscscan.com/address/0x2df0c13487efdf4eb7f6c042273b7aca781b29a0#code#L1063
+https://bscscan.com/address/0x2df0c13487efdf4eb7f6c042273b7aca781b29a0#code#L1228
+https://bscscan.com/address/0x2df0c13487efdf4eb7f6c042273b7aca781b29a0#code#L1234
+https://bscscan.com/address/0x3d8114ea0210237ba04830c8c2c36c663ab2f772#code#L1691
+https://bscscan.com/address/0x4a7c3e4598fe45096accde1ffaa010336d5fc1d4#code#L1000
+https://bscscan.com/address/0x547C927Dc80c0F94A3825C805D725a69aB16DD6E#code#L1081,L1088
+https://bscscan.com/address/0x547C927Dc80c0F94A3825C805D725a69aB16DD6E#code#L1126
+https://bscscan.com/address/0x547C927Dc80c0F94A3825C805D725a69aB16DD6E#code#L1378
+https://bscscan.com/address/0x54ef94beb6f890860f6bcee78b16b58613034771#code#L631
+https://bscscan.com/address/0x54ef94beb6f890860f6bcee78b16b58613034771#code#L727,L734
+https://bscscan.com/address/0x5cbf496cfc327f8051c7f58e699942920b33db3d#code#L897,L901
+https://bscscan.com/address/0x62bC448A508499fb54479CC7a6fA79C2D8f16cDe#contracts#L388
+https://bscscan.com/address/0x6aece5a72093bc46ff7302895f5e9d0bd1346bfa#code#L1038
+https://bscscan.com/address/0x6aece5a72093bc46ff7302895f5e9d0bd1346bfa#code#L1256
+https://bscscan.com/address/0x7596bA3C5d26604470C7a3150CF1105966121b1E #code#L1030,L1034,L1037 (setReflectionFee function)
+https://bscscan.com/address/0x8983a6f5b70315f9373d39e14de5afeabf835588#c ode#L285
+https://bscscan.com/address/0x8983a6f5b70315f9373d39e14de5afeabf835588#c ode#L921,L925,L934
+https://bscscan.com/address/0x8983a6f5b70315f9373d39e14de5afeabf835588#code#L1001,L1005,L1009
+https://bscscan.com/address/0x8983a6f5b70315f9373d39e14de5afeabf835588#code#L1145
+https://bscscan.com/address/0x8983a6f5b70315f9373d39e14de5afeabf835588#code#L841
+https://bscscan.com/address/0x8d37cA3285a93e7E2bD50747a57c87EBf738c395#code#L829,L833,L837,L841,L845
+https://bscscan.com/address/0x8d37cA3285a93e7E2bD50747a57c87EBf738c395#code#L874,L879
+https://bscscan.com/address/0x9F13F58bFb28Bd84e8C885C47C34D9f648903ea1 #code#L527,L530,L533
+https://bscscan.com/address/0xD394C1284A98a469D354182bF6ED5EF79A83BE3f#code#L917
+https://bscscan.com/address/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc #L1145
+https://bscscan.com/address/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc #L1588
+https://bscscan.com/address/0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad#code#L1015
+https://bscscan.com/address/0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad#code#L888,L892
+https://bscscan.com/address/0xb6b0f5dd8b12cf7f4a3ebe7e3e6e97b56b02d0ad#code#L964
+https://bscscan.com/address/0xbf5c0dcfd2925fc2f4324cf3e0c9f31c0e36f771#code#L846, function setTaxFeePercent
+https://bscscan.com/address/0xcb9fd3784e9f369c4ad3bd4cb0d3a21acbf23a51#code#L1083,L1087,L1091,L1095,L1099,L1103
+https://bscscan.com/address/0xcb9fd3784e9f369c4ad3bd4cb0d3a21acbf23a51#code#L1116
+https://bscscan.com/address/0xcb9fd3784e9f369c4ad3bd4cb0d3a21acbf23a51#code#L1616
+https://bscscan.com/address/0xcc21ec2c6867ac6efd9ce158996ff47ab5743b2d#code#L1008
+https://bscscan.com/address/0xcc21ec2c6867ac6efd9ce158996ff47ab5743b2d#code#L1048
+https://bscscan.com/address/0xd41c4805a9a3128f9f7a7074da25965371ba50d5#code#L1167,L1171,L1643
+https://bscscan.com/address/0xd41c4805a9a3128f9f7a7074da25965371ba50d5#code#L1370
+https://bscscan.com/address/0xd41c4805a9a3128f9f7a7074da25965371ba50d5#code#L1443
+https://bscscan.com/address/0xd8c152d3b94084d7c8ec951e81fbbfc4b6de5b2b#code#L1351
+https://bscscan.com/address/0xd8c152d3b94084d7c8ec951e81fbbfc4b6de5b2b#code#L1363,L1379
+https://bscscan.com/address/0xd8c152d3b94084d7c8ec951e81fbbfc4b6de5b2b#code#L1392
+https://bscscan.com/address/0xe7c8f3d8422c185fd49d9fcc0b72f1d5d8614a44#code#L648,L644,L652
+https://bscscan.com/address/0xf59bd06F5640dAdd39E17755A1D00d4F3B965327#codeL573
+https://polygonscan.com/address/0xb7ba576c526cfafc77e47b4959eb6c67504d5425#code#L983,L987
+https://www.bscscan.com/address/0x41B2BA88a0DE89886277d2e8C083884B6dF2ea47#code#L152
+https://www.bscscan.com/address/0x4D5f45C030627c9CA6D555119A0a1Ed290AB1140#code#L122
+https://www.bscscan.com/address/0x4D5f45C030627c9CA6D555119A0a1Ed290AB1140#code#L166
+iPay's smart contract ownership
+manage_blacklist function
+marketingWallet function, getAllTaxes method
+mint function (https://bscscan.com/address/0xc5419b49c60521116152fA47481b70CD8D0B74 2E#code#L588)
+mint function in BitPump contract
+mint function in CUSD contract
+mint function in PowabitToken contract
+multiSendETH function
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a (general warning)
+n/a (general warning)
+name() should be declared external: - SlappyCat.name() (SlappyCat.sol#454-456) and 14 more similar issues
+pauseTx function
+processDividendTracker function
+renounceOwnership, transferOwnership functions in Ownable contract
+setBlackList function in the AbsToken contract
+setBuyFees function (https://bscscan.com/address/0x2629eb2edef0f45b9f250f4ec934bbc8628dbaca #code#L1576)
+setChartityFeePercent function (lines 1206, 1210, 1214, 1218)
+setDividendFee, setFundFee, setOtherFee, and setNftFee functions
+setFees function
+setIsBuyLockExempt and setIsSellLockExempt functions
+setMaxTxAbsolute function
+setMaxWalletPercent() function
+setTaxFeePercent function (https://bscscan.com/address/0xcc21ec2c6867ac6efd9ce158996ff47ab5743b2d#code#L887,L821)
+setTrueDefiRouter() function
+setTxLimit function
+staking function, line number 1076
+swapTokensAtAmount threshold
+swapTokensForEth function
+swapTrading function
+token transfer function
+tradingstatus function
+transfer and transferFrom functions, getLockedAmount function (contract.sol#719-724)
+transfer function, Line No: 167
+transferFrom function
+transferFrom function, Caramel token contract
+transferFrom function, Line No: 131
+transferOwnership function
+transferOwnership function
+transferOwnership function
+unidentified location in the contract
+unknown (function not specified)
+updateFees function
+updateUniswapV2Router
+updateUniswapV2Router function
+vBsc contract
+various functions in the DOGEMOON contract
+withdraw(), recoverETHfromContract(), recoverTokensFromContract()
+withdrawNft function in Withdrawable contract
+withdrawWithPermission() function in IndexFund.sol
+“Invalid creation” error handling circuit (evm_circuit/execution/error_invalid_creation_code.rs#36-67)

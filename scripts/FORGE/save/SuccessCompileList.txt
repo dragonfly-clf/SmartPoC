@@ -1,0 +1,3999 @@
+../dataset/contracts/Wraith Full Smart Contract Security Audit
+../dataset/contracts/elonmoon
+../dataset/contracts/Blazt Chain Smart Contract Audit
+../dataset/contracts/ShortTesla (2)
+../dataset/contracts/SmartContract_Audit_Solidproof_TravelCare
+../dataset/contracts/sfi
+../dataset/contracts/Byterocket-Senken Settlements
+../dataset/contracts/Decraft Game
+../dataset/contracts/Maison Capital
+../dataset/contracts/maticlaunchpad
+../dataset/contracts/mntc
+../dataset/contracts/Transhuman Coin Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Humanized_AI_Presale
+../dataset/contracts/CryptoPupper_0x0CaA66c341c942Cd811Be3f916FaDB6181131E21
+../dataset/contracts/PirateCash_1
+../dataset/contracts/mmt
+../dataset/contracts/DigimonX
+../dataset/contracts/13-btc
+../dataset/contracts/3-cc
+../dataset/contracts/ERON
+../dataset/contracts/3-csc
+../dataset/contracts/FutureGold-Audit-by-BlockSAFU
+../dataset/contracts/wte
+../dataset/contracts/SmartContract_Audit_Solidproof_TyltPoker
+../dataset/contracts/Tweelon_0xa5c17D266bdE7c68EEa59260ccfA004263Eda481
+../dataset/contracts/AltFolio_0x121BCf841e987CBC41541496100Fd5741C75C1c9
+../dataset/contracts/WWEINU_0xbF028533Dc12B312E350d711eB4082E3c4DE6643
+../dataset/contracts/cfrog
+../dataset/contracts/KissCoin_0xf9d7649B5955c0214bcCDe45AE63b95F524C5657
+../dataset/contracts/koki
+../dataset/contracts/bcsc
+../dataset/contracts/1-we
+../dataset/contracts/Next_AuditReport_InterFi
+../dataset/contracts/NinjaDoge Full Smart Contract Security Audit
+../dataset/contracts/1-megadoge
+../dataset/contracts/Atlas_0x804c1d39789403aC52C42B2aCc999BacF929d778
+../dataset/contracts/OceansFinance_0x7769d930BC6B087f960C5D21e34A4449576cf22a
+../dataset/contracts/GrimPad Full Smart Contract Security Audit
+../dataset/contracts/lep
+../dataset/contracts/saboinu
+../dataset/contracts/MoonOwlToken
+../dataset/contracts/web23
+../dataset/contracts/CareCoin_0x6B79d658baa3B5c7Fa7Dc5CcC61E09B6c725842c
+../dataset/contracts/rvz
+../dataset/contracts/pry
+../dataset/contracts/MomoToken
+../dataset/contracts/Gator
+../dataset/contracts/DotBit Full Smart Contract Security Audit
+../dataset/contracts/mob
+../dataset/contracts/ppepe
+../dataset/contracts/SCROOGE_0xfA1BA18067aC6884fB26e329e60273488a247FC3
+../dataset/contracts/3-spn
+../dataset/contracts/SmartContract_Audit_Solidproof_Monion
+../dataset/contracts/OnePunchMan_0xee345891Bb9EE427404C30ebC0E8Db90B8110F52
+../dataset/contracts/BuckSwap Full Smart Contract Security Audit
+../dataset/contracts/02_Smart Contract Audit Shopping_GSPI_Club
+../dataset/contracts/zxp
+../dataset/contracts/babydogeking
+../dataset/contracts/TomorrowWontExist Full Smart Contract Security Audit
+../dataset/contracts/business
+../dataset/contracts/srr
+../dataset/contracts/TERRAPAD
+../dataset/contracts/GLOW Full Smart Contract Security Audit
+../dataset/contracts/Petdia Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/DogeStep_0x6157D83703aaE75DebE12c460B1B0005CB80b060
+../dataset/contracts/Martian Dao
+../dataset/contracts/pomd
+../dataset/contracts/Hacken-unFederalReserve
+../dataset/contracts/MYKEY_Smart_Contract_Security_Audit_Report_en
+../dataset/contracts/NOOX
+../dataset/contracts/pepegame
+../dataset/contracts/DEXLToken Smart Contract Audit Report - QuillAudits
+../dataset/contracts/girldolls
+../dataset/contracts/HAECHI_AUDIT-THE9
+../dataset/contracts/ovg
+../dataset/contracts/CronosPad Smart Contract Audit Report - QuillAudits
+../dataset/contracts/ContractWolf_Audit_Metaverse_Kombat
+../dataset/contracts/thor6p
+../dataset/contracts/Hulda Token
+../dataset/contracts/MillennialCoin_0x6DA256A35B36daa34360E7Ad3B063AD8D2ebc220
+../dataset/contracts/lindaceo
+../dataset/contracts/aced
+../dataset/contracts/Lawtoken
+../dataset/contracts/SmartContract_Audit_Solidproof_DogaCoin
+../dataset/contracts/4-pig
+../dataset/contracts/PinkMoon Full Smart Contract Security Audit
+../dataset/contracts/gcpf
+../dataset/contracts/DictatorDOGE Smart Contract Audit Report - QuillAudits
+../dataset/contracts/tamc
+../dataset/contracts/dluffy
+../dataset/contracts/Porn Full Smart Contract Security Audit
+../dataset/contracts/FitDoge_0xEB934F0A2b371eE2B3e0Ab72178E22e6Df8Af971
+../dataset/contracts/SmartContract_Audit_Solidproof_Pofy
+../dataset/contracts/EverRisePro Full Smart Contract Security Audit
+../dataset/contracts/moses
+../dataset/contracts/Exonova Full Smart Contract Security Audit
+../dataset/contracts/PolyNuts Smart Contract Audit Report - QuillAudits
+../dataset/contracts/PeckShield-Audit-Report-ERC20-AVA-v1
+../dataset/contracts/K-Root Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Fam
+../dataset/contracts/Sparrow Token Full Smart Contract Security Audit
+../dataset/contracts/Champions League Smart Contract Audit Report - QuillAudits
+../dataset/contracts/CoviCoin
+../dataset/contracts/FrankInu_0xdC4c9bFBB37C7cDeeBc53C0BA5C7474FEA5E106D
+../dataset/contracts/sml
+../dataset/contracts/SmartContract_Audit_Solidproof_BabyBackDoge
+../dataset/contracts/BinanceFarm Full Smart Contract Security Audit
+../dataset/contracts/NFTQR
+../dataset/contracts/StepNBlack_0x6A09c0E9492f082E4E6C8b6C0496cF385aA8fe78
+../dataset/contracts/CLIP_202205101825
+../dataset/contracts/NFT_DRAGON_BALL_MARKETPLACE_Full_Smart_Contract_Security_Audit
+../dataset/contracts/ETHFanToken_0xB72962568345253f71A18318D67E13A282b187E6
+../dataset/contracts/OuseNFT_0xFaFfE2caF6A627909767E3b60d6C7D9e8D8b2224
+../dataset/contracts/Whallet
+../dataset/contracts/1-rick
+../dataset/contracts/DoubtFire Full Smart Contract Security Audit
+../dataset/contracts/mws
+../dataset/contracts/Verichains Public Audit Report - Football Battle Smartcontracts - v1
+../dataset/contracts/FifaChamps_0xd99564Ca3Bb8F128454E4D0762658f03e80701bb
+../dataset/contracts/AlexGitJob_1
+../dataset/contracts/Kryptview Community Token
+../dataset/contracts/isoma
+../dataset/contracts/Сloudia
+../dataset/contracts/tcrv
+../dataset/contracts/NoCapCoin Full Smart Contract Security Audit
+../dataset/contracts/pyme
+../dataset/contracts/pie
+../dataset/contracts/penny
+../dataset/contracts/QuillAudit-CrickDao_Smart_Contract_Audit_Report
+../dataset/contracts/MonkeyCoin Full Smart Contract Security Audit
+../dataset/contracts/zillionxo
+../dataset/contracts/BabyHodl_0xDAcCa73ea7b111Ebf56aA36C74A462b7C3D0243d
+../dataset/contracts/Nest Egg
+../dataset/contracts/SHAZAM_0x3d3d5aC7590201Cec07e7088145D17dA535645e3
+../dataset/contracts/FlokiRun_0x28790423AE6EbC58bd1c7105A3d4fd6FB101aF7b
+../dataset/contracts/1-hancock
+../dataset/contracts/867
+../dataset/contracts/SpideyFloki_AuditReport_InterFi
+../dataset/contracts/1-mrly
+../dataset/contracts/chika
+../dataset/contracts/pepevr
+../dataset/contracts/ovm
+../dataset/contracts/DOXXED
+../dataset/contracts/GameZilla Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/BankersDream_AuditReport_InterFi
+../dataset/contracts/1-ssn
+../dataset/contracts/SmartContract_Audit_Solidproof_GazLand
+../dataset/contracts/NoFUD_AuditReport_InterFi
+../dataset/contracts/hs
+../dataset/contracts/EverForkProtocol_0xbCf6a7aB11819ad4a5afFb65062Eb03A1C90f0Ac
+../dataset/contracts/YugCoin Smart Contract Audit Report - QuillAudits
+../dataset/contracts/SmartContract_Audit_Solidproof_Beri_v1
+../dataset/contracts/CryptoGamez Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-sland
+../dataset/contracts/growrich
+../dataset/contracts/FAME REWARD PLUS
+../dataset/contracts/xcap
+../dataset/contracts/GamingBull_0x9835BB5553308AFcA4FD4Ebd5A59e5EF8c4981a3
+../dataset/contracts/KUCOIN LAUNCHPAD Smart Contract Audit Report - QuillAudits
+../dataset/contracts/LooksRare
+../dataset/contracts/BigBabyDoge Full Smart Contract Security Audit
+../dataset/contracts/xts
+../dataset/contracts/1-wally
+../dataset/contracts/4-pdoge
+../dataset/contracts/PUFFY Finance
+../dataset/contracts/Send tip with crypto
+../dataset/contracts/Polestar Finance Full Smart Contract Security Audit
+../dataset/contracts/Finance Protocol
+../dataset/contracts/War Of Tribes
+../dataset/contracts/Hush
+../dataset/contracts/Elektra_0xA7BBE1A49d98DbC5D9C3B26C0Ae5333A93Bfac4f
+../dataset/contracts/BabyYorkie Full Smart Contract Security Audit
+../dataset/contracts/SafePanda
+../dataset/contracts/02_Smart Contract Audit_LaunchX_Token
+../dataset/contracts/MUSO Finance Full Smart Contract Security Audit
+../dataset/contracts/Eris Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-sgrok
+../dataset/contracts/nutgv2
+../dataset/contracts/MetaBotChain
+../dataset/contracts/Radio Hero Full Smart Contract Security Audit
+../dataset/contracts/a-star-network-staking
+../dataset/contracts/1-soul
+../dataset/contracts/Charity NFT Labs
+../dataset/contracts/ckng
+../dataset/contracts/ADAMUS Full Smart Contract Security Audit
+../dataset/contracts/MillStaking
+../dataset/contracts/MetaworldV2_0xb5ebfb5418f0586b1C39D6A9DC9A35481aC617EB
+../dataset/contracts/Baby Ethereum-Audit-by-BlockSAFU
+../dataset/contracts/trc
+../dataset/contracts/NFTBlackMarket
+../dataset/contracts/1-nowar
+../dataset/contracts/TheNewTag Full Smart Contract Security Audit
+../dataset/contracts/Safemars Inu Full Smart Contract Security Audit
+../dataset/contracts/1-shf
+../dataset/contracts/Safe Trip Finance 
+../dataset/contracts/Solidified-AquaFi_[21_Sept_2021]
+../dataset/contracts/YouDefi_0x5B73B9aEB1AD8D5A198a74c6F1843fc6bb69d0c5
+../dataset/contracts/2-ste
+../dataset/contracts/sips
+../dataset/contracts/fubiao
+../dataset/contracts/ethshib
+../dataset/contracts/GANGDOGE_0x14841D8386Fb8A48466d1eF77CF413Dead6a7Df3
+../dataset/contracts/MIDA_0x6CD13E1856286dE773a435C8Ba93A7C73A04F82d
+../dataset/contracts/$joke
+../dataset/contracts/MoonGalaxy
+../dataset/contracts/HAECHI_AUDIT-ConsightToken
+../dataset/contracts/DeepBlueGame
+../dataset/contracts/1Inch Exchange Smart Contract Audit - CoinFabrik Blog
+../dataset/contracts/Imperium
+../dataset/contracts/2-mmd
+../dataset/contracts/Forus_0xC54A4640907044283e8E4885090E205992B9813e
+../dataset/contracts/liquidlayer
+../dataset/contracts/SpookyShiba Full Smart Contract Security Audit
+../dataset/contracts/Cryptobanks
+../dataset/contracts/mnby
+../dataset/contracts/dogebank
+../dataset/contracts/SpaceSweepStake
+../dataset/contracts/Hacken-Fidometa-V2_231543
+../dataset/contracts/flov
+../dataset/contracts/ShitFace Inu Full Smart Contract Security Audit
+../dataset/contracts/AQUARI
+../dataset/contracts/SUZAKU Full Smart Contract Security Audit
+../dataset/contracts/BnbIncome Smart Contract Security Audit
+../dataset/contracts/ch
+../dataset/contracts/shibkiller
+../dataset/contracts/Powabit_0x5FDa925294F9e5B31b7c0e81Bad6BAD5b5E792eE
+../dataset/contracts/Invictus Full Smart Contract Security Audit
+../dataset/contracts/Hacken-ASYAGRO
+../dataset/contracts/FoxHood-Audit-by-BlockSAFU
+../dataset/contracts/ASVA Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Iosiro-SeaRoad Token Smart Contract Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_RainbowToken
+../dataset/contracts/VeldoraBSC Full Smart Contract Security Audit
+../dataset/contracts/blobo
+../dataset/contracts/SmartContract_Audit_Solidproof_NestEgg
+../dataset/contracts/Catge
+../dataset/contracts/Schrodinger_0x09419A4888Ab6AaCFfE8A0c79ecC40C5e64755c6
+../dataset/contracts/EverUp_0xE1d840C2CFFB3A451682DE7b4bdd111a8e6EaDb0
+../dataset/contracts/zpet
+../dataset/contracts/simpsonsinu
+../dataset/contracts/PixelKings_0x7444e37559a16c5c7337f41955Cd3BB04B28A114
+../dataset/contracts/moonboi
+../dataset/contracts/stelia
+../dataset/contracts/Soken-MoonWay
+../dataset/contracts/FLOKI2024 Smart Contract Audit
+../dataset/contracts/Grand Theft Crypto
+../dataset/contracts/2-roi
+../dataset/contracts/WARZONE (1)
+../dataset/contracts/ffn
+../dataset/contracts/CRE_SC-Audit-Report_25092023_SA-1322
+../dataset/contracts/TheChadToken Full Smart Contract Security Audit
+../dataset/contracts/CZ THE GOAT
+../dataset/contracts/PlanetNFT_0x098465a9Df1d9d42D37eAAEed987A9bC66259CF6
+../dataset/contracts/mmgirl
+../dataset/contracts/flop
+../dataset/contracts/mworld
+../dataset/contracts/wbbc
+../dataset/contracts/ContractWolf_Audit_Bullcoins
+../dataset/contracts/ABI_AuditReport_InterFi
+../dataset/contracts/NafterX Full Smart Contract Security Audit
+../dataset/contracts/FirstPumpDoge_0xB19a9F26956d3d3c162c07A2509359AB42E0013d
+../dataset/contracts/SafePit
+../dataset/contracts/Bull Shiba Inu Full Smart Contract Security Audit
+../dataset/contracts/RockyInu_AuditReport_InterFi
+../dataset/contracts/LarvaDAO-Audit-by-BlockSAFU
+../dataset/contracts/OFB Coin Full Smart Contract Security Audit
+../dataset/contracts/XBN Community Token Smart Contract Security Audit
+../dataset/contracts/ImmuneBytes-Xtransfer_Network_Final_Audit_Report
+../dataset/contracts/2023-08-scroll-zkEVM-wave2-securityreview
+../dataset/contracts/c7dao
+../dataset/contracts/Avefarm_0x891c2fe01263E1154eF0E4648F4C12d402AA8e3d
+../dataset/contracts/14-kong
+../dataset/contracts/wzm
+../dataset/contracts/Pride Full Smart Contract Security Audit
+../dataset/contracts/Grooot
+../dataset/contracts/ttn
+../dataset/contracts/nxt
+../dataset/contracts/BATMAN Full Smart Contract Security Audit
+../dataset/contracts/of
+../dataset/contracts/1-qbk
+../dataset/contracts/shibi
+../dataset/contracts/FootBallking
+../dataset/contracts/My Shiba Academia
+../dataset/contracts/Benefit Mine Standard Smart Contract Audit
+../dataset/contracts/AxeDAO
+../dataset/contracts/ContractWolf_Audit_CatDoge
+../dataset/contracts/1-spark
+../dataset/contracts/MATX Full Smart Contract Security Audit
+../dataset/contracts/safereum
+../dataset/contracts/Mancium_0xE0c05ec44775e4AD62CDC2eEcdF337aA7A143363
+../dataset/contracts/3-memes
+../dataset/contracts/homes
+../dataset/contracts/Sphynxcatmoon
+../dataset/contracts/tboss
+../dataset/contracts/Agile Technology Smart Contract Audit
+../dataset/contracts/SafuLab_0x100131eF1a86EA96BF8620E42BBe92bb58330cd3
+../dataset/contracts/TXGPRO
+../dataset/contracts/3-minu
+../dataset/contracts/SmartContract_Audit_Solidproof_BSocial
+../dataset/contracts/Raven X Full Smart Contract Security Audit
+../dataset/contracts/DuiToken
+../dataset/contracts/Everglide_0xCB3439d671fa52622B4957237310B9b62319D650
+../dataset/contracts/2-lunar
+../dataset/contracts/Intim8 Full Smart Contract Security Audit
+../dataset/contracts/2-fdoge
+../dataset/contracts/MetaMerce_MerceCommerce_Smart_Contract_Audit_Report_QuillAudits
+../dataset/contracts/DFS MAFIA Full Smart Contract Security Audit
+../dataset/contracts/12-cc
+../dataset/contracts/ApeWar-Audit-by-BlockSAFU
+../dataset/contracts/Spectra Full Smart Contract Security Audit
+../dataset/contracts/COWBOY TOKEN Full Smart Contract Security Audit
+../dataset/contracts/SafuFinance-Audit-by-BlockSAFU
+../dataset/contracts/BrowniesSwap
+../dataset/contracts/Mastermind_Games_Ascension_Full_Smart_Contract_Security_Audit
+../dataset/contracts/EloInu_AuditReport_InterFi
+../dataset/contracts/GarudaSwap Full Smart Contract Security Audit
+../dataset/contracts/SNOKI_0x4419DdbE87B716AA589C7ca8e6de58B483c42C01
+../dataset/contracts/OCW_AuditReport_InterFi
+../dataset/contracts/ShimaEnaga_0x2979BD552940471cee400dfC5C90086f361A8839
+../dataset/contracts/Shiba Shiru Full Smart Contract Security Audit
+../dataset/contracts/uraaa
+../dataset/contracts/1-world
+../dataset/contracts/WalterInu_0x42C1613dD2236CFd60B5cbEc846b5EAD71be99Df
+../dataset/contracts/ByTrade_Venture_Capital_SC-Audit-Report_23022023_SA-1006
+../dataset/contracts/Plastichero
+../dataset/contracts/DOJO
+../dataset/contracts/Soken-Argonon_Helium
+../dataset/contracts/ALLIUM
+../dataset/contracts/UmbrellaProtocol_0x2238FEFbb7f27A53a5f870021A30815Bd5023F6C
+../dataset/contracts/Meme10000x
+../dataset/contracts/kakashi
+../dataset/contracts/mnr
+../dataset/contracts/ANATION_0xE52eC5001b31Afb845cb325c14d1764065c6Ca0c
+../dataset/contracts/Happyburger
+../dataset/contracts/1-wuao
+../dataset/contracts/2-dgm
+../dataset/contracts/SmartContract_Audit_Solidproof_TheCollectiveCoin_V2
+../dataset/contracts/SmartContract_Audit_Solidproof_LegendaryArcher
+../dataset/contracts/SmartContract_Audit_Solidproof_Animalia
+../dataset/contracts/Tritanium
+../dataset/contracts/SmartContract_Audit_Solidproof_BabyDogeBillionaire
+../dataset/contracts/NasdaqVault_0x557E6C7367C4F781Bf44Cc51CDBb021E0D1B775E
+../dataset/contracts/slf
+../dataset/contracts/INSTINCT Full Smart Contract Security Audit_1
+../dataset/contracts/Terk Full Smart Contract Security Audit
+../dataset/contracts/Advon Smart Contract Audit Report - QuillAudits
+../dataset/contracts/10-bnb
+../dataset/contracts/PoodleFi_0xc9dBCff0448D330AAF1Dd78fc204370E5e54a797
+../dataset/contracts/reo
+../dataset/contracts/phtm
+../dataset/contracts/EverCoom Full Smart Contract Security Audit
+../dataset/contracts/BillionaireCat_0x17534dA60Daff58ee1d77EF4aEc6556E03Ff39B9
+../dataset/contracts/NEO CREDIT Full Smart Contract Security Audit
+../dataset/contracts/Decanect
+../dataset/contracts/Godzilla_AuditReport_InterFi
+../dataset/contracts/Art of War Full Smart Contract Security Audit
+../dataset/contracts/AnpanSwapRouter
+../dataset/contracts/metaweb3pad
+../dataset/contracts/4-joker
+../dataset/contracts/Climb Finance
+../dataset/contracts/aant
+../dataset/contracts/Satoshi
+../dataset/contracts/SmartContract_Audit_Solidproof_MetaShib
+../dataset/contracts/fanz
+../dataset/contracts/Iosiro-KOK Token Smart Contract Audit
+../dataset/contracts/Astrobabydoge
+../dataset/contracts/BNBMeta_0x73c624373C44ACaF2D2D8E47D95740a22509472b
+../dataset/contracts/rari-capital
+../dataset/contracts/DogBoss_0x86C86FfDC0482D8DD918FC657c3FC51C4a1E3e5C
+../dataset/contracts/TERRAPAD_1
+../dataset/contracts/ElfToken_AuditReport_InterFi
+../dataset/contracts/BOG-Token
+../dataset/contracts/METALUNA_0xe15a888A7268315Bc5855daC4593DC4444bb293d
+../dataset/contracts/SavePlanetEarth
+../dataset/contracts/Axie Cat Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_LandDropped
+../dataset/contracts/Bull Floki Inu Full Smart Contract Security Audit
+../dataset/contracts/SportemonGo Full Smart Contract Security Audit
+../dataset/contracts/1-mdy
+../dataset/contracts/ngr
+../dataset/contracts/PulseFeg Full Smart Contract Security Audit
+../dataset/contracts/Shori Inu
+../dataset/contracts/ressy
+../dataset/contracts/mspepe
+../dataset/contracts/QatarBet-Audit-by-BlockSAFU
+../dataset/contracts/BunnyVerse_0x072987D5B36aD8d45552aEd98879a7101cCdd749
+../dataset/contracts/SeaShell Finance
+../dataset/contracts/SmartContract_Audit_Solidproof_Choji_Inu
+../dataset/contracts/SmartContract_Audit_Solidproof_UniversalSWAP
+../dataset/contracts/cst
+../dataset/contracts/Tarality_Ecosystems
+../dataset/contracts/Verichains Public Audit Report - PiBridge Token - v1
+../dataset/contracts/icg
+../dataset/contracts/bcss
+../dataset/contracts/ApeBoys_0x1657E529A58f2321A40f838F25BD13C90D452eB4
+../dataset/contracts/Hacken-DeRace
+../dataset/contracts/moba
+../dataset/contracts/AnpanToken
+../dataset/contracts/ehro
+../dataset/contracts/ContractWolf_Audit_MOMO
+../dataset/contracts/olivia
+../dataset/contracts/INGRESS_0x7374Df1fD3B034B7d41c9C811a3A843fEc6511fb
+../dataset/contracts/shibgpt
+../dataset/contracts/edinu
+../dataset/contracts/BlackEyeGalaxy
+../dataset/contracts/pepe
+../dataset/contracts/Floki Dogefather
+../dataset/contracts/ZelaaNFT-Audit-by-BlockSAFU
+../dataset/contracts/Dough_AuditReport_InterFi
+../dataset/contracts/ContractWolf_Audit_DelfinoFinance
+../dataset/contracts/SmartContract_Audit_Solidproof_MetaShiba
+../dataset/contracts/Kuber Finance Full Smart Contract Security Audit
+../dataset/contracts/MelodityPS_AuditReport_InterFi
+../dataset/contracts/OHAYO
+../dataset/contracts/nico
+../dataset/contracts/oav
+../dataset/contracts/Bullmoon
+../dataset/contracts/Shibgeki
+../dataset/contracts/ITMYNFT_AuditReport_InterFi
+../dataset/contracts/mgas
+../dataset/contracts/Champion
+../dataset/contracts/DogeIpa-Audit-by-BlockSAFU
+../dataset/contracts/hst
+../dataset/contracts/afm
+../dataset/contracts/4-up
+../dataset/contracts/mgto
+../dataset/contracts/RowBlock
+../dataset/contracts/One Token Full Smart Contract Security Audit
+../dataset/contracts/mib
+../dataset/contracts/binancepi
+../dataset/contracts/EHIVE Full Smart Contract Security Audit
+../dataset/contracts/dexi
+../dataset/contracts/Critique_0xba3335E5f4DdB43eCdb9e36676a0A0930b26d148
+../dataset/contracts/Wealth Protocol
+../dataset/contracts/TCW Token Full Smart Contract Security Audit
+../dataset/contracts/Squid Game Smart Contract Audit
+../dataset/contracts/RealTrumpTokenV2 Full Smart Contract Security Audit
+../dataset/contracts/USTama
+../dataset/contracts/Hacken-Seedefi Fund
+../dataset/contracts/Ferret_AuditReport_InterFi
+../dataset/contracts/piunion
+../dataset/contracts/CryptoNaught Full Smart Contract Security Audit
+../dataset/contracts/PancakeTools
+../dataset/contracts/Crew Token
+../dataset/contracts/2-musk
+../dataset/contracts/Kaiken Shiba Full Smart Contract Security Audit
+../dataset/contracts/1-dgtl
+../dataset/contracts/spepe
+../dataset/contracts/Mintstarter_0xea4781281Aa9285D72D48E26A71745Dd38380802
+../dataset/contracts/EXIPTOKEN Smart Contract Audit Report - QuillAudits
+../dataset/contracts/SafeWolf Full Smart Contract Security Audit
+../dataset/contracts/SuperMegaHyperDoge Full Smart Contract Security Audit
+../dataset/contracts/CakeGame Finance
+../dataset/contracts/CHARIX TOKEN
+../dataset/contracts/BAD APES Full Smart Contract Security Audit
+../dataset/contracts/PolyLion
+../dataset/contracts/SpongeBob Square Full Smart Contract Security Audit
+../dataset/contracts/2-pdoge
+../dataset/contracts/1-mtk
+../dataset/contracts/SmartContract_Audit_Solidproof_Sinceredoge
+../dataset/contracts/ContractWolf_Audit_DragonKing
+../dataset/contracts/VELOX-Audit-by-BlockSAFU
+../dataset/contracts/Big-Cats-BSC-Smart-Contract-Audit-1
+../dataset/contracts/Risu Full Smart Contract Security Audit
+../dataset/contracts/CODEX Full Smart Contract Security Audit
+../dataset/contracts/CxCoin Full Smart Contract Security Audit
+../dataset/contracts/lasm
+../dataset/contracts/VCGamers Full Smart Contract Security Audit
+../dataset/contracts/trumpinu
+../dataset/contracts/Soken-SHERA2
+../dataset/contracts/QuillAudit-Yearnlab_Smart_Contract_Audit_Report
+../dataset/contracts/PlutoLink
+../dataset/contracts/CryptoSeedsFinance Full Smart Contract Security Audit
+../dataset/contracts/JetSet_0xbf675ed044f2092a4F004aA5709BfA858641cE8B
+../dataset/contracts/BabyAngel Full Smart Contract Security Audit
+../dataset/contracts/xelectron
+../dataset/contracts/topfloki
+../dataset/contracts/Steak Full Smart Contract Security Audit
+../dataset/contracts/Music Token Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_PuzzleAndDragonsX
+../dataset/contracts/SmartContract_Audit_Solidproof_BuffaloToken
+../dataset/contracts/SmartContract_Audit_Solidproof_ManUtdFantoken
+../dataset/contracts/Bruno Inu Full Smart Contract Security Audit
+../dataset/contracts/Karma Smart Contract Audit
+../dataset/contracts/IDEAS Full Smart Contract Security Audit
+../dataset/contracts/Evagrow Coin
+../dataset/contracts/arabianshinja
+../dataset/contracts/shibs
+../dataset/contracts/FUTUREBSCCARD-Audit-by-BlockSAFU
+../dataset/contracts/Crypto Horse Racing
+../dataset/contracts/Animal Adoption Advocacy
+../dataset/contracts/gdlo
+../dataset/contracts/Sweeptoken
+../dataset/contracts/gow
+../dataset/contracts/Liontrader Full Smart Contract Security Audit
+../dataset/contracts/BoomCoin Full Smart Contract Security Audit
+../dataset/contracts/Salt Fish Full Smart Contract Security Audit
+../dataset/contracts/GODZ_0x9A8Ef431a9B7B45D70407e6eebEBF25A848D0F55
+../dataset/contracts/xbnb
+../dataset/contracts/xrp589
+../dataset/contracts/PancakePoll_AuditReport_InterFi
+../dataset/contracts/JokerFootball Full Smart Contract Security Audit
+../dataset/contracts/VSELON FIGHT
+../dataset/contracts/puli
+../dataset/contracts/StarbaseUniverse Full Smart Contract Security Audit
+../dataset/contracts/DES-Audit-by-BlockSAFU
+../dataset/contracts/Soken-MetaVerseZ
+../dataset/contracts/bladeking
+../dataset/contracts/1-maga
+../dataset/contracts/SlowMist Audit Report - tpass
+../dataset/contracts/ReflexStaking_0x9950c8eC27b066E2Fbc2A6C67259A023256cd986
+../dataset/contracts/AquaPig
+../dataset/contracts/MLOKY_0xF71E950758310faF9f7D51C4F4250C7546086C1f
+../dataset/contracts/mtn
+../dataset/contracts/1-abn
+../dataset/contracts/Hacken-DeHealth HLT Network
+../dataset/contracts/Proof Utility
+../dataset/contracts/MMI-Audit-by-BlockSAFU
+../dataset/contracts/DogeCoinCash Full Smart Contract Security Audit
+../dataset/contracts/KangarooToken_AuditReport_InterFi
+../dataset/contracts/TeddChef Full Smart Contract Security Audit
+../dataset/contracts/UniLock_AuditReport_InterFi
+../dataset/contracts/BlockSec-blocksec_pancake_v1
+../dataset/contracts/CleanOcean Full Smart Contract Security Audit
+../dataset/contracts/Hideous Full Smart Contract Security Audit
+../dataset/contracts/Christmas Elf Full Smart Contract Security Audit
+../dataset/contracts/uae
+../dataset/contracts/SlowMist Audit Report - CakeVault_en-us
+../dataset/contracts/LUFFY_0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8
+../dataset/contracts/Hacken-Basketballverse
+../dataset/contracts/GET EVERY NFT TOKEN
+../dataset/contracts/1-pirates
+../dataset/contracts/KombatBSC_0xab71a86D93f29aA28e4385d87e49e8464e762362
+../dataset/contracts/FlokiGrow Full Smart Contract Security Audit
+../dataset/contracts/Hellsing Inu Full Smart Contract Security Audit
+../dataset/contracts/1-tba
+../dataset/contracts/SharkBaby_AuditReport_InterFi
+../dataset/contracts/QuillAudit-SappChat_Smart_Contract_Audit_Report
+../dataset/contracts/ICLICK INU
+../dataset/contracts/King Gold Full Smart Contract Security Audit
+../dataset/contracts/Degrain_0x71E368Ed06814Bf35d4E663eFf946400a5BC8115
+../dataset/contracts/NextMoon
+../dataset/contracts/BNBInvest Full Smart Contract Security Audit
+../dataset/contracts/CUstodiy-Audit-by-BlockSAFU
+../dataset/contracts/betfi
+../dataset/contracts/EVERun_0x2F3BfD36DD45442aba40ff1ac94Ca2374e477b54
+../dataset/contracts/Farm War Full Smart Contract Security Audit
+../dataset/contracts/CoinfuExchange_0xe7fce4E0A8f36B97C0B0ae1cB83847A6eA220ECA
+../dataset/contracts/DICE-INU
+../dataset/contracts/Maximus_0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b
+../dataset/contracts/Justfarm
+../dataset/contracts/Chihuahua Protocol
+../dataset/contracts/Mini Doge Pro Full Smart Contract Security Audit (1)
+../dataset/contracts/SquidVerseMasterchef_AuditReport_InterFi
+../dataset/contracts/CardsofBSC_0x4312b655c6de6eA86b8159D16FcAdF5B937a6721
+../dataset/contracts/iToken_0x4d9573A9d6b614A27Ec8c852A0805F6E496b5a1D
+../dataset/contracts/wlft
+../dataset/contracts/HAECHI_AUDIT-%UFEFF%UFEFFErugo
+../dataset/contracts/Qatar 2022 Ecosystem
+../dataset/contracts/liko
+../dataset/contracts/SmartContract_Audit_Solidproof_Athen
+../dataset/contracts/Krigger_0x4180eec18d1eDE2fa5A62a1985A185F448Eb3B98
+../dataset/contracts/Tyrannosaurus Rex
+../dataset/contracts/bulmkt
+../dataset/contracts/olefy
+../dataset/contracts/ZooToken
+../dataset/contracts/2-babyape
+../dataset/contracts/Solidified-Blocks_Token_Contract_[11
+../dataset/contracts/JUSD Stable Token
+../dataset/contracts/2-aim
+../dataset/contracts/Speciex_0xF1B6460e7fA76E7aFDDfe20740C260b0Ec6807a8
+../dataset/contracts/how
+../dataset/contracts/SHARK
+../dataset/contracts/Kopycat Full Smart Contract Security Audit
+../dataset/contracts/EnergyStone_0xd6989A91a0918AE0EF5F28B86154CD44e7bb187c
+../dataset/contracts/Hacken-Constellation Network
+../dataset/contracts/KnightSwap
+../dataset/contracts/ASSX Token Full Smart Contract Security Audit
+../dataset/contracts/LITTLE RABBIT Full Smart Contract Security Audit
+../dataset/contracts/THOR DOGE Full Smart Contract Security Audit
+../dataset/contracts/COLECT Full Smart Contract Security Audit
+../dataset/contracts/DOLLYPADV2_0x8B8D8b6d98453D3450156220B660Dfa957ca1C7F
+../dataset/contracts/MicroSHIBA Full Smart Contract Security Audit
+../dataset/contracts/FlokiCoke_AuditReport_InterFi
+../dataset/contracts/armysgrok
+../dataset/contracts/HODL
+../dataset/contracts/PartyDoge_AuditReport_InterFi
+../dataset/contracts/Virgo Project
+../dataset/contracts/NFTMusic_0x23880B70E1a31889384956C7270962EC4579358F
+../dataset/contracts/sirius
+../dataset/contracts/StarDust Full Smart Contract Security Audit
+../dataset/contracts/MetaApes_0xf12EDd7C603294d763941A8d205f8d67f9FCB9d5
+../dataset/contracts/1-motherdoge
+../dataset/contracts/sdi
+../dataset/contracts/uwt
+../dataset/contracts/METAZOON TOKEN Full Smart Contract Security Audit
+../dataset/contracts/HAECHI_AUDIT-%UFEFF%UFEFFIKOMP
+../dataset/contracts/HAECHI_AUDIT-Collection
+../dataset/contracts/ds
+../dataset/contracts/Linkage Full Smart Contract Security Audit
+../dataset/contracts/Hacken-SnapEx
+../dataset/contracts/1-eps
+../dataset/contracts/Hacken-The Truth
+../dataset/contracts/SmartContract_Audit_Solidproof_Captain_Bulldog
+../dataset/contracts/anito
+../dataset/contracts/fame-doge
+../dataset/contracts/Bitcoin Networks 
+../dataset/contracts/My Defi Legends Full Smart Contract Security Audit
+../dataset/contracts/FootballHooligans Full Smart Contract Security Audit
+../dataset/contracts/sre
+../dataset/contracts/killer-pp
+../dataset/contracts/PapayaSwap Smart Contract Audit Report - QuillAudits
+../dataset/contracts/sdr
+../dataset/contracts/RWIToken_0x6df1a83A33e937b19d5BFfa7bf704e38d6Ff18e7
+../dataset/contracts/WomenofMankind_0xD31fa3109e5960E77e57C4862093e4eA1a60d7B6
+../dataset/contracts/EMars Standart Smart Contract Security Audit
+../dataset/contracts/Octro_0x10e2D6CAd4d2D86586E2dd5d8E1B7d6173BCbb87
+../dataset/contracts/ONEWALLET
+../dataset/contracts/flexicash
+../dataset/contracts/3-cpepe
+../dataset/contracts/dBNOUPool-Audit-by-BlockSAFU
+../dataset/contracts/Tools-Fi Smart Contract Audit
+../dataset/contracts/MoneyHeist_AuditReport_InterFi
+../dataset/contracts/Epstein Token
+../dataset/contracts/Jackpot_1
+../dataset/contracts/PIRROT GAME Full Smart Contract Security Audit
+../dataset/contracts/DRIVENprotocol
+../dataset/contracts/3-drm
+../dataset/contracts/Electrinity Full Smart Contract Security Audit
+../dataset/contracts/booskie
+../dataset/contracts/MorfyFinance_0xAcF113D12101543b49FddD5bAc70f9bf64E2FA87
+../dataset/contracts/kki
+../dataset/contracts/Nether Smart Contract Audit Report - QuillAudits
+../dataset/contracts/PumpETH_AuditReport_InterFi
+../dataset/contracts/ThrillCity_0x5500b4cdD1F9ea62CbC4A424baC8abceE90FFe62
+../dataset/contracts/dod
+../dataset/contracts/legx
+../dataset/contracts/tftc
+../dataset/contracts/Shilling Token Token Smart Contract Security Audit
+../dataset/contracts/dune
+../dataset/contracts/shiryu
+../dataset/contracts/obamaceo
+../dataset/contracts/NarakaToken Full Smart Contract Security Audit
+../dataset/contracts/DKYCStaking_0xC60EbF2C8b16bF7CcACc7cFD702FDdE6D3898cb6
+../dataset/contracts/Lodge Token
+../dataset/contracts/MAGNFT_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_StellarFinanceV2
+../dataset/contracts/SmartContract_Audit_Solidproof_MonsterPlay
+../dataset/contracts/ShiBurn_0xCB5d0bBB976037c9a25b8E563ba03F9735e4234c
+../dataset/contracts/pacha
+../dataset/contracts/prim
+../dataset/contracts/DontKYC
+../dataset/contracts/PocongNFT_0x5f5C745D399398a633D53cDC97b4eAeB7Cd135B7
+../dataset/contracts/GrimaceCoin Full Smart Contract Security Audit
+../dataset/contracts/nyro
+../dataset/contracts/senku
+../dataset/contracts/defi-kingdoms
+../dataset/contracts/MoonGecko
+../dataset/contracts/Golden York
+../dataset/contracts/Buttercup Smart Contract Audit Report - QuillAudits
+../dataset/contracts/HODL 2
+../dataset/contracts/Belka Full Smart Contract Security Audit
+../dataset/contracts/Devia8_AuditReport_InterFi
+../dataset/contracts/wrkx
+../dataset/contracts/fws
+../dataset/contracts/5-doges
+../dataset/contracts/Full Smart Contract Security Audit Example
+../dataset/contracts/1-cus
+../dataset/contracts/PathFund
+../dataset/contracts/Canary
+../dataset/contracts/chinahelps
+../dataset/contracts/BlackShiba
+../dataset/contracts/Chronic Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/MetaMoon
+../dataset/contracts/coinscope
+../dataset/contracts/Uncle Doge
+../dataset/contracts/Baby Matic
+../dataset/contracts/voolacoin
+../dataset/contracts/Joker Fan Token Full Smart Contract Security Audit
+../dataset/contracts/NorthernFoxCoin_0x1473b44458ca1D325C1B63AA1679eE5c637887Ac
+../dataset/contracts/Mishka Token Full Smart Contract Security Audit
+../dataset/contracts/1-sure
+../dataset/contracts/PeckShield-Audit-Report-ERC20-AGRO-1
+../dataset/contracts/mcore
+../dataset/contracts/metadoge Full Smart Contract Security Audit
+../dataset/contracts/DCash_0x26F4aa49b42cADB1a78Ea3e967D403fdb6b796AF
+../dataset/contracts/wb
+../dataset/contracts/1-omv
+../dataset/contracts/cicca
+../dataset/contracts/SmartContract_Audit_Solidproof_AxieNinja
+../dataset/contracts/1-babyzilla
+../dataset/contracts/Metastarter Smart Contract Audit Report - QuillAudits
+../dataset/contracts/eeth
+../dataset/contracts/MetaStellar_0x7885e4fc89C43bc1f8440dc28d804c1E6281146c
+../dataset/contracts/mcpepe
+../dataset/contracts/LegendsOfWar Full Smart Contract Security Audit
+../dataset/contracts/aii
+../dataset/contracts/rte
+../dataset/contracts/02_Smart Contract Audit_Furucombo_Token
+../dataset/contracts/FomoETH_AuditReport_InterFi
+../dataset/contracts/Shoot Full Smart Contract Security Audit
+../dataset/contracts/babygrok
+../dataset/contracts/2-wpt
+../dataset/contracts/TWEP-Audit-by-BlockSAFU
+../dataset/contracts/RottenFloki_AuditReport_InterFi
+../dataset/contracts/IlluminatiCoin_0x87F78E66CA3edf697898468f08ddE8a661929d63
+../dataset/contracts/Agrocoin-Audit-by-BlockSAFU
+../dataset/contracts/MiniMarlboro_AuditReport_InterFi
+../dataset/contracts/PolyIsland_AuditReport_InterFi
+../dataset/contracts/DogeX
+../dataset/contracts/Hacken-Huobi Token
+../dataset/contracts/SmartContract_Audit_Solidproof_ZEUZ
+../dataset/contracts/snoopy-inu
+../dataset/contracts/Shiba Diamond Full Smart Contract Security Audit
+../dataset/contracts/AnpanSwapFactory
+../dataset/contracts/spz
+../dataset/contracts/ShinChan Token Full Smart Contract Security Audit
+../dataset/contracts/Corevault
+../dataset/contracts/KRED Full Smart Contract Security Audit
+../dataset/contracts/WealthSecrets Full Smart Contract Security Audit
+../dataset/contracts/Veteran (1)
+../dataset/contracts/SmartContract_Audit_Solidproof_Animalia TokenTracker
+../dataset/contracts/FastMoon Full Smart Contract Security Audit
+../dataset/contracts/PolyQuail
+../dataset/contracts/DEEPMAZE Full Smart Contract Security Audit
+../dataset/contracts/BOT Full Smart Contract Security Audit
+../dataset/contracts/XeroInu_0x67AAddbb3C6646DEf0f5fF0B5Fa944ba15DDdc74
+../dataset/contracts/SmartContract_Audit_Solidproof_Unimoon
+../dataset/contracts/26-pepe
+../dataset/contracts/DaGame_0xDF3662A2b4E308146F90E2668C0d9e38aBabdFe4
+../dataset/contracts/Metano Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_RedBuffToken
+../dataset/contracts/bby
+../dataset/contracts/Bitlearn Smart Contract Audit Report - QuillAudits
+../dataset/contracts/ContractWolf_Audit_Seagen
+../dataset/contracts/MEGABYTE
+../dataset/contracts/SmartContract_Audit_Solidproof_PlanetPay
+../dataset/contracts/pepegold
+../dataset/contracts/ContractWolf_Audit_Sonic_Space_Cat
+../dataset/contracts/Shiba Finance Full Smart Contract Security Audit
+../dataset/contracts/BananoDOS Smart Contract audit
+../dataset/contracts/Avatech
+../dataset/contracts/2-mmew
+../dataset/contracts/3-one
+../dataset/contracts/KingFloki
+../dataset/contracts/CryptoPositive_0xb5daf7B0D688ed5A54dF9a7486872890717F344F
+../dataset/contracts/WSCMasterChef Full Smart Contract Security Audit
+../dataset/contracts/TinyDoge Full Smart Contract Security Audit
+../dataset/contracts/ForeverSafu_0x56173Ce66C99222b8083AC58953afd6A6d4c541F
+../dataset/contracts/SmartContract_Audit_Solidproof_Prelax
+../dataset/contracts/boby
+../dataset/contracts/GARFIELD Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Corn Doge Finance
+../dataset/contracts/CenturionInu Full Smart Contract Security Audit
+../dataset/contracts/1pool finance reward pool
+../dataset/contracts/web3
+../dataset/contracts/MTVX_AuditReport_InterFi
+../dataset/contracts/BEUROP
+../dataset/contracts/r33lz
+../dataset/contracts/SafeCake
+../dataset/contracts/SmartContract_Audit_Solidproof_Kikitoken
+../dataset/contracts/Soken-Project_Vivy
+../dataset/contracts/pcpack
+../dataset/contracts/Cheecoin Smart Contract Security Audit
+../dataset/contracts/ShibaPunkz_0x8A8116a794744977941C7d3743517410969aaCBb
+../dataset/contracts/Peppermint
+../dataset/contracts/SHIBACK
+../dataset/contracts/SmartContract_Audit_Solidproof_PornCoin
+../dataset/contracts/GodGarou_0x709e5A7fCA9077cAdfdca89F9a7EC48bB7d42dBc
+../dataset/contracts/Hacken-FTX Token
+../dataset/contracts/PecoraNetwork_0x3a6b593fb353FD5a3BB68Ea120f3bA4f78637C30
+../dataset/contracts/babyfarm
+../dataset/contracts/Web3Finance_0x1B5Aec16548E5d755A72a387Acf2a5B8b724C947
+../dataset/contracts/stoicdao
+../dataset/contracts/xce
+../dataset/contracts/2-tdoge
+../dataset/contracts/Caramel Full Smart Contract Security Audit
+../dataset/contracts/DogeAxie Full Smart Contract Security Audit
+../dataset/contracts/kdi
+../dataset/contracts/SoCal_0x79D8C48DA6E3eC769A4d2097A961a9B7f00830BE
+../dataset/contracts/BabyDrago_0xFEee45F3201593792646B1A314f769d607892E28
+../dataset/contracts/SmartContract_Audit_Solidproof_Pegasus
+../dataset/contracts/Gen Impact Full Smart Contract Security Audit
+../dataset/contracts/Saja Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_LilInu
+../dataset/contracts/ThunderCake
+../dataset/contracts/GooseLokiCat_0xb9393b323c6Deb9142B973574f83425D1EAd1333
+../dataset/contracts/Gojo Inu
+../dataset/contracts/ShibaMoonShot
+../dataset/contracts/DebaseFinance_0xc692E6d42f5aD1eCB3f7906ec3bEC953b7568BF1
+../dataset/contracts/Dalmatian Finance Full Smart Contract Security Audit
+../dataset/contracts/tnc
+../dataset/contracts/Kai Inu Full Smart Contract Security Audit
+../dataset/contracts/Multiplay Token
+../dataset/contracts/mms
+../dataset/contracts/CarrotPrize_AuditReport_InterFi
+../dataset/contracts/splay
+../dataset/contracts/Dino
+../dataset/contracts/peckshield-audit-report-dyp-v1
+../dataset/contracts/Squidoshi_AuditReport_InterFi
+../dataset/contracts/teg
+../dataset/contracts/The Essential Coin Full Smart Contract Security Audit
+../dataset/contracts/SafeProtocol
+../dataset/contracts/SaitamaX Full Smart Contract Security Audit
+../dataset/contracts/realtrumptoken(2)
+../dataset/contracts/jimboy
+../dataset/contracts/SmartContract_Audit_Solidproof_FlokiPad
+../dataset/contracts/02_Smart Contract Audit WallStreetNinjas_WSN_Token
+../dataset/contracts/Donut Cat  Full Smart Contract Security Audit
+../dataset/contracts/walkn
+../dataset/contracts/2-paws
+../dataset/contracts/shytcoin
+../dataset/contracts/Moonpet Legend
+../dataset/contracts/cheshire
+../dataset/contracts/lsd
+../dataset/contracts/Project X Polygon Token Smart Contract Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Dogereum
+../dataset/contracts/SIGMA-Audit-by-BlockSAFU
+../dataset/contracts/ProtocolAI_0x6d7b56a509dE4B08d7f76c2529c9e9153d80DdB3
+../dataset/contracts/DevilVault_AuditReport_InterFi
+../dataset/contracts/MultiGenCapital Full Smart Contract Security Audit
+../dataset/contracts/1-bd
+../dataset/contracts/1healthy
+../dataset/contracts/3-pepes
+../dataset/contracts/TLT_AuditReport_InterFi
+../dataset/contracts/bbz
+../dataset/contracts/MetaPlanet_0xBa007b6170C602C08545ff97395677408688D3a2
+../dataset/contracts/Mancium_0xE58a9243e5708ec0EE01deEdc47fD76d1b608797
+../dataset/contracts/YieldMoon Full Smart Contract Security Audit
+../dataset/contracts/gotchi
+../dataset/contracts/StarCash Full Smart Contract Security Audit
+../dataset/contracts/Battleground_AuditReport_InterFi
+../dataset/contracts/2-ssb
+../dataset/contracts/MetaPunk_0xA742AF7FE61a5ba8171A3aAebCea83BF53865A13
+../dataset/contracts/pgw
+../dataset/contracts/sgohan
+../dataset/contracts/TYVCOIN Full Smart Contract Security Audit
+../dataset/contracts/mkn
+../dataset/contracts/ParadiseToken Full Smart Contract Security Audit
+../dataset/contracts/CryptoCats
+../dataset/contracts/Teddly Standart Smart Contract Security Audit
+../dataset/contracts/1-ndoge
+../dataset/contracts/SmartContract_Audit_Solidproof_MetaNftGaming
+../dataset/contracts/oracula
+../dataset/contracts/Neonic Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Mammon
+../dataset/contracts/ShubaDuck_AuditReport_InterFi
+../dataset/contracts/LOL Token
+../dataset/contracts/MCATS-Audit-by-BlockSAFU
+../dataset/contracts/SmudgeCoin_0x5B24a9EB30b9c69cf7cB8127F0394cE249a54418
+../dataset/contracts/AutoBurnYieldV2 Standart Smart Contract Security Audit
+../dataset/contracts/CryptoPool_0x0EFd918A9A5dD198fD83E3a2D20Db3a9e0002092
+../dataset/contracts/Komainu
+../dataset/contracts/evs
+../dataset/contracts/EthBurn_0xD1c0c25c5d7BA21df222Bd2623eCBC0CB264b5f4
+../dataset/contracts/FlokiSis_AuditReport_InterFi
+../dataset/contracts/Soken-Sapphire_Dao
+../dataset/contracts/CorsacToken_AuditReport_InterFi
+../dataset/contracts/FloridaMan_AuditReport_InterFi
+../dataset/contracts/Capitol
+../dataset/contracts/YFIH2
+../dataset/contracts/StonedDoge_AuditReport_InterFi
+../dataset/contracts/BitcoinReflect
+../dataset/contracts/DYOR Token Full Smart Contract Security Audit
+../dataset/contracts/wbdoge
+../dataset/contracts/MOOCHII Full Smart Contract Security Audit
+../dataset/contracts/1shiba
+../dataset/contracts/BankerDoge
+../dataset/contracts/BlueGold_AuditReport_InterFi
+../dataset/contracts/irina
+../dataset/contracts/SmartContract_Audit_Solidproof_rADAr
+../dataset/contracts/NFTPadio_AuditReport_InterFi
+../dataset/contracts/bnbean
+../dataset/contracts/SAITAMA
+../dataset/contracts/Crucifearous Finance Full Smart Contract Security Audit
+../dataset/contracts/Tomoko Smart Contract Audit
+../dataset/contracts/AngelsCreed Token Contract Audit Report - QuillAudits
+../dataset/contracts/SmartContract_Audit_Solidproof_PulseX
+../dataset/contracts/1-tialo
+../dataset/contracts/CorgiFanClub_0xCd0cb0FB6FFd21Ba22d7650fCa640b672EfAA28A
+../dataset/contracts/PuliInu_0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC
+../dataset/contracts/BXC Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/stm
+../dataset/contracts/Soken-Base_Reward_Token
+../dataset/contracts/MyHeroWallet
+../dataset/contracts/Big League Smart Contract Audit Report - QuillAudits
+../dataset/contracts/AquaPets_0xDcF4Ba20477dfC93401278d976e5E27e0e6fc433
+../dataset/contracts/QuillAudit-TBC_Smart_Contract_Audit_Report
+../dataset/contracts/WEB3 Game Full Smart Contract Security Audit
+../dataset/contracts/2-2023
+../dataset/contracts/ShadowFi_AuditReport_InterFi
+../dataset/contracts/DriveBSC_0x21B7070F181D1dB7c1db46b19FD943e0c62E8fe4
+../dataset/contracts/1-seed
+../dataset/contracts/02_Smart Contract Audit Shopping_GSPI_Staking
+../dataset/contracts/ImmuneBytes-Tourniverse_Final_Audit_Report
+../dataset/contracts/nascar
+../dataset/contracts/memefarm
+../dataset/contracts/1-cvs
+../dataset/contracts/BabyPiNetwork-Audit-by-BlockSAFU
+../dataset/contracts/SmartContract_Audit_Solidproof_Evolution
+../dataset/contracts/Metastake Full Smart Contract Security Audit
+../dataset/contracts/QAP Token Full Smart Contract Security Audit
+../dataset/contracts/metadnd
+../dataset/contracts/wbt
+../dataset/contracts/COVID
+../dataset/contracts/ContractWolf_Audit_ProjectX
+../dataset/contracts/fyi
+../dataset/contracts/NeverDrop
+../dataset/contracts/Dogefather Full Smart Contract Security Audit
+../dataset/contracts/Totally A Rug Pull Full Smart Contract Security Audit
+../dataset/contracts/ONLY1TOKEN Full Smart Contract Security Audit
+../dataset/contracts/iPay_0x712B5A7dB54930bbb2e29F1e5219020016C4b26e
+../dataset/contracts/HodlETH_AuditReport_InterFi
+../dataset/contracts/Tsuzuki Inu Full Smart Contract Security Audit
+../dataset/contracts/pgc
+../dataset/contracts/Soken-Apollo_Inu
+../dataset/contracts/BetCoVerse
+../dataset/contracts/1-ssg
+../dataset/contracts/6-solar
+../dataset/contracts/lfgdoge
+../dataset/contracts/Banca
+../dataset/contracts/muzikoin
+../dataset/contracts/WCM_AuditReport_InterFi
+../dataset/contracts/plt
+../dataset/contracts/CR7SIUUU-Audit-by-BlockSAFU
+../dataset/contracts/Loca Global
+../dataset/contracts/BAKEUP
+../dataset/contracts/Panda Chain
+../dataset/contracts/d2e
+../dataset/contracts/Finverse Capital
+../dataset/contracts/SmartContract_Audit_Solidproof_Shiba_Lottery
+../dataset/contracts/MetaFlokimonGo_AuditReport_InterFi
+../dataset/contracts/brill
+../dataset/contracts/Robot Warriors Full Smart Contract Security Audit
+../dataset/contracts/SlowMist Audit Report - C98MultiSend
+../dataset/contracts/SmartContract_Audit_Solidproof_InfitniteLaunch
+../dataset/contracts/SmartContract_Audit_Solidproof_Skirmur
+../dataset/contracts/SmartContract_Audit_Solidproof_FirstShib
+../dataset/contracts/ShibaBurn_AuditReport_InterFi
+../dataset/contracts/Hero Series Token
+../dataset/contracts/1-richrabbit
+../dataset/contracts/BLACK SHIBA INU
+../dataset/contracts/Engos_0x5548498f6Ae923f590cD1A1cec8D39E1f9363104
+../dataset/contracts/ElonsPets
+../dataset/contracts/Super Soldier Token Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_DragonVerse
+../dataset/contracts/SafeStar Full Smart Contract Security Audit
+../dataset/contracts/SHAMAN KING INU Full Smart Contract Security Audit
+../dataset/contracts/QuillAudit-TangoChain_Smart_Contract_Audit_Report
+../dataset/contracts/KINGDOGGY (1)
+../dataset/contracts/ag8
+../dataset/contracts/MagicBNB_AuditReport_InterFi
+../dataset/contracts/ContractWolf_Audit_Alterand
+../dataset/contracts/PupilsToken_0x4507367Ce053006528dB892270Ffc3952C33F36d
+../dataset/contracts/Brick Token
+../dataset/contracts/SmartContract_Audit_Solidproof_GreatShibaInu
+../dataset/contracts/SmartContract_Audit_Solidproof_DoxxedSanta
+../dataset/contracts/Hacken-DYNXT
+../dataset/contracts/wookiee
+../dataset/contracts/1-mdr
+../dataset/contracts/fct
+../dataset/contracts/Firulais Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_DogrichInu
+../dataset/contracts/HAECHI_AUDIT-%UFEFF%UFEFF%UFEFFAndCoin
+../dataset/contracts/Inspex_AUDIT2022032-2_Coin98_DollarMintBurn_FullReport_v1
+../dataset/contracts/MoonToken
+../dataset/contracts/1-bma
+../dataset/contracts/Orijin Smart Contract Audit Report - QuillAudits
+../dataset/contracts/KPOP Token
+../dataset/contracts/SlowMist Audit Report - PancakeSwap_en-us
+../dataset/contracts/loveai
+../dataset/contracts/Coinerr_0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21
+../dataset/contracts/1-sci
+../dataset/contracts/Soken-Guinness
+../dataset/contracts/s7n
+../dataset/contracts/My Shiba Academia Full Smart Contract Security Audit
+../dataset/contracts/LeagueOfZodiacs_0x6415670B1818bdC690B3405a5717cF252dBA63a4
+../dataset/contracts/Bocker Inu Full Smart Contract Security Audit
+../dataset/contracts/MetaFootball_AuditReport_InterFi
+../dataset/contracts/MetaNet
+../dataset/contracts/17-bnb
+../dataset/contracts/AmericanShiba Full Smart Contract Security Audit
+../dataset/contracts/HAECHI_AUDIT-ArmyDollar
+../dataset/contracts/02_Smart Contract Audit_Curate_XCUR_Token
+../dataset/contracts/Requiza_0x11B1421B817F8A0d056Bd5F81e15fE9Ce52Ab4aF
+../dataset/contracts/wm
+../dataset/contracts/Mars Inu
+../dataset/contracts/ContractWolf_Audit_BlackSockETF
+../dataset/contracts/April Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Mind Music Full Smart Contract Security Audit
+../dataset/contracts/eicrypto
+../dataset/contracts/AVX Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Aussie Crypto Full Smart Contract Security Audit
+../dataset/contracts/lzn
+../dataset/contracts/chby
+../dataset/contracts/antbt
+../dataset/contracts/AEONODEX
+../dataset/contracts/INFluer
+../dataset/contracts/LinkDao-Audit-by-BlockSAFU
+../dataset/contracts/Flourish
+../dataset/contracts/EverPorn
+../dataset/contracts/ContractWolf_Audit_Myth_of_Dagda
+../dataset/contracts/QuillAudit-SecretSky_Finance_Smart_Contract_Audit_Report
+../dataset/contracts/Platanaso Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Frenzay
+../dataset/contracts/spacexd
+../dataset/contracts/minebnb
+../dataset/contracts/SmartContract_Audit_Solidproof_KenInu
+../dataset/contracts/sfu
+../dataset/contracts/LadyLassie_0x7cb32E9ae7bBd896bA84a6b57c37a79A8B288d97
+../dataset/contracts/Bobo Cash Full Smart Contract Security Audit
+../dataset/contracts/FinBloxapp Tech Contract Audit Report - QuillAudits
+../dataset/contracts/Xchain Wallet Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_StellarDiamondV3
+../dataset/contracts/Unity Protocol
+../dataset/contracts/AgrocashX Full Smart Contract Security Audit
+../dataset/contracts/3-chad
+../dataset/contracts/QuillAudit-Zeuz_Smart_Contract_Audit_Report
+../dataset/contracts/DexterLabs Smart Contract Audit Report - QuillAudits
+../dataset/contracts/sgp
+../dataset/contracts/Sugar Doge Full Smart Contract Security Audit
+../dataset/contracts/Greenhouse Full Smart Contract Security Audit
+../dataset/contracts/1-luffy
+../dataset/contracts/1-rdm
+../dataset/contracts/EMERALD ORBS
+../dataset/contracts/RiceVault
+../dataset/contracts/SERA_0x31640330CD2337E57C9591A2A183Ac4E8a754E87
+../dataset/contracts/babyrats
+../dataset/contracts/JeToken Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_ScamCoin
+../dataset/contracts/wiz
+../dataset/contracts/SaitamaV2_0xCE3f08e664693ca792caCE4af1364D5e220827B2
+../dataset/contracts/koala2
+../dataset/contracts/Musk No1 Full Smart Contract Security Audit
+../dataset/contracts/BlazeBurger Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_OasisMetaverse
+../dataset/contracts/QuillAudit-Severus
+../dataset/contracts/FairLife Full Smart Contract Security Audit
+../dataset/contracts/Digihealth Smart Contract Audit Report - QuillAudits
+../dataset/contracts/c-bitaxy
+../dataset/contracts/1-bulls
+../dataset/contracts/PayBolt
+../dataset/contracts/Green Hydrogen 2
+../dataset/contracts/ZombiesDApp
+../dataset/contracts/IceDragonToken
+../dataset/contracts/seabird
+../dataset/contracts/volr
+../dataset/contracts/megg
+../dataset/contracts/KimetsuSensei_AuditReport_InterFi
+../dataset/contracts/2-starship
+../dataset/contracts/TRUSTxGAMING Smart Contract Audit Report - QuillAudits
+../dataset/contracts/scai
+../dataset/contracts/PolydexSwap
+../dataset/contracts/SpaceSweepStake Full Smart Contract Security Audit
+../dataset/contracts/LovePot Token Full Smart Contract Security Audit
+../dataset/contracts/4-chow
+../dataset/contracts/2-trk
+../dataset/contracts/Hacken-Oracula
+../dataset/contracts/AgeofKnights_AuditReport_InterFi
+../dataset/contracts/NomadLand Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Baby Doge Burn
+../dataset/contracts/Proof Asset
+../dataset/contracts/Hacken_DOGELON_MARS_SCA_Dogelon_Mars_Token_Dec2023_P_2023_073_1
+../dataset/contracts/SaveX_AuditReport_InterFi
+../dataset/contracts/SafeButt
+../dataset/contracts/1-bitx
+../dataset/contracts/SAFUAPE Full Smart Contract Security Audit
+../dataset/contracts/SlowMist Audit Report - Chainsafer Snap_en-us
+../dataset/contracts/MetaBullish_AuditReport_InterFi
+../dataset/contracts/jstep
+../dataset/contracts/Rebellion Protocol
+../dataset/contracts/LuxeRacing_0xAF8A43D8a80DEb18B29ffa370ed84cF0Bf387Ae6
+../dataset/contracts/SmartContract_Audit_Solidproof_PixelSQUID
+../dataset/contracts/1-jojo
+../dataset/contracts/kronos
+../dataset/contracts/VRFI Full Smart Contract Security Audit
+../dataset/contracts/PiggyProtocol_0xD6b967941aB115B5921f580698f16A0d680ea57E
+../dataset/contracts/ContractWolf_Audit_Sample
+../dataset/contracts/AlienFloki_AuditReport_InterFi
+../dataset/contracts/LiberoTitano_0xd3DdbBf78C516aFB4eeA871BE43868659ac32Da2
+../dataset/contracts/ArtKit_0xAB9ed2C3D76a1877d959C0d7E8DE48a33c55205C
+../dataset/contracts/Rinnegan
+../dataset/contracts/firm
+../dataset/contracts/Polybull Finance Full Smart Contract Security Audit
+../dataset/contracts/Siuuu_0x16E33015C466c0183cd1c2adbC5B4E7bf97548Da
+../dataset/contracts/TokenRunner_0xdB5f00592463A3F459f418eb831e4d2C4DB8E156
+../dataset/contracts/SmcAuditors-Gods_Unchained_Audit
+../dataset/contracts/1-chopper
+../dataset/contracts/Hacken-ATBFIG (Financial Intelligence Group)
+../dataset/contracts/OpenAI BNB-Audit-by-BlockSAFU
+../dataset/contracts/SAITABIT
+../dataset/contracts/ContractWolf_Audit_PAPPAPEPE_Mining
+../dataset/contracts/BoozeDoge
+../dataset/contracts/2-mai
+../dataset/contracts/SpaceshepherdPantry
+../dataset/contracts/DefyDefi Full Smart Contract Security Audit
+../dataset/contracts/cpr
+../dataset/contracts/liverbi
+../dataset/contracts/yhd
+../dataset/contracts/SHIBPAD Full Smart Contract Security Audit
+../dataset/contracts/RisingSun Full Smart Contract Security Audit
+../dataset/contracts/STACKDFinance_0xa27781A1B162dEdD3eFcD340AD8C6308996fe5fb
+../dataset/contracts/Walter
+../dataset/contracts/2-ght
+../dataset/contracts/Bauble Full Smart Contract Security Audit (2)
+../dataset/contracts/Arise
+../dataset/contracts/MoonGirls Full Smart Contract Security Audit
+../dataset/contracts/New TOXICgameNFT
+../dataset/contracts/Automoon Full Smart Contract Security Audit
+../dataset/contracts/Smart Bunny Standart Smart Contract Security Audit
+../dataset/contracts/$jus
+../dataset/contracts/SaveAnimal Full Smart Contract Security Audit
+../dataset/contracts/LonelyFans Full Smart Contract Security Audit
+../dataset/contracts/EggPlus_0x6A4fcA7762C961F877Edbb486Dfbdb08483BEa0f
+../dataset/contracts/Pomeranian Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_XRXSToken
+../dataset/contracts/1-shiboost
+../dataset/contracts/DefiKings_0x8956692426786F16CF96922181553ef2d308de5C
+../dataset/contracts/Mello Token
+../dataset/contracts/Crogetama Smart Contract Audit
+../dataset/contracts/Shifu Full Smart Contract Security Audit
+../dataset/contracts/3-ccg
+../dataset/contracts/Fair Shiba Inu Full Smart Contract Security Audit
+../dataset/contracts/1-mmit
+../dataset/contracts/BabyEuro
+../dataset/contracts/3-karma
+../dataset/contracts/Moonlight
+../dataset/contracts/rdl
+../dataset/contracts/Skatearn-Audit-by-BlockSAFU
+../dataset/contracts/lpp
+../dataset/contracts/ImmuneBytes-Throne_Audit_Report
+../dataset/contracts/SmartContract_Audit_Solidproof_CanadaCoin
+../dataset/contracts/MarginCallToken Full Smart Contract Security Audit
+../dataset/contracts/LianAn_Technology(Beosin)-NFTBomb
+../dataset/contracts/lunarsphinx
+../dataset/contracts/HyperCoin Full Smart Contract Security Audit
+../dataset/contracts/fx
+../dataset/contracts/1-bstepd
+../dataset/contracts/KoaCoin Full Smart Contract Security Audit
+../dataset/contracts/mgf
+../dataset/contracts/Hacken-Solarminex
+../dataset/contracts/CLOUT Full Smart Contract Security Audit
+../dataset/contracts/Hypersonic_AuditReport_InterFi
+../dataset/contracts/Birb Standart Smart Contract Security Audit (1)
+../dataset/contracts/CAKF Standart Smart Contract Security Audit
+../dataset/contracts/PathFund Staking  Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Handy Man
+../dataset/contracts/Lory Token
+../dataset/contracts/back
+../dataset/contracts/Viking Finance
+../dataset/contracts/megladoge
+../dataset/contracts/SHELBY Token Full Smart Contract Security Audit
+../dataset/contracts/CashFlix
+../dataset/contracts/honshu
+../dataset/contracts/FireFlameInu Full Smart Contract Security Audit
+../dataset/contracts/ShibaFamily
+../dataset/contracts/UniqueDex
+../dataset/contracts/Clify
+../dataset/contracts/Aidi Inu
+../dataset/contracts/stepn-20
+../dataset/contracts/Meta Dino Full Smart Contract Security Audit
+../dataset/contracts/CollieInu_AuditReport_InterFi
+../dataset/contracts/Dracma_0xdad265b2f747d7A6c490073e9D49D5338C718922
+../dataset/contracts/HAECHI_AUDIT-WLOG
+../dataset/contracts/HODL Vault Token Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_MagicDoge
+../dataset/contracts/MetaBomber_0xd56af8575792E6ffd81c8923277A47db405Ab015
+../dataset/contracts/Rich Santa
+../dataset/contracts/AlcarLand_0xB33B848fEd1c65EB55Aa67672bE143f51C868756
+../dataset/contracts/AkiraInu_0x4a3a35dd3A72103b7CE614DfEc5566c74B9ff645
+../dataset/contracts/Ardenium Coin
+../dataset/contracts/hefi
+../dataset/contracts/FlokiDoge_AuditReport_InterFi
+../dataset/contracts/swaptc
+../dataset/contracts/ShibaCash Full Smart Contract Security Audit
+../dataset/contracts/RewardCycle2_AuditReport_InterFi
+../dataset/contracts/dnko
+../dataset/contracts/guitarist
+../dataset/contracts/1-fink
+../dataset/contracts/1-mtg
+../dataset/contracts/World Wide Wealth
+../dataset/contracts/Bone
+../dataset/contracts/ShinobiVerse_2
+../dataset/contracts/Mute Smart Contract Audit Report - QuillAudits
+../dataset/contracts/UltimoGG Full Smart Contract Security Audit
+../dataset/contracts/NoodlesSwap Full Smart Contract Security Audit
+../dataset/contracts/rari-capital-v-2
+../dataset/contracts/wbi
+../dataset/contracts/1-mema
+../dataset/contracts/Hacken-SpaceDoge
+../dataset/contracts/KazooCoin Full Smart Contract Security Audit
+../dataset/contracts/1-ball
+../dataset/contracts/GiraffeMoon Full Smart Contract Security Audit (2)
+../dataset/contracts/BusyBee_AuditReport_InterFi
+../dataset/contracts/p2b
+../dataset/contracts/wily
+../dataset/contracts/BabyElephant-Audit-by-BlockSAFU
+../dataset/contracts/ExoNOVA
+../dataset/contracts/shanks
+../dataset/contracts/kofa
+../dataset/contracts/Coloso Full Smart Contract Security Audit
+../dataset/contracts/1-dcat
+../dataset/contracts/PeckShield-Audit-Report-VRHDAO-v1
+../dataset/contracts/mxmdao
+../dataset/contracts/QuillAudit-YummyToken_Smart_Contract_Audit_Report
+../dataset/contracts/Gafa_0xC2E753391C80A7723ca3cef4d38bFEC9e84A246F
+../dataset/contracts/1-doges
+../dataset/contracts/vrai
+../dataset/contracts/EnergyGalaxy
+../dataset/contracts/Hacken-Forbitspace
+../dataset/contracts/Dhabi Coin
+../dataset/contracts/202209291804
+../dataset/contracts/jiyu
+../dataset/contracts/wiid
+../dataset/contracts/MetaZuckZilla_AuditReport_InterFi
+../dataset/contracts/BananaCake Full Smart Contract Security Audit
+../dataset/contracts/RoyalRiches_0x542799E71e119BD2AD580BB16074d11c70F8Fd4C
+../dataset/contracts/6-finu
+../dataset/contracts/EarlyBSC
+../dataset/contracts/DOGGIE Smart Contract Audit Report - QuillAudits
+../dataset/contracts/HyperMeteor Full Smart Contract Security Audit
+../dataset/contracts/SonOfSaitama_AuditReport_InterFi
+../dataset/contracts/Olympia Full Smart Contract Security Audit
+../dataset/contracts/BNBets Smart Contract Audit
+../dataset/contracts/Kishimoto Inu
+../dataset/contracts/Dexe_SC_Audit_Report
+../dataset/contracts/SHIKOKU INU Full Smart Contract Security Audit
+../dataset/contracts/YeagerInu
+../dataset/contracts/trump42024
+../dataset/contracts/czceo
+../dataset/contracts/Doken-Audit-by-BlockSAFU
+../dataset/contracts/dcandy
+../dataset/contracts/kec
+../dataset/contracts/paf
+../dataset/contracts/ncy
+../dataset/contracts/Bpad Smart Contract Security Audit
+../dataset/contracts/TITAN_1
+../dataset/contracts/Ninebot
+../dataset/contracts/$TMF-Audit-by-BlockSAFU
+../dataset/contracts/Catcoin Full Smart Contract Security Audit
+../dataset/contracts/lbs
+../dataset/contracts/task
+../dataset/contracts/Virgo Dex Finance Full Smart Contract Security Audit
+../dataset/contracts/MyPancake
+../dataset/contracts/usdtd
+../dataset/contracts/The Wolf Pack
+../dataset/contracts/cbyte
+../dataset/contracts/2-future
+../dataset/contracts/gufo
+../dataset/contracts/HaggleX - Final Audit Report
+../dataset/contracts/cutemoon
+../dataset/contracts/SmartContract_Audit_Solidproof_Legends_battle
+../dataset/contracts/EFUN_AuditReport_InterFi
+../dataset/contracts/Daddy Reborn Full Smart Contract Security Audit
+../dataset/contracts/psg1000x
+../dataset/contracts/1-paco
+../dataset/contracts/HoneyFarm
+../dataset/contracts/CureToken_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_NowMeta
+../dataset/contracts/godv
+../dataset/contracts/Chronoly_0xE23311294467654E0CaB14cD32A169A41be5ca8E
+../dataset/contracts/DogeDatingDay_0x5E9aA6Ea96A9Be92E9791623502A7bF721435F63
+../dataset/contracts/Dogecoin Token (DOGE) Smart Contract Audit Report by Callisto Network
+../dataset/contracts/Binance Credit
+../dataset/contracts/DogsKombat_0x728FC32c0d2F61FFe21B6a4A7dF987DeaE0e0888
+../dataset/contracts/apoc
+../dataset/contracts/Game1Network
+../dataset/contracts/Tripin-Audit-by-BlockSAFU
+../dataset/contracts/ShiraX_0xa4f5D39C95d40de4B31FBA6b3c45D0f3c2D7f914
+../dataset/contracts/BoxerInu Full Smart Contract Security Audit
+../dataset/contracts/Meta Shiba Full Smart Contract Security Audit
+../dataset/contracts/Magic Cube Smart Contract Audit Report - QuillAudits
+../dataset/contracts/cex
+../dataset/contracts/SaiyanDoge Full Smart Contract Security Audit
+../dataset/contracts/vachi
+../dataset/contracts/rmai
+../dataset/contracts/Artfy Full Smart Contract Security Audit
+../dataset/contracts/gwolf
+../dataset/contracts/ElonsCurrency_0x09B89680183d106E00121C9D6befFD2Ce80d2eFA
+../dataset/contracts/rolls
+../dataset/contracts/EggPlus_0x07c4730D4300730abF060f8Bf3A88e71D8283c6F
+../dataset/contracts/bioma
+../dataset/contracts/EvilShibaInu_0x1d42bd785092261256C29990E029b8b79611d705
+../dataset/contracts/ZenonFi
+../dataset/contracts/Kintaman_AuditReport_InterFi
+../dataset/contracts/Lunar Doge Full Smart Contract Security Audit
+../dataset/contracts/Stroopwafel Token
+../dataset/contracts/BOGECOIN  Full Smart Contract Security Audit
+../dataset/contracts/SingMon-Audit-by-BlockSAFU
+../dataset/contracts/Kikswap
+../dataset/contracts/Big Doge Finance
+../dataset/contracts/FAME Full Smart Contract Security Audit
+../dataset/contracts/lyka
+../dataset/contracts/SmartContract_Audit_Solidproof_Foxion
+../dataset/contracts/caribit
+../dataset/contracts/ALS Token Full Smart Contract Security Audit
+../dataset/contracts/PeckShield-3WM
+../dataset/contracts/Nugen Reserve Smart Contract Audit Report - QuillAudits
+../dataset/contracts/SmartContract_Audit_Solidproof_Value_Finance
+../dataset/contracts/Runwin_0xE1AFb90aB42AaE4B8eea659304A1E5B17030dfaA
+../dataset/contracts/MetaWeb3_0x9Bf17e99B3Ae8cfB39466CBfc3bbCFE511270e1C
+../dataset/contracts/LIFI-retainer1-Spearbit-Security-Review
+../dataset/contracts/Kampay
+../dataset/contracts/TeddyCoin_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_URGUniversity
+../dataset/contracts/GoRide_0x489a7442ff6bbbbCd4C2788A603f0eC5D2fa3a08
+../dataset/contracts/3-hero
+../dataset/contracts/3-mcat
+../dataset/contracts/dakhund
+../dataset/contracts/Puggy
+../dataset/contracts/Moonpad
+../dataset/contracts/GoldSea
+../dataset/contracts/CrossPad Finance Full Smart Contract Security Audit
+../dataset/contracts/Jackpot_2
+../dataset/contracts/avrk
+../dataset/contracts/CyStack-VIDB_v1
+../dataset/contracts/axgt
+../dataset/contracts/SmartContract_Audit_Solidproof_Eversify
+../dataset/contracts/BobCatSwap Full Smart Contract Security Audit
+../dataset/contracts/pepenime
+../dataset/contracts/KINGCZ
+../dataset/contracts/1-tgr
+../dataset/contracts/Peach Finance
+../dataset/contracts/QuillAudit-RGV_Coin_Smart_Contract_Audit_Report
+../dataset/contracts/Deswap
+../dataset/contracts/Cristomonedas-Audit-by-BlockSAFU
+../dataset/contracts/BNOU-MasterChef-Audit-by-BlockSAFU
+../dataset/contracts/SafeLuna
+../dataset/contracts/ppig
+../dataset/contracts/1-axt
+../dataset/contracts/1-bitch
+../dataset/contracts/Palm Trade Full Smart Contract Security Audit
+../dataset/contracts/2-ggt
+../dataset/contracts/RewardMiner_0x16fC5da7976dEb95188c14757e8504c86DB0359A
+../dataset/contracts/Soken-BNBBACK
+../dataset/contracts/$xenox
+../dataset/contracts/RichQuack Full Smart Contract Security Audit
+../dataset/contracts/OctopusMarket_0x8B42D5640515685b9D5aCEC14952DD289cBe4B4C
+../dataset/contracts/SmartContract_Audit_Solidproof_UrameshiInu
+../dataset/contracts/SmartContract_Audit_Solidproof_Pofy_v2
+../dataset/contracts/AUTO C98
+../dataset/contracts/saitapepe
+../dataset/contracts/SmartContract_Audit_Solidproof_GamePad
+../dataset/contracts/MythNFT_0xB83DC5E70936FB6213c04c654159FaAB06b8a0fE
+../dataset/contracts/Web69_0x6D983c97175122ca8D757147Ee5dcEf32d2549Bd
+../dataset/contracts/ECOGOAT TOKEN Full Smart Contract Security Audit
+../dataset/contracts/BetaPulsar
+../dataset/contracts/SlowMist Audit Report - Shield_en-us
+../dataset/contracts/babcz
+../dataset/contracts/aror
+../dataset/contracts/mollars
+../dataset/contracts/ckp
+../dataset/contracts/DAIKOKUTEN SAMA Full Smart Contract Security Audit
+../dataset/contracts/swu
+../dataset/contracts/acate
+../dataset/contracts/Ozee Finance Smart Contract Audit
+../dataset/contracts/100xGems
+../dataset/contracts/BNOU-FlexiblePool-Audit-by-BlockSAFU
+../dataset/contracts/QuillAudit-ZortCoin_Smart_Contract_Audit_Report
+../dataset/contracts/Health Token Full Smart Contract Security Audit
+../dataset/contracts/Cyber Doge Full Smart Contract Security Audit
+../dataset/contracts/InfluencerFinance_AuditReport_InterFi
+../dataset/contracts/02_Smart Contract Audit Unilayer_Farm_LAYERx
+../dataset/contracts/WallstreetGem_0xA9c4992BcE5520eA13F544F8a04264ab997B0791
+../dataset/contracts/tdoge
+../dataset/contracts/SAFEGODL
+../dataset/contracts/sanemiinu
+../dataset/contracts/bingo
+../dataset/contracts/1-gtc
+../dataset/contracts/rzn
+../dataset/contracts/Saturna Full Smart Contract Security Audit
+../dataset/contracts/Alfcoin Smart Contract Audit Report - QuillAudits
+../dataset/contracts/fai
+../dataset/contracts/SonofDoge_0x0ca553DE0599a79Aaf43943cf254E60183a0cCA3
+../dataset/contracts/Octupus Tools
+../dataset/contracts/PORKBNB Smart Contract Audit
+../dataset/contracts/roshi
+../dataset/contracts/Messier_0x8AF5FedC0f263841C18F31D9DbCC97A47e1aB462
+../dataset/contracts/RocketLauncher_AuditReport_InterFi
+../dataset/contracts/ContractWolf_Audit_MugParty
+../dataset/contracts/CateDogeInuSafeElonMoonMars_Full_Smart_Contract_Security_Audit
+../dataset/contracts/CryptoCandy
+../dataset/contracts/Gate
+../dataset/contracts/Brosispay
+../dataset/contracts/FMONEY TOKEN
+../dataset/contracts/SmartContract_Audit_Solidproof_Wanderlust
+../dataset/contracts/pft
+../dataset/contracts/1-mshiba
+../dataset/contracts/1-blob
+../dataset/contracts/XFuel_0xBB00BCaa4fe12AEa0a74956d9531ec96Cf4470B0
+../dataset/contracts/Metaroid NFT Full Smart Contract Security Audit
+../dataset/contracts/2-gfox
+../dataset/contracts/SmartContract_Audit_Solidproof_Captain_Bulldog_Finance
+../dataset/contracts/ROBO INU Full Smart Contract Security Audit
+../dataset/contracts/2-fit
+../dataset/contracts/Influencer_0x31E4660915558b408dBA65F7F39E317BED63367B
+../dataset/contracts/ndapp
+../dataset/contracts/1-vflix
+../dataset/contracts/Xpose Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_AlinX
+../dataset/contracts/binate
+../dataset/contracts/1-drive
+../dataset/contracts/Gami_0xF0dcF7aC48F8c745F2920D03dFf83f879b80d438
+../dataset/contracts/DisCas Vision Full Smart Contract Security Audit
+../dataset/contracts/darkdoge
+../dataset/contracts/YieldTopia_0xA3a3D699B0a3a027d32C8d5040352ddE1b8A8106
+../dataset/contracts/2-grc
+../dataset/contracts/pixlp
+../dataset/contracts/Elios
+../dataset/contracts/MetaDogeSwap_0xaeF865eb62CD27fd173b065Eacd3Da48632E554D
+../dataset/contracts/faith
+../dataset/contracts/dripdoge
+../dataset/contracts/Braineaters-Smart-Contract-Audit
+../dataset/contracts/GreenArrowToken
+../dataset/contracts/charla-coin
+../dataset/contracts/KingDogeToken Full Smart Contract Audit
+../dataset/contracts/MetaSantaFloki_AuditReport_InterFi
+../dataset/contracts/ThaiRidgeBack Full Smart Contract Security Audit
+../dataset/contracts/7-smt
+../dataset/contracts/one80
+../dataset/contracts/air
+../dataset/contracts/stpd
+../dataset/contracts/amv
+../dataset/contracts/Soken-Altbase
+../dataset/contracts/brinu
+../dataset/contracts/ybe
+../dataset/contracts/AkitaPluto Full Smart Contract Security Audit
+../dataset/contracts/ShiroGo-Audit-by-BlockSAFU
+../dataset/contracts/KlumsyFatChicken_0x541CeEaF10426ab246a1404AaeA291f2b230383b
+../dataset/contracts/Monkey King Full Smart Contract Security Audit
+../dataset/contracts/DiveWallet_0x4b7d697635e6b9965d13e0655F538149dE425F4E
+../dataset/contracts/sown
+../dataset/contracts/Ignis Network
+../dataset/contracts/sleep
+../dataset/contracts/MiniX_AuditReport_InterFi
+../dataset/contracts/PopoToken-Audit-by-BlockSAFU
+../dataset/contracts/RichLifeFinance_0x766A06f3dA66BB432Ac2A95CA301Ecbf16422Ab3
+../dataset/contracts/BlingKong Full Smart Contract Security Audit
+../dataset/contracts/2-mdoge
+../dataset/contracts/Boundlesspay - Audit Report
+../dataset/contracts/RestoreTruthToken
+../dataset/contracts/MrDoge
+../dataset/contracts/mdob
+../dataset/contracts/NFTBeat_0x78DF4E3019B16eab8c24FB6CC5990Fd0466fBD85
+../dataset/contracts/1-sart
+../dataset/contracts/Mason
+../dataset/contracts/IKE
+../dataset/contracts/0xlp
+../dataset/contracts/DiamondHold
+../dataset/contracts/AVNRich Token Full Smart Contract Security Audit
+../dataset/contracts/animex
+../dataset/contracts/Mouse Finance Full Smart Contract Security Audit
+../dataset/contracts/COIN ORACLE Full Smart Contract Security Audit
+../dataset/contracts/DUT_AuditReport_InterFi
+../dataset/contracts/mfh
+../dataset/contracts/SpaceSoldier
+../dataset/contracts/Xeeb_AuditReport_InterFi
+../dataset/contracts/RocketDoge
+../dataset/contracts/Inspex-Audit-Report_FWX-LBPs-v1
+../dataset/contracts/3-apes
+../dataset/contracts/Redfrunk_AuditReport_InterFi
+../dataset/contracts/Inspex-Farm
+../dataset/contracts/Trident Token
+../dataset/contracts/EnigMATIC_0x07D9381F4481D2df949A43f78195db9B4bDEE27d
+../dataset/contracts/robotcat
+../dataset/contracts/AiLayer
+../dataset/contracts/SmartContract_Audit_Solidproof_BinaPet
+../dataset/contracts/Moon_0x36EEAd854623aE6E16aC493FfDa36e348Bd60173
+../dataset/contracts/MarmeladeFinance Smart Contract Security Audit
+../dataset/contracts/LuckyBSC Standart Smart Contract Security Audit
+../dataset/contracts/income
+../dataset/contracts/cori
+../dataset/contracts/Iosiro-NExTLabs Smart Contract Audit
+../dataset/contracts/esp
+../dataset/contracts/SmartContract_Audit_Solidproof_BullishApes
+../dataset/contracts/GenieCoin_AuditReport_InterFi
+../dataset/contracts/QUIK Full Smart Contract Security Audit BSC
+../dataset/contracts/HeroesOfCrypton_AuditReport_InterFi
+../dataset/contracts/MetaSalvador (Colon)
+../dataset/contracts/VanillaCake Token
+../dataset/contracts/Urbanhero_AuditReport_InterFi
+../dataset/contracts/EXALINK
+../dataset/contracts/GenshinImpact Full Smart Contract Security Audit
+../dataset/contracts/DECSALE
+../dataset/contracts/ceolinda
+../dataset/contracts/GreenRocket Token Full Smart Contract Security Audit
+../dataset/contracts/RoyalRewards_0x9F74f333c6fE927A55176193c117dDe69718A02B
+../dataset/contracts/lrs
+../dataset/contracts/dog
+../dataset/contracts/sprty
+../dataset/contracts/tch
+../dataset/contracts/metapi
+../dataset/contracts/dd-vlx
+../dataset/contracts/10-sdoge
+../dataset/contracts/split
+../dataset/contracts/SeedSwap Token
+../dataset/contracts/PANDECO
+../dataset/contracts/Rentible
+../dataset/contracts/DONASWAP Full Smart Contract Security Audit
+../dataset/contracts/babysanji
+../dataset/contracts/TKBToken
+../dataset/contracts/nami-inu
+../dataset/contracts/bullg
+../dataset/contracts/borg
+../dataset/contracts/uta
+../dataset/contracts/XRPAPE Full Smart Contract Security Audit
+../dataset/contracts/CBBSC_0x39b1adD35a5d3a7496CbC21aaDe2B1e6dD947c1f
+../dataset/contracts/bfjb
+../dataset/contracts/Blocklabs Smart Contract Audit
+../dataset/contracts/JackpotDoge_0x8888B3df80F3315Ca77Cf76B4d3b139d60d78888
+../dataset/contracts/1-hxpe
+../dataset/contracts/cryfi
+../dataset/contracts/serum
+../dataset/contracts/chainfi
+../dataset/contracts/Inu
+../dataset/contracts/Dojo Smart Contract Audit Report - QuillAudits
+../dataset/contracts/White Ethereum Full Smart Contract Security Audit
+../dataset/contracts/arcs
+../dataset/contracts/EverWealthStaking_0xc346d48697169C25E30b107Ba6801442e76287A1
+../dataset/contracts/redix
+../dataset/contracts/BabyMATIC
+../dataset/contracts/SmartContract_Audit_Solidproof_BitRides
+../dataset/contracts/Mayo
+../dataset/contracts/LumoTools
+../dataset/contracts/ContractWolf_Audit_SuperOSK
+../dataset/contracts/Zerrw
+../dataset/contracts/LockAPY_0x7aCF79aFcE56b952d79E1589f21E94ac666C3116
+../dataset/contracts/cosdoge
+../dataset/contracts/Nugen Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/MOCEANS_0x6c4D9bB6Be7dbB88cE3e0e7b6848E306e03fEC55
+../dataset/contracts/Soken-Poor_Quack
+../dataset/contracts/DogeWarrior
+../dataset/contracts/CAKEFARM_0xabc38af7D68fAcA4D64d282CDFE1E6Cf271400E0
+../dataset/contracts/ProMars_AuditReport_InterFi
+../dataset/contracts/BABY FEG Full Smart Contract Security Audit
+../dataset/contracts/genki
+../dataset/contracts/vr
+../dataset/contracts/Saitama Inu  Full Smart Contract Security Audit
+../dataset/contracts/AquaShiba Full Smart Contract Security Audit
+../dataset/contracts/Hacken-WOWSwap-V2
+../dataset/contracts/imal
+../dataset/contracts/InfinityToken
+../dataset/contracts/NFMonsters Full Smart Contract Security Audit
+../dataset/contracts/Cryptocasil
+../dataset/contracts/pmf
+../dataset/contracts/Liquidus Full Smart Contract Security Audit
+../dataset/contracts/SwapTC_0x0bF969aB4082ead3BDAC5B93bADfe2F9CF5E155D
+../dataset/contracts/bulls-run
+../dataset/contracts/Esports Arena BSC Full Smart Contract Security Audit
+../dataset/contracts/LASEREYES
+../dataset/contracts/SquidoshiRL_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_EVERYGROW
+../dataset/contracts/NFZ Full Smart Contract Security Audit
+../dataset/contracts/QuantumHeart
+../dataset/contracts/ByTrade-Venture-Capital_SC-Audit-Report_03_03_2023_SA-1071
+../dataset/contracts/1-brick
+../dataset/contracts/Buccaneer
+../dataset/contracts/shibev
+../dataset/contracts/ContractWolf_Audit_CRYTTER
+../dataset/contracts/FluffInu_0x4ADB554A7748eA69fA8744AfB2F1359B9e375721
+../dataset/contracts/Wierd Finance
+../dataset/contracts/vgf
+../dataset/contracts/hospo
+../dataset/contracts/GEM_0x2A35eD564e20d7D9bFD70eDbe10dbc45CF30b18D
+../dataset/contracts/sto
+../dataset/contracts/PresaleMATX Smart Contract Security Audit
+../dataset/contracts/URGX_0x0A0031CAAb8792CBd8Be58C25e9f69D284ca6Dd7
+../dataset/contracts/SafeLaunchPad
+../dataset/contracts/Freedom DeFi
+../dataset/contracts/SmartContract_Audit_Solidproof_Arena
+../dataset/contracts/Green Life Energy (GNL) Full Smart Contract Security Audit
+../dataset/contracts/SafeCommunity Token
+../dataset/contracts/Hachiko Inu Full Smart Contract Security Audit
+../dataset/contracts/CROWDHERO
+../dataset/contracts/tea-token
+../dataset/contracts/INRT
+../dataset/contracts/FlokiMars_AuditReport_InterFi
+../dataset/contracts/Metaloop Tech Full Smart Contract Security Audit
+../dataset/contracts/EternalGirl
+../dataset/contracts/Logistics Full Smart Contract Security Audit
+../dataset/contracts/MetaLama_0x3933D585d7c41ee55fe93342f8d9E27632f1d169
+../dataset/contracts/ContractWolf_Audit_Hexa_Chain
+../dataset/contracts/safuapedev
+../dataset/contracts/DOGEDI Full Smart Contract Security Audit
+../dataset/contracts/AscentPad_AuditReport_InterFi
+../dataset/contracts/flack
+../dataset/contracts/ZombieCryptoWest_0xA2ED1f89eD0cD626C6fFa74D9ae95de5b39838f3
+../dataset/contracts/1-hbit
+../dataset/contracts/Sheep Full Smart Contract Security Audit
+../dataset/contracts/Hacken-Omnia Protocol
+../dataset/contracts/CryptoYouthMovement_0x4e861A61CeDF6c9c3A2A4E1C12EaEf5f3Bb2d648
+../dataset/contracts/f11
+../dataset/contracts/bext
+../dataset/contracts/Cryptrise_0x7CA8E1370Ad5ea11F909bf694F4B3322e4F33A07
+../dataset/contracts/ContractWolf_Audit_DOCSWAP
+../dataset/contracts/JediDoge_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_Covi19
+../dataset/contracts/cip30
+../dataset/contracts/Yrace Standart Smart Contract Security Audit
+../dataset/contracts/Beluga Pay (BBI) Security Audit - CoinFabrik Blog
+../dataset/contracts/Dulcet_AuditReport_InterFi
+../dataset/contracts/VAYU_0xEC8A7738b3B2C014d572aB4Db4A091490b4f325A
+../dataset/contracts/Gigabyte Games
+../dataset/contracts/GanjaInu-Audit-by-BlockSAFU
+../dataset/contracts/polkas
+../dataset/contracts/Charity Coin Full Smart Contract Security Audit
+../dataset/contracts/ShinFloki_0x901F1F21eD996Ebc1E5Ddbf3bC8Bbd2F9d1221f7
+../dataset/contracts/LIUM Protocol
+../dataset/contracts/BabyXape Full Smart Contract Security Audit
+../dataset/contracts/RPS leagu
+../dataset/contracts/Metabullrage_0xCFd3eaA8aE0a44B48e4bE808078dB4895aC8a2De
+../dataset/contracts/SmartContract_Audit_Solidproof_MadRabbit
+../dataset/contracts/Crypto Shield Full Smart Contract Security Audit
+../dataset/contracts/sufi
+../dataset/contracts/ZamoLaws Full Smart Contract Security Audit
+../dataset/contracts/ski
+../dataset/contracts/HummingBird Finance
+../dataset/contracts/MiniDOGE Smart Contract Audit Report - QuillAudits
+../dataset/contracts/VAULT Token
+../dataset/contracts/Verichains Public Audit Report - Hera - v1
+../dataset/contracts/SmartContract_Audit_Solidproof_FlokiInu
+../dataset/contracts/Hacken-Peoplez
+../dataset/contracts/CrossX_0x747339CaB98CC50c8698970DB1f89BB3A0bb7A03
+../dataset/contracts/1-sdt
+../dataset/contracts/MoonRat Finance
+../dataset/contracts/SafeSun Full Smart Contract Security Audit
+../dataset/contracts/playtrk
+../dataset/contracts/BBFTKitchen_0x2f3B9cd1ef4604dCD5d07C3a4cDCF3b6E449E4ba
+../dataset/contracts/org
+../dataset/contracts/RickMortyDoxx Full Smart Contract Security Audit
+../dataset/contracts/sandpro
+../dataset/contracts/gpay
+../dataset/contracts/dLOTTO-Audit-by-BlockSAFU
+../dataset/contracts/moneydoge
+../dataset/contracts/1-ffl
+../dataset/contracts/Dune Full Smart Contract Security Audit
+../dataset/contracts/pepl
+../dataset/contracts/BlueLotusDao DEX
+../dataset/contracts/1-dogeceo
+../dataset/contracts/HodlnAlliance_0xceaeF425930c7100c6515Ce9A5Eb526F27e249f9
+../dataset/contracts/SmartContract_Audit_Solidproof_Binemon
+../dataset/contracts/SlowMist Audit Report - MYKEY_zh-cn
+../dataset/contracts/Nugen Partnership Smart Contract Audit Report - QuillAudits
+../dataset/contracts/GalaxyDefi Finance
+../dataset/contracts/catland
+../dataset/contracts/Nomen Finance Full Smart Contract Security Audit
+../dataset/contracts/Coinbae-Grumpee
+../dataset/contracts/wky
+../dataset/contracts/CoinLaunchPad
+../dataset/contracts/ShinaInu_0x243cACb4D5fF6814AD668C3e225246efA886AD5a
+../dataset/contracts/srt3
+../dataset/contracts/Saitanobi Full Smart Contract Security Audit
+../dataset/contracts/MetaCars
+../dataset/contracts/7-smt 2
+../dataset/contracts/2-vc
+../dataset/contracts/YODL Full Smart Contract Security Audit
+../dataset/contracts/agw
+../dataset/contracts/apemc
+../dataset/contracts/tac2
+../dataset/contracts/hwk
+../dataset/contracts/peppagreen
+../dataset/contracts/kuku
+../dataset/contracts/1-cbox
+../dataset/contracts/InvertedInvestment_0x4505B3666201dA5e5880b2844993168C76aE0cE4
+../dataset/contracts/Kitty
+../dataset/contracts/RedFeg Full Smart Contract Security Audit
+../dataset/contracts/Tweet2Earn_0xf520862426f73dF092303960f2060Ba3F0027A69
+../dataset/contracts/Waiv
+../dataset/contracts/SmartContract_Audit_Solidproof_BuffedShiba
+../dataset/contracts/vcr
+../dataset/contracts/EverWealth_0x83CF5473b7972Ed264Ba58d549be600ADAA3F090
+../dataset/contracts/Aeternus_Foundation_Corporation_SC_Audit_Report_14042023_SA_1225
+../dataset/contracts/TITAN
+../dataset/contracts/babystepn
+../dataset/contracts/BTFA_AuditReport_InterFi
+../dataset/contracts/DarkHorse Standart Smart Contract Security Audit
+../dataset/contracts/Doge of the Dead Full Smart Contract Security Audit
+../dataset/contracts/Cowboy Zombies
+../dataset/contracts/Comic Coin
+../dataset/contracts/SmartContract_Audit_Solidproof_StarSaphire
+../dataset/contracts/Hybrid Doge Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Christmas Doge Full Smart Contract Security Audit
+../dataset/contracts/SlowMist Audit Report - Fortube Bank 2
+../dataset/contracts/SWASS Full Smart Contract Security Audit Updated (2)
+../dataset/contracts/SantaDoge_AuditReport_InterFi
+../dataset/contracts/Doge Unchained Full Smart Contract Security Audit
+../dataset/contracts/MOI Smart Contract Audit Report-QuillAudits
+../dataset/contracts/Moon Corgi
+../dataset/contracts/cgpt
+../dataset/contracts/SafeSatoshiMoon Full Smart Contract Security Audit
+../dataset/contracts/PureBloodToken_0x07dfbA6519D4efF2E2Eee25A1759Be3b074c387f
+../dataset/contracts/Facebook Metaverse Full Smart Contract Security Audit
+../dataset/contracts/wino
+../dataset/contracts/Web3AiTools Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-cwi
+../dataset/contracts/MetaReflect_0x1e2D9f6a71857853f414Bf799415b5E56c19DeF3
+../dataset/contracts/Carbify-19012023_SC-Audit-Report_23_01_2023
+../dataset/contracts/1-oshi
+../dataset/contracts/Grokie Inu Smart Contract Audit
+../dataset/contracts/moria
+../dataset/contracts/ManyWorlds_AuditReport_InterFi
+../dataset/contracts/Global Adversity Project Full Smart Contract Security Audit
+../dataset/contracts/GalacticSpaceBucks Full Smart Contract Security Audit
+../dataset/contracts/PeckShield-Audit-Report-SushiSwap-v1
+../dataset/contracts/Rarechain Full Smart Contract Security Audit
+../dataset/contracts/SIMBA INU Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Cyberwolf
+../dataset/contracts/Gorilla
+../dataset/contracts/74-tip
+../dataset/contracts/LadyShibaInu_0xbc93965f242e2E7764a33b084fF7574b40a702eC
+../dataset/contracts/QATAR 2022 TOKEN
+../dataset/contracts/First Inu Full Smart Contract Security Audit
+../dataset/contracts/syndicate
+../dataset/contracts/BabyPluto
+../dataset/contracts/MasterFloki_AuditReport_InterFi
+../dataset/contracts/THEOSCOIN Full Smart Contract Security Audit
+../dataset/contracts/MiniMeToken Smart Contract Audit Report - QuillAudits
+../dataset/contracts/pes
+../dataset/contracts/zob
+../dataset/contracts/ContractWolf_Audit_ANONYMOUS
+../dataset/contracts/SmartContract_Audit_Solidproof_Lambottery
+../dataset/contracts/xrpn
+../dataset/contracts/Tomahawk Token Full Smart Contract Security Audit
+../dataset/contracts/ordo
+../dataset/contracts/SALAH-Audit-by-BlockSAFU
+../dataset/contracts/Sustainable Energy Token (SET) Standard
+../dataset/contracts/liger
+../dataset/contracts/MentalHealthToken Full Smart Contract Security Audit
+../dataset/contracts/tag
+../dataset/contracts/3-hinu
+../dataset/contracts/3-tits
+../dataset/contracts/PalmPay_0xAe9A270567dCAee18A909830b1c7F6Ec8A4243f8
+../dataset/contracts/Infinite Rise
+../dataset/contracts/tkc
+../dataset/contracts/Youbie
+../dataset/contracts/3-gdoge
+../dataset/contracts/1-neo
+../dataset/contracts/Pension Plan Full Smart Contract Security Audit
+../dataset/contracts/ShibaMonkey_0x0f32B5f7e35c96e61b50d49A228Eccfc0D6Ca470
+../dataset/contracts/SmartContract_Audit_Solidproof_ArtisLifeNetwork
+../dataset/contracts/Carbon Coin - CNES
+../dataset/contracts/Futurama Smart Contract audit
+../dataset/contracts/MoveCash_0xF3DBdF718667874e19EF368721A10409345fC218
+../dataset/contracts/SmartContract_Audit_Solidproof_SafeChainToken
+../dataset/contracts/1-cs
+../dataset/contracts/DWDToken
+../dataset/contracts/CyberDucks
+../dataset/contracts/ContractWolf_Audit_Lobster_OZO
+../dataset/contracts/ARCHREALM_0x2d9Fd0B45f5B45d7A93B426493A87E7c0148f735
+../dataset/contracts/SHEEBA Full Smart Contract Security Audit
+../dataset/contracts/Astroape
+../dataset/contracts/DESRewardsContract-Audit-by-BlockSAFU
+../dataset/contracts/Bwatch_0x7d3Ed36Ff23c7FC9026A52D5a258516b4B16220c
+../dataset/contracts/DogeZillaKilla_0x2BFcBc97F7FbB394a841D14676f0E42bE242c572
+../dataset/contracts/DekuInu
+../dataset/contracts/AOF_AuditReport_InterFi
+../dataset/contracts/LIONMOON Full Smart Contract Security Audit
+../dataset/contracts/GoldenShibaInu_0x4f318DF566b90e6D83D578E3d25eA1C9269a7e79
+../dataset/contracts/HerityNetwork Full Smart Contract Security Audit
+../dataset/contracts/bivi
+../dataset/contracts/BuyBot-Audit-by-BlockSAFU
+../dataset/contracts/Yang_AuditReport_InterFi
+../dataset/contracts/Falcons Inu Smart Contract Audit Report - QuillAudits
+../dataset/contracts/mcg
+../dataset/contracts/dogeking
+../dataset/contracts/Baby ape
+../dataset/contracts/SharkInu_0xfC98D7435D262095110AceDD70E3eCdc6947eAc6
+../dataset/contracts/CatMoonCoin
+../dataset/contracts/HAECHI_AUDIT-NPICK
+../dataset/contracts/tah
+../dataset/contracts/Titannex_0x7C9B5181F234f4EC268Cf167f856b2dB07C49163
+../dataset/contracts/FalconSwap Smart Contract Audit Report - QuillAudits
+../dataset/contracts/spf
+../dataset/contracts/QuillAudit-Rarx_Smart_Contract_Audit_Report
+../dataset/contracts/BNBCharity Standart Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_BabyFlokiUp
+../dataset/contracts/KirbyX_0x9F986335372eC2CdE4F0cC9618adbef2f8CA747B
+../dataset/contracts/rflc
+../dataset/contracts/uld
+../dataset/contracts/neuro
+../dataset/contracts/Jack Raffle Full Smart Contract Security Audit
+../dataset/contracts/FindShibby_AuditReport_InterFi
+../dataset/contracts/Doge Homies
+../dataset/contracts/Sabaka Inu Full Smart Contract Security Audit
+../dataset/contracts/2-bfc
+../dataset/contracts/simpsonbart
+../dataset/contracts/CakeBaker_AuditReport_InterFi
+../dataset/contracts/bset
+../dataset/contracts/wip
+../dataset/contracts/jta
+../dataset/contracts/NebulaMiners
+../dataset/contracts/FlokiMillions_AuditReport_InterFi
+../dataset/contracts/Round_0x3838febE83403112eba3eba27090Cedd3628D00b
+../dataset/contracts/Dogematic
+../dataset/contracts/MetaTools_0x92615B13B249Be6A01591B7c68EFcf59ef7aB61f
+../dataset/contracts/bloki
+../dataset/contracts/glra
+../dataset/contracts/Aztec - Audit Report
+../dataset/contracts/SmartContract_Audit_Solidproof_HolderMoon
+../dataset/contracts/nxs
+../dataset/contracts/1-lunainu
+../dataset/contracts/slrr
+../dataset/contracts/streeth
+../dataset/contracts/Octet
+../dataset/contracts/4move
+../dataset/contracts/AstroDragon
+../dataset/contracts/BitPumpExchange_0x0031ed3b4Fd84A31357D75E8d64a01BE0D8a5Ebc
+../dataset/contracts/Flash_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_TheCollectiveCoin_V3
+../dataset/contracts/1BOX Token Full Smart Contract Security Audit
+../dataset/contracts/lassie
+../dataset/contracts/SATIN
+../dataset/contracts/Kino Token Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_MyShibaAcademia
+../dataset/contracts/PiggyAppFinance
+../dataset/contracts/lordWAR
+../dataset/contracts/HodlADA
+../dataset/contracts/Fortune Cookie - Audit Report
+../dataset/contracts/ETHSaitama_0xd2800a8483089766Be328977Fc95a8496217646c
+../dataset/contracts/ZooZooSwap_AuditReport_InterFi
+../dataset/contracts/dab
+../dataset/contracts/TechGecko Smart Contract Audit
+../dataset/contracts/Landian Coin
+../dataset/contracts/Armageddon Full Smart Contract Security Audit
+../dataset/contracts/CrystalPro Full Smart Contract Security Audit
+../dataset/contracts/202304231150
+../dataset/contracts/DKYCNFT_0xbFd91e19fed50eF9D9916b521Ed566d69a7A1C9D
+../dataset/contracts/CasInu_0xC1eF9044522551DC0F664139f6C1a7765F6bf4aE
+../dataset/contracts/BNBBACK_0x280EbB7c9F2C90Ac6dD136516598a2f9efe70507
+../dataset/contracts/BABAToken
+../dataset/contracts/KazamaSenshi_AuditReport_InterFi
+../dataset/contracts/NITROX Full Smart Contract Security Audit
+../dataset/contracts/Exonova_AuditReport_InterFi
+../dataset/contracts/BonsaiBTC_0x08c874349E2A5ddBbb32F9d008968a08803210a9
+../dataset/contracts/Haloverse_0xdec2DA3F093B1e5212bd7350d2ce3fB42057C78D
+../dataset/contracts/Sporty Doge
+../dataset/contracts/TheRugGame Smart Contract Audit Report - QuillAudits
+../dataset/contracts/CryptoWarz_0x82be242BDf3a5C8da8fE3c1Fa303C1D8d0E7Bb7f
+../dataset/contracts/SmartContract_Audit_Solidproof_Fantasy
+../dataset/contracts/Pomsky
+../dataset/contracts/SQUEEZE Full Smart Contract Security Audit
+../dataset/contracts/HalloweenInu_AuditReport_InterFi
+../dataset/contracts/1-stc
+../dataset/contracts/SmartContract_Audit_Solidproof_BabyShibbyInu
+../dataset/contracts/2c-gl
+../dataset/contracts/MoonMiner Full Smart Contract Security Audit
+../dataset/contracts/2-dape
+../dataset/contracts/TripVerse Full Smart Contract Security Audit
+../dataset/contracts/Meliora Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Binamon Energy Smart Contract Audit Report - QuillAudits
+../dataset/contracts/tfp
+../dataset/contracts/SmartContract_Audit_Solidproof_OxPad
+../dataset/contracts/Stealth SHIBA Full Smart Contract Security Audit
+../dataset/contracts/2-swt
+../dataset/contracts/mba
+../dataset/contracts/Bitpara Smart Contract Audit - CoinFabrik Blog
+../dataset/contracts/PepeMoon Token Smart Contract Security Audit
+../dataset/contracts/FatAnimal Token Full Smart Contract Security Audit
+../dataset/contracts/2-gct
+../dataset/contracts/GoldRushCasino_0x5814a0de8F21670E8b5e43c86386F25DcE14d712
+../dataset/contracts/Baby Casper
+../dataset/contracts/Hacken-Request Network
+../dataset/contracts/AetherV2 Full Smart Contract Security Audit
+../dataset/contracts/JaguarEvolution
+../dataset/contracts/Verichains Public Audit Report - HeroFi Token And Reward - v1
+../dataset/contracts/HodlBUSD
+../dataset/contracts/mongoose
+../dataset/contracts/MiniZILLA Full Smart Contract Security Audit
+../dataset/contracts/Next Token Full Smart Contract Security Audit
+../dataset/contracts/InvestFolio Smart Contract Audit Report - QuillAudits
+../dataset/contracts/XiangDoge Full Smart Contract Security Audit
+../dataset/contracts/Hacken-Sekuritance
+../dataset/contracts/Papel
+../dataset/contracts/WeedSwap Token
+../dataset/contracts/3-lion
+../dataset/contracts/go-exchange-token
+../dataset/contracts/Rumble_0xe913722C0CCB45840b9E56Ac395944f0C370d463
+../dataset/contracts/1-rfloki
+../dataset/contracts/1-mario
+../dataset/contracts/oryxfi
+../dataset/contracts/RPS Finance
+../dataset/contracts/PolyGold Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Soteria
+../dataset/contracts/VolcanoFinance_0xAFeC37AbB13A11a1Ef6C8869fb9d37399e95eac5
+../dataset/contracts/FlokiMarvin_0x18D0717E9B3371a9EC4089CF0FE89e6591724556
+../dataset/contracts/Disco Burn Token Full Smart Contract Security Audit
+../dataset/contracts/ShibaLottery_AuditReport_InterFi
+../dataset/contracts/Hoodrich
+../dataset/contracts/ContractWolf_Audit_JK
+../dataset/contracts/HyperDrive
+../dataset/contracts/eic
+../dataset/contracts/SmartContract_Audit_Solidproof_Gameology
+../dataset/contracts/dis
+../dataset/contracts/9c-goat
+../dataset/contracts/DOGEONE Full Smart Contract Security Audit
+../dataset/contracts/GameCrypt_0x255A1d41BD0942aDB1db5E78371798901c9CB4f3
+../dataset/contracts/MetaWhales_0x50A7B3188e71A8DBA75E3C92E0a800Eb7a6d9a2A
+../dataset/contracts/SmartContract_Audit_Solidproof_Cashio
+../dataset/contracts/meta-ape
+../dataset/contracts/STAY
+../dataset/contracts/lope
+../dataset/contracts/1-ceosar
+../dataset/contracts/1-sdoge
+../dataset/contracts/SafeIcarus Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_ZONOSwap
+../dataset/contracts/AIDUS Smart Contract Audit Report - QuillAudits
+../dataset/contracts/shica
+../dataset/contracts/Profit Bank Full Smart Contract Security Audit
+../dataset/contracts/CoinDogg Smart Contract Audit Report - QuillAudits
+../dataset/contracts/shinata
+../dataset/contracts/stdoge
+../dataset/contracts/QuillAudit-TycoonToken_Smart_Contract_Audit_Report
+../dataset/contracts/BICHON TOKENT Full Smart Contract Security Audit
+../dataset/contracts/1-marsdoge
+../dataset/contracts/darling-inu
+../dataset/contracts/BYTNODE
+../dataset/contracts/GalaxyBUSD_0x70375E2ADF741229d1b6D0E3F78bB30F4Ac67260
+../dataset/contracts/Verichains Public Audit Report - AshWard Token and IDO - v1
+../dataset/contracts/SafeRune
+../dataset/contracts/Yin_AuditReport_InterFi
+../dataset/contracts/Iosiro-FLUX Token Smart Contract Audit
+../dataset/contracts/Ethereum Classic Half Life
+../dataset/contracts/FuriaFinance Full Smart Contract Security Audit
+../dataset/contracts/AutoMaticUp_AuditReport_InterFi
+../dataset/contracts/TOKE
+../dataset/contracts/EverEarn_0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C
+../dataset/contracts/Kaizilla_AuditReport_InterFi
+../dataset/contracts/BNOU-Pool-Audit-by-BlockSAFU
+../dataset/contracts/Moonpirate Full Smart Contract Security Audit
+../dataset/contracts/Soken-Amica_Token
+../dataset/contracts/BNBPay
+../dataset/contracts/msex
+../dataset/contracts/csyn
+../dataset/contracts/MetaDogeSwap Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Trillium
+../dataset/contracts/pitd
+../dataset/contracts/OuseToken_0x48CB1c21aF7b5D04a8c48479D1BDfa783ce94d99
+../dataset/contracts/2-blobby
+../dataset/contracts/FEMECONOMY BEP-20 CONTRACT · Issue #612 · EthereumCommonwealth_Auditing
+../dataset/contracts/SAPT Full Smart Contract Security Audit
+../dataset/contracts/ConsenSys_Diligence-iFunded
+../dataset/contracts/1-chapo
+../dataset/contracts/chest
+../dataset/contracts/AssetFi Full Smart Contract Security Audit
+../dataset/contracts/BRIC Coin Full Smart Contract Security Audit
+../dataset/contracts/ImmuneBytes-Keep_Safe_Finance_Audit_Report
+../dataset/contracts/metabtc
+../dataset/contracts/mcgregor
+../dataset/contracts/YearnNFTFinance_AuditReport_InterFi
+../dataset/contracts/1-ctt
+../dataset/contracts/2-tet
+../dataset/contracts/Soken-MEDABOTS
+../dataset/contracts/Greed Token
+../dataset/contracts/1-dz
+../dataset/contracts/sonofbtc
+../dataset/contracts/aki
+../dataset/contracts/ContractWolf_Audit_Satoshi_Airlines
+../dataset/contracts/TokenLockEndlessBurn-Audit-by-BlockSAFU
+../dataset/contracts/difi
+../dataset/contracts/basenji
+../dataset/contracts/Roronoa Zoro Inu Full Smart Contract Security Audit
+../dataset/contracts/Hacken-Amoss
+../dataset/contracts/SmartContract_Audit_Solidproof_Chainlist
+../dataset/contracts/dumbo
+../dataset/contracts/cakepro
+../dataset/contracts/walkx
+../dataset/contracts/DogeTown_0x071C8b5BBe81d3bA469bB30a97fF77d05C96ff22
+../dataset/contracts/FireZard
+../dataset/contracts/steps
+../dataset/contracts/Pirate Inu
+../dataset/contracts/CumBlast Full Smart Contract Security Audit
+../dataset/contracts/UnityMetaToken Full Smart Contract Security Audit
+../dataset/contracts/1-kazama
+../dataset/contracts/apyd
+../dataset/contracts/Kenny
+../dataset/contracts/1-viv
+../dataset/contracts/Yell
+../dataset/contracts/xid
+../dataset/contracts/Snowcrash_0x1D4Cc4d9dd63BEF2a0e313687628f109e32C59B2
+../dataset/contracts/CrowdFi Full Smart Contract Security Audit
+../dataset/contracts/Cosanta_1
+../dataset/contracts/PAWN MY NFT Full Smart Contract Security Audit
+../dataset/contracts/CHEEMSINU Full Smart Contract Security Audit
+../dataset/contracts/MetaHulkShiba_0x2390397084D7B74cAe328233A8829f7D7096C6dF
+../dataset/contracts/SmartContract_Audit_Solidproof_Matata
+../dataset/contracts/ZeroXPad
+../dataset/contracts/1-gld
+../dataset/contracts/CrickDao Smart Contract Audit Report - QuillAudits
+../dataset/contracts/BlueSparrowToken Full Smart Contract Security Audit
+../dataset/contracts/MetaZilla
+../dataset/contracts/CGC-Smart-Contract-Audit-Report - Numen
+../dataset/contracts/obrok
+../dataset/contracts/MindMusic_AuditReport_InterFi
+../dataset/contracts/CorsacV2_0x25c39B6c5Ec8a9d81826F9F0E6448ceAEA1570b4
+../dataset/contracts/BizTech
+../dataset/contracts/Soken-Athenas_Capital
+../dataset/contracts/SmartContract_Audit_Solidproof_Darkshield
+../dataset/contracts/SmartContract_Audit_Solidproof_Unity
+../dataset/contracts/SmartContract_Audit_Solidproof_Ravenfield
+../dataset/contracts/BabyShib_0xb030160Ba7B2E1De7C336F9E035e4d129b90d519
+../dataset/contracts/ImperialFinance_0x889e8cD93Be2FDF4CCc649Ba9D51e61CFD8C930f
+../dataset/contracts/3-scat
+../dataset/contracts/Magneto_0xA82427F494B21AFaD4d4b9922f49429Cec643971
+../dataset/contracts/PomeraNaut_AuditReport_InterFi
+../dataset/contracts/Splash_AuditReport_InterFi
+../dataset/contracts/AgravityNFT-Audit-by-BlockSAFU
+../dataset/contracts/Crox Final
+../dataset/contracts/NoboFinance_AuditReport_InterFi
+../dataset/contracts/Restore Token Full Smart Contract Security Audit
+../dataset/contracts/nekogirl
+../dataset/contracts/FrenchieFloki_AuditReport_InterFi
+../dataset/contracts/1-yst
+../dataset/contracts/1-medusa
+../dataset/contracts/MAS FINANCE
+../dataset/contracts/ibs
+../dataset/contracts/Ponke Smart Contract Audit
+../dataset/contracts/UniCoin
+../dataset/contracts/Safesol Full Smart Contract Security Audit
+../dataset/contracts/%24mddoge
+../dataset/contracts/Bugg Smart Contract Security Audit
+../dataset/contracts/camo
+../dataset/contracts/omv
+../dataset/contracts/GorillaDiamond Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_CryptoInu
+../dataset/contracts/SmartContract_Audit_Solidproof_MOM
+../dataset/contracts/1-buddha
+../dataset/contracts/sskf
+../dataset/contracts/1-squid
+../dataset/contracts/MemeKiller Standart Smart Contract Security Audit copy
+../dataset/contracts/1-edoge
+../dataset/contracts/SuperDigitalToken_0xa49f2744438Fe1ffBe789a118743EE9841b2400D
+../dataset/contracts/FennecVerse_0x8deE1Af25aA319a51955877D3ad8AA2FAA562C9F
+../dataset/contracts/TycoonZone_0x829BDD5ff76B293d274F47cf95A48b98cecAff0C
+../dataset/contracts/Rooster Finance
+../dataset/contracts/MetaBros_0xAA8DB4DDE4FEA148eFe25aBa1705ECF450fA9388
+../dataset/contracts/EverGrow Coin
+../dataset/contracts/gmtd
+../dataset/contracts/SmartContract_Audit_Solidproof_Cointribute
+../dataset/contracts/Bullish Tiger Smart Contract Audit
+../dataset/contracts/2-bst
+../dataset/contracts/2-bbl
+../dataset/contracts/1-creed
+../dataset/contracts/Archie Neko Full Smart Contract Security Audit
+../dataset/contracts/6-bdoge
+../dataset/contracts/aceo
+../dataset/contracts/turtl
+../dataset/contracts/CROCBOY_0x3645d5d14944C42151b97dba5cb5Ef6eD29e2f67
+../dataset/contracts/metavs
+../dataset/contracts/Shooter Floki
+../dataset/contracts/BabyMutantApe_0x0442bA133233ceb77591Adc08FD41771fdb8a3F1
+../dataset/contracts/AscensionArcade
+../dataset/contracts/Bitecoin_0x9B314254762D282C3079083ac9e56290b00150C2
+../dataset/contracts/DogeInShib_AuditReport_InterFi
+../dataset/contracts/Polecats_0xDE6b99603D24d7034997B503F61850DB58509f98
+../dataset/contracts/MoonDash Full Smart Contract Security Audit
+../dataset/contracts/MemeForce
+../dataset/contracts/NutGain_0xc091377110acfb780dfb9f6c200b2ef81d8ce4ab
+../dataset/contracts/BunnyGirl_AuditReport_InterFi
+../dataset/contracts/Restn_0xc4fAF18Bc0928a42c66fDAb7A8498e33f6e69247
+../dataset/contracts/AntiRugN_0xBCd10D913F2Cd6C054FDC157dD371BCFA80F2B5A
+../dataset/contracts/SafeRise
+../dataset/contracts/ScroogeJR_0x2e9F79aF51dD1bb56Bbb1627FBe4Cc90aa8985Dd
+../dataset/contracts/lakita
+../dataset/contracts/DinoBUSD_AuditReport_InterFi
+../dataset/contracts/foat
+../dataset/contracts/pii
+../dataset/contracts/Fibo Token
+../dataset/contracts/3-bat
+../dataset/contracts/2-dox
+../dataset/contracts/LunarX Full Smart Contract Security Audit
+../dataset/contracts/AngeGame-Audit-by-BlockSAFU
+../dataset/contracts/Inspex_AUDIT2022031_BaryonNetwork_BaryonFarm_FullReport_v1
+../dataset/contracts/3-gme
+../dataset/contracts/2-ove
+../dataset/contracts/AnimalTycoon
+../dataset/contracts/KoinSwap
+../dataset/contracts/MrsCheems_0x690c3D6B89A102A31916ff87Ac42262bc564379F
+../dataset/contracts/ForeverDOGE Full Smart Contract Security Audit
+../dataset/contracts/VandalShibaInu_0xB6B31d65D048FafB2aCE439b727c29dfd86cd6f3
+../dataset/contracts/HokkHogan
+../dataset/contracts/Astro Surf Full Smart Contract Security Audit
+../dataset/contracts/almr
+../dataset/contracts/Parallel Universe Full Smart Contract Security Audit
+../dataset/contracts/BeOne Coin
+../dataset/contracts/us
+../dataset/contracts/PastryPunks_AuditReport_InterFi
+../dataset/contracts/Enviro
+../dataset/contracts/quackin
+../dataset/contracts/DogMove_0xEe4e6c391bD653B51f6ECdC19bf9Dd2f8f2cf642
+../dataset/contracts/1-vc
+../dataset/contracts/The Revolution Token
+../dataset/contracts/ContractWolf_Audit_Macro_Protocol
+../dataset/contracts/Fuusion
+../dataset/contracts/SafeMoon Inu Full Smart Contract Security Audit
+../dataset/contracts/bwp
+../dataset/contracts/MetaBUSD_0xF14D3692B0055Db9Ca4c04065165d59B87E763f1
+../dataset/contracts/SaphireFinance_AuditReport_InterFi
+../dataset/contracts/Neuralink Protocol
+../dataset/contracts/SeedOn Full Smart Contract Security Audit
+../dataset/contracts/jim
+../dataset/contracts/cyborg
+../dataset/contracts/Dartter Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Soken-Vita_Inu
+../dataset/contracts/f35
+../dataset/contracts/SmartContract_Audit_Solidproof_Dali
+../dataset/contracts/obo
+../dataset/contracts/mpay
+../dataset/contracts/ContractWolf_Audit_SoteriaAlliance
+../dataset/contracts/NO COVID 19
+../dataset/contracts/3-love
+../dataset/contracts/Success Kid Smart Contract Audit
+../dataset/contracts/Sleepz_0xbA0F64792ff4bfFB7084E7b8da9C0Ac3b4784F37
+../dataset/contracts/Buff Floki Coin Full Smart Contract Security Audit
+../dataset/contracts/Coalphoenix Full Smart Contract Security Audit
+../dataset/contracts/Digital Gold Coin Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Meta18X Full Smart Contract Security Audit
+../dataset/contracts/HAECHI_AUDIT-IMETA
+../dataset/contracts/For Loot And Glory
+../dataset/contracts/Mustang Token
+../dataset/contracts/3-peppa
+../dataset/contracts/kls
+../dataset/contracts/O5O_0xd79aC202089BD317c8B8aa3621cAf5c1cf6C6Ba6
+../dataset/contracts/Luffy Inu
+../dataset/contracts/MoonRocketCoin Full Smart Contract Security Audit
+../dataset/contracts/FarmerDoge (Launch Day) Full Smart Contract Security Audit
+../dataset/contracts/bki
+../dataset/contracts/shibcat
+../dataset/contracts/FlokiMooni_AuditReport_InterFi
+../dataset/contracts/BabyApeClub_0x097FC858f5431265fA943619B481f3D192fBD6FE
+../dataset/contracts/jji
+../dataset/contracts/UkraineSolidarity_0xA8DFB37e74d7037999D6B5cA1a2515f3F41c7455
+../dataset/contracts/HarunoInu_AuditReport_InterFi
+../dataset/contracts/Trillant Full Smart Contract Security Audit
+../dataset/contracts/digger
+../dataset/contracts/Tokenify Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_VirviaMall
+../dataset/contracts/SmartContract_Audit_Solidproof_TSAR
+../dataset/contracts/ContractWolf_Audit_BNB_Bet_Club
+../dataset/contracts/MoveZ_0x039cD22cb49084142d55FCD4B6096A4F51ffb3B4
+../dataset/contracts/IQEQ TOKEN Full Smart Contract Security Audit
+../dataset/contracts/YoRocket
+../dataset/contracts/BinanceCash_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_DogeRace
+../dataset/contracts/Spurdo Inu
+../dataset/contracts/SmartContract_Audit_Solidproof_HolyLightHero
+../dataset/contracts/sodo
+../dataset/contracts/CoinsFee_0x1ec3bB50d5F315524c70E6d2124cEdcdE232aD68
+../dataset/contracts/5-mc
+../dataset/contracts/ElongF Full Smart Contract Security Audit
+../dataset/contracts/PathFund Full Smart Contract Security Audit
+../dataset/contracts/Bridge_0xA6d416a7B0ad227a1c2475A7CD986E9BFc39B3C9
+../dataset/contracts/Oobit-Audit-Report_19042023_SA-1154
+../dataset/contracts/brics
+../dataset/contracts/BigDog Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Xmonkey_0x86dC131C921e8fAB82cC712e19A29323732c9a41
+../dataset/contracts/Realblock Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-svc
+../dataset/contracts/mi
+../dataset/contracts/FarmBit Full Smart Contract Security Audit
+../dataset/contracts/5-floki
+../dataset/contracts/SHIBPay
+../dataset/contracts/btscrw
+../dataset/contracts/Military Finance Token
+../dataset/contracts/Metaverse Smart Contract Audit Report - QuillAudits
+../dataset/contracts/DSDCSTINKProtocol_0xdc42c3a92c4A03F9b9F3FBaBa0125286FDAa6772
+../dataset/contracts/IRONMAN Full Smart Contract Security Audit
+../dataset/contracts/mewn
+../dataset/contracts/Tokenoid Full Smart Contract Security Audit
+../dataset/contracts/pekar
+../dataset/contracts/2023-02-chainport-securityreview
+../dataset/contracts/Hacken-Syntropy Network
+../dataset/contracts/Rulerfish_0x71AD8E317C8668c43da2bAcb415eFf1ac548D83c
+../dataset/contracts/SantaAlien_AuditReport_InterFi
+../dataset/contracts/ssdoge
+../dataset/contracts/SantaShibaZilla_AuditReport_InterFi
+../dataset/contracts/Kingfund
+../dataset/contracts/SportDoge-Audit-by-BlockSAFU
+../dataset/contracts/CoinBunchie_AuditReport_InterFi
+../dataset/contracts/HarmonyLauncher Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Valon_0x3303C541E0CA5F74b3c12EB4E7d0Eb75f1E51e20
+../dataset/contracts/Red Rocket Token Full Smart Contract Security Audit
+../dataset/contracts/Eternity Blockchain Smart Contract Audit
+../dataset/contracts/groc
+../dataset/contracts/Burst Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/allin
+../dataset/contracts/techdoge
+../dataset/contracts/Digipad_0xd6BD902c588524F0878716BaAC0f53066d4e078C
+../dataset/contracts/OpenworldNFT
+../dataset/contracts/Decentreum Smart Contract Audit
+../dataset/contracts/MoonPortal Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_CryptoTed
+../dataset/contracts/1-piso
+../dataset/contracts/Pinball Token
+../dataset/contracts/EarnDOGE Full Smart Contract Security Audit
+../dataset/contracts/TwogeInu_0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE
+../dataset/contracts/1-ares
+../dataset/contracts/4-sc
+../dataset/contracts/SmartContract_Audit_Solidproof_HiddenGlobal
+../dataset/contracts/Merchant Autonomous Network
+../dataset/contracts/Seacow Token
+../dataset/contracts/MarsRise
+../dataset/contracts/CoinfuExchange_0x33b1478594Acc16CFFD6B7e2aB0F86c14EB654Ea
+../dataset/contracts/pepeb
+../dataset/contracts/Soken-Gulf_Coin
+../dataset/contracts/SmartContract_Audit_Solidproof_ThreeKingdoms
+../dataset/contracts/pnv
+../dataset/contracts/SmartContract_Audit_Solidproof_Metafly
+../dataset/contracts/Baby Moon Floki Full Smart Contract Security Audit
+../dataset/contracts/enx
+../dataset/contracts/elmap
+../dataset/contracts/WTToken
+../dataset/contracts/SmartContract_Audit_Solidproof_DefiConnect
+../dataset/contracts/ironman
+../dataset/contracts/GemSpree
+../dataset/contracts/hrtx
+../dataset/contracts/Red Knight Token Inu Full Smart Contract Security Audit
+../dataset/contracts/GELD Finance
+../dataset/contracts/2-up
+../dataset/contracts/alphapro
+../dataset/contracts/Chibi Saitama Full Smart Contract Security Audit
+../dataset/contracts/DogeGiving_AuditReport_InterFi
+../dataset/contracts/sln
+../dataset/contracts/2-srt
+../dataset/contracts/DecentraBNB_0x833850BE8858722Cfc5E5e75f2Fe6275E055d888
+../dataset/contracts/Lanceria
+../dataset/contracts/Tofu Finance
+../dataset/contracts/shibach
+../dataset/contracts/NexonNFT
+../dataset/contracts/ContractWolf_Audit_DarkwebMetaverse
+../dataset/contracts/dmmt
+../dataset/contracts/junkoinu
+../dataset/contracts/MusicToken Full Smart Contract Security Audit
+../dataset/contracts/Predator Token Full Smart Contract Security Audit
+../dataset/contracts/Goal Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/4-pinu
+../dataset/contracts/Orion Standart Smart Contract Security Audit
+../dataset/contracts/adstacking
+../dataset/contracts/SnowBall
+../dataset/contracts/INSTINCT Full Smart Contract Security Audit
+../dataset/contracts/apo
+../dataset/contracts/2-xdoge
+../dataset/contracts/Eclipse
+../dataset/contracts/10-astro
+../dataset/contracts/Dexta
+../dataset/contracts/Achilles Finance
+../dataset/contracts/VEKTOR
+../dataset/contracts/MoonStar
+../dataset/contracts/BabyDragoNFT_AuditReport_InterFi
+../dataset/contracts/Lukkyverse_0xE9af5C2C024D666a7e6Cab9274343c814Fbb3CCF
+../dataset/contracts/PVTL_AuditReport_InterFi
+../dataset/contracts/2-mcat
+../dataset/contracts/KhabyToken_0x7ec8dC39231Ac59824846341337EA66Bf404E73F
+../dataset/contracts/Exatech Smart Contract Audit
+../dataset/contracts/SLAND-Audit-by-BlockSAFU
+../dataset/contracts/Gonewild
+../dataset/contracts/spag
+../dataset/contracts/Hacken-Titan Hunters
+../dataset/contracts/SmartContract_Audit_Solidproof_AVNRich
+../dataset/contracts/Davey Nakamoto Smart Contract Audit
+../dataset/contracts/shibAkita Full Smart Contract Security Audit
+../dataset/contracts/BankSocial
+../dataset/contracts/RatRace Full Smart Contract Security Audit
+../dataset/contracts/TTMT_AuditReport_InterFi
+../dataset/contracts/noded
+../dataset/contracts/Hacken-O-mee
+../dataset/contracts/ContractWolf_Audit_XosiCoin
+../dataset/contracts/bbv
+../dataset/contracts/FuzzyInu Full Smart Contract Security Audit
+../dataset/contracts/PFI-Audit-by-BlockSAFU
+../dataset/contracts/strange
+../dataset/contracts/SmartContract_Audit_Solidproof_TheHarderTheyFall
+../dataset/contracts/bmw
+../dataset/contracts/tceo
+../dataset/contracts/Cryptonite Full Smart Contract Security Audit
+../dataset/contracts/Hacken-Fidometa-V1
+../dataset/contracts/DistractedBoyfriend_0xa46e53Ab8BEcA595af3a64ccdbA9Aa4B5Bb4D5b5
+../dataset/contracts/SUPERBLOK Full Smart Contract Security Audit
+../dataset/contracts/Coinbae-TapCoins_Token_Contract
+../dataset/contracts/GriffCode_0xc1fD86f96C54a47cf13169cC950eB5f21a880d11
+../dataset/contracts/Crystals_0x9cECeaB39b763063a8444eCaF20B303ED4061cFf
+../dataset/contracts/QWC
+../dataset/contracts/kakapo
+../dataset/contracts/LynxCat
+../dataset/contracts/BitKitties_AuditReport_InterFi
+../dataset/contracts/Shiba Satoshi Full Smart Contract Security Audit
+../dataset/contracts/minar
+../dataset/contracts/wuao
+../dataset/contracts/EarnableFi_0x48666Fe01d123D14B53EAcf21f36786F2a786c86
+../dataset/contracts/wbx
+../dataset/contracts/Luna Inu Full Smart Contract Security Audit
+../dataset/contracts/SELENA INU
+../dataset/contracts/rubyplaynetwork
+../dataset/contracts/DoubleInu_AuditReport_InterFi
+../dataset/contracts/rixo
+../dataset/contracts/Meta Knight
+../dataset/contracts/SmartContract_Audit_Solidproof_TipTok
+../dataset/contracts/UltimateToken
+../dataset/contracts/CryptoKatana_0xC104F05Af21dB8b0b2A3716180eec1C171309959
+../dataset/contracts/nikainu
+../dataset/contracts/SmartContract_Audit_Solidproof_Golden_Goose
+../dataset/contracts/DreamIt_AuditReport_InterFi
+../dataset/contracts/GAMERZONE Full Smart Contract Security Audit
+../dataset/contracts/SpaceXMoon_0x5B3D9e9654A807DF2cC1Db811a8B1C74e12710F0
+../dataset/contracts/3-mcc
+../dataset/contracts/Verichains Public Audit Report - Mytheria Token - v1
+../dataset/contracts/Clouch Full Smart Contract Security Audit
+../dataset/contracts/Vr-Trinity_0xC8FC4C34d41aCA52004E1618d3E93809027BE864
+../dataset/contracts/BitAccess-Audit-by-BlockSAFU
+../dataset/contracts/Mercenary Gold
+../dataset/contracts/The Commission Full Smart Contract Security Audit
+../dataset/contracts/LaimurGame
+../dataset/contracts/unicryptdoge
+../dataset/contracts/Avagen Network
+../dataset/contracts/ContractWolf_Audit_CryptoBarbie
+../dataset/contracts/STARBASELON
+../dataset/contracts/BASH PROTOCOL
+../dataset/contracts/MoonDoge
+../dataset/contracts/BabyDOT_AuditReport_InterFi
+../dataset/contracts/KingForever_AuditReport_InterFi
+../dataset/contracts/BNOUSafe-Audit-by-BlockSAFU
+../dataset/contracts/Soken-Probably_Nothing
+../dataset/contracts/fbw
+../dataset/contracts/shibg
+../dataset/contracts/Space Alpaca Full Smart Contract Security Audit
+../dataset/contracts/DogeBSC
+../dataset/contracts/lbdoge
+../dataset/contracts/MetaIce_AuditReport_InterFi
+../dataset/contracts/QuillAudit-ShopToken_Smart_Contract_Audit_Report
+../dataset/contracts/SmartContract_Audit_Solidproof_T42
+../dataset/contracts/BTMiracles_AuditReport_InterFi
+../dataset/contracts/MultiStarter Full Smart Contract Security Audit
+../dataset/contracts/grok-x-ai
+../dataset/contracts/NFTCOINS
+../dataset/contracts/flokin2
+../dataset/contracts/Chadoge Full Smart Contract Security Audit
+../dataset/contracts/BGL-Audit-by-BlockSAFU
+../dataset/contracts/groooook
+../dataset/contracts/Polyzap Finance
+../dataset/contracts/tulip
+../dataset/contracts/EZO_0xBEDe3f314EF415fe8070534F61b2619349803520
+../dataset/contracts/MetaBearKiller_0xc9e862499575921E6CA090f9B7178A7Cb3aEb093
+../dataset/contracts/Full Send
+../dataset/contracts/RedShiba Full Smart Contract Security Audit
+../dataset/contracts/Layer0x
+../dataset/contracts/MetaSnooker_0xBa8d9B8F138EE5269A5C23339775510D050b75C1
+../dataset/contracts/Different_0x1165F4935150B4F9A19Db46143945e71F5f48F8c
+../dataset/contracts/mrbeant
+../dataset/contracts/Empire Token Full Smart Contract Security Audit
+../dataset/contracts/BSCTOOLS Full Smart Contract Security Audit
+../dataset/contracts/0d-gri
+../dataset/contracts/rtc
+../dataset/contracts/Avalon
+../dataset/contracts/BongWeedCoin Full Smart Contract Security Audit
+../dataset/contracts/ImmuneBytes-Main_Street_Audit_Report
+../dataset/contracts/SmartContract_Audit_Solidproof_XianDoge
+../dataset/contracts/UniCat Token Full Smart Contract Security Audit
+../dataset/contracts/gubg
+../dataset/contracts/Soken-Teak_Coin
+../dataset/contracts/plat
+../dataset/contracts/stepd
+../dataset/contracts/Hacken-Mozart Finance
+../dataset/contracts/CUMSTAR Full Smart Contract Security Audit
+../dataset/contracts/tabi
+../dataset/contracts/DolloCoin_0xB3559Ad8ef8911BcD3Fd7c9045c74723096e8B36
+../dataset/contracts/ContractWolf_Audit_Citradium
+../dataset/contracts/Pige Inu Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_MarsRise
+../dataset/contracts/PayGo
+../dataset/contracts/gtp
+../dataset/contracts/PolyYork
+../dataset/contracts/sukr
+../dataset/contracts/DaddyBitcoin
+../dataset/contracts/AXIEDOGE
+../dataset/contracts/Dogestribute
+../dataset/contracts/trai
+../dataset/contracts/SmartContract_Audit_Solidproof_UniDoge
+../dataset/contracts/grail
+../dataset/contracts/people
+../dataset/contracts/wolf
+../dataset/contracts/DOT Full Smart Contract Security Audit
+../dataset/contracts/FoodFi_0x100F770A25Af4c2ec5f3DAdF47A329b2abaA8eEf
+../dataset/contracts/1-nojiko
+../dataset/contracts/Xperia_0xD04d7870DE4697321A910E8D591b0E76A5c10302
+../dataset/contracts/XODEX
+../dataset/contracts/RCLaunchpad_AuditReport_InterFi
+../dataset/contracts/WindSwap Full Smart Contract Security Audit
+../dataset/contracts/DeciFloki_AuditReport_InterFi
+../dataset/contracts/dmf
+../dataset/contracts/Pitbull
+../dataset/contracts/xct
+../dataset/contracts/FoxGPT
+../dataset/contracts/dogesq
+../dataset/contracts/poker
+../dataset/contracts/cartd
+../dataset/contracts/1-smt
+../dataset/contracts/BlockTx
+../dataset/contracts/Platinium Token Full Smart Contract Security Audit
+../dataset/contracts/Authentica
+../dataset/contracts/1-logic
+../dataset/contracts/BNB Diamond
+../dataset/contracts/TRUSTxGAMING
+../dataset/contracts/apeswap
+../dataset/contracts/docswap
+../dataset/contracts/Malamute
+../dataset/contracts/Moonship Smart Contract Audit Report - QuillAudits
+../dataset/contracts/AquaGoat - Final Audit Report
+../dataset/contracts/SDOGE
+../dataset/contracts/cashio
+../dataset/contracts/Mimi_0x32Dc0D50Bc2bb8ADe77a501906fD81194a670d2b
+../dataset/contracts/ods
+../dataset/contracts/StretchToEarn_0x4Bc99635F7Cd965069Ae7142d66784EA518995E3
+../dataset/contracts/GoudaToken Full Smart Contract Security Audit
+../dataset/contracts/Parallel Universe Meta
+../dataset/contracts/SmartContract_Audit_Solidproof_UniDogeArmy
+../dataset/contracts/Baby LTC Smart Contract Audit (1)
+../dataset/contracts/2-ants
+../dataset/contracts/Reliance Token Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_LooneyMoons
+../dataset/contracts/Predictcoin Full Smart Contract Security Audit
+../dataset/contracts/PeckShield-Audit-Report-Mushrooms-v1
+../dataset/contracts/paycoin
+../dataset/contracts/6-hinu
+../dataset/contracts/UNIVEX_0x82C323740455925E15936F84C1D3f2b074D37AF0
+../dataset/contracts/ticket3
+../dataset/contracts/Utopia
+../dataset/contracts/7-arc
+../dataset/contracts/yes
+../dataset/contracts/ERTHToken Full Smart Contract Security Audit
+../dataset/contracts/Official_Crypto_Cowboy_Token_Full_Smart_Contract_Security_Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_NFTPorn
+../dataset/contracts/Formes_AuditReport_InterFi
+../dataset/contracts/MetaLife Full Smart Contract Security Audit
+../dataset/contracts/Retrovax
+../dataset/contracts/MetaGamePro_0x8C1E69c91e4eAfdF5293D6458e989b7dFd3C26A1
+../dataset/contracts/DeSports Network
+../dataset/contracts/OVNI
+../dataset/contracts/inv
+../dataset/contracts/hopedoge
+../dataset/contracts/Skippy Token
+../dataset/contracts/Star Ship Royal
+../dataset/contracts/GamingDoge
+../dataset/contracts/11-kong
+../dataset/contracts/pikachu
+../dataset/contracts/BNBX Finance Full Smart Contract Security Audit
+../dataset/contracts/1-shiba
+../dataset/contracts/Mother of Memes Full Smart Contract Security Audit
+../dataset/contracts/Run4Life_0x2Fd6314c733b042bBf60f51b788A7E335B96AE05
+../dataset/contracts/Wine
+../dataset/contracts/Punch_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_POPToken
+../dataset/contracts/ackee-blockchain-layerzero-stargate-report
+../dataset/contracts/1-peper
+../dataset/contracts/LetsFkinGalaxy Full Smart Contract Security Audit
+../dataset/contracts/wmc
+../dataset/contracts/Postearn-Audit-by-BlockSAFU
+../dataset/contracts/NinjazClub_0x9a2223A0d9cf651917C12B1595E6800ad8A6A5DE
+../dataset/contracts/crace
+../dataset/contracts/LadyDoge
+../dataset/contracts/KingFloki_AuditReport_InterFi
+../dataset/contracts/bgvt
+../dataset/contracts/SmartContract_Audit_Solidproof_DogeCola
+../dataset/contracts/2-marvin
+../dataset/contracts/MoonPaw
+../dataset/contracts/asuna
+../dataset/contracts/StonkInu Full Smart Contract Security Audit
+../dataset/contracts/VendettaFinance_0x3A529A8d4f2ea64D206339fA12A3aF4D431F53c3
+../dataset/contracts/BackstabDoge Full Smart Contract Security Audit
+../dataset/contracts/xmgrok
+../dataset/contracts/FunLand_AuditReport_InterFi
+../dataset/contracts/Lemon Swap Full Smart Contract Security Audit
+../dataset/contracts/PeckShield-Audit-Report-ERC20-YYDS-v1
+../dataset/contracts/mtla
+../dataset/contracts/2-srm
+../dataset/contracts/altm
+../dataset/contracts/CrashToken
+../dataset/contracts/VegasonChain_0xc9af202c8AeCbA891A0E8940ee5caa466D52BB1B
+../dataset/contracts/MoonAlly
+../dataset/contracts/ApeGuild-Audit-by-BlockSAFU
+../dataset/contracts/Acorn Full Smart Contract Security Audit
+../dataset/contracts/Municipal Token Full Smart Contract Security Audit
+../dataset/contracts/LiveNFTToken Standart Smart Contract Security Audit
+../dataset/contracts/mybricks
+../dataset/contracts/fxrumble
+../dataset/contracts/SafeMoonNFT
+../dataset/contracts/cunchao
+../dataset/contracts/SmartContract_Audit_Solidproof_ETNA_Staking
+../dataset/contracts/HeliumX_AuditReport_InterFi
+../dataset/contracts/DOXED
+../dataset/contracts/lbr
+../dataset/contracts/Crypto World Health Organization
+../dataset/contracts/TNNS
+../dataset/contracts/CR7BUSD_0xf76f74660656f938e8E9AAF125F8516621B910A5
+../dataset/contracts/BNBank Full Smart Contract Security Audit
+../dataset/contracts/SquidVerse3D_AuditReport_InterFi
+../dataset/contracts/SpartaFloki_AuditReport_InterFi
+../dataset/contracts/mtrx
+../dataset/contracts/SmartContract_Audit_Solidproof_JollyRoger
+../dataset/contracts/UniDexAI
+../dataset/contracts/2-emars
+../dataset/contracts/GCB Smart Contract Audit
+../dataset/contracts/Pluto Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_CyberRacing
+../dataset/contracts/NOSHIT
+../dataset/contracts/ContractWolf_Audit_TODEX
+../dataset/contracts/STRITE Token
+../dataset/contracts/germ
+../dataset/contracts/ogb
+../dataset/contracts/Swinate Full Smart Contract Security Audit
+../dataset/contracts/ThunderRacer
+../dataset/contracts/SmartContract_Audit_Solidproof_InfinityAda
+../dataset/contracts/Meme10000x Full Smart Contract Security Audit
+../dataset/contracts/1mile
+../dataset/contracts/1-cceo
+../dataset/contracts/tktv2
+../dataset/contracts/ShieldCoin_0x4E6345e00B8DA9b12dcF81D585D15Ea9924B3E80
+../dataset/contracts/3-bape
+../dataset/contracts/1-legx
+../dataset/contracts/Flag Network
+../dataset/contracts/PlayersOnly_AuditReport_InterFi
+../dataset/contracts/UpForever
+../dataset/contracts/AngryFloki_AuditReport_InterFi
+../dataset/contracts/2-gme
+../dataset/contracts/QuillAudit-Rocket_Global_Smart_Contract_Audit_Report
+../dataset/contracts/daddy-bnb
+../dataset/contracts/MYDA
+../dataset/contracts/Survive_0xC8A8CB1c8104E06889CB7CdadcB5dAE20C8C935e
+../dataset/contracts/SafeJesus Full Smart Contract Security Audit
+../dataset/contracts/SharksStake Full Smart Contract Security Audit
+../dataset/contracts/InuTube
+../dataset/contracts/vvvt
+../dataset/contracts/Hope
+../dataset/contracts/gburn
+../dataset/contracts/lybra-finance-audit-2023-07
+../dataset/contracts/Pulsar NFT
+../dataset/contracts/wgt
+../dataset/contracts/Shinomics Full Smart Contract Security Audit
+../dataset/contracts/Jasan_Wellness_SC_Audit_Report_22062023_SA-1538
+../dataset/contracts/SmartContract_Audit_Solidproof_THTFcrypto
+../dataset/contracts/Go Crypto Me
+../dataset/contracts/Swincoin_AuditReport_InterFi
+../dataset/contracts/CuyCoin
+../dataset/contracts/bbl
+../dataset/contracts/Black Kishu Inu Full Smart Contract Security Audit
+../dataset/contracts/ElonBank_0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C
+../dataset/contracts/RajaInu Full Smart Contract Security Audit
+../dataset/contracts/FlokiDollar_0x04e3cFA46F037e36730b0C6b451Ed5B5e8B02a53
+../dataset/contracts/Soken-Shera
+../dataset/contracts/safemoo
+../dataset/contracts/SmartContract_Audit_Solidproof_ShiborgInu
+../dataset/contracts/LillyFinance_0x8686525d6627A25C68De82c228448f43c97999F2
+../dataset/contracts/TheGhostPirate_0xf27d3ac8E3C5f4aC3F678465658A1971892aB39A
+../dataset/contracts/AlaskanMalamute Full Smart Contract Security Audit
+../dataset/contracts/1-twg
+../dataset/contracts/SafeDoge Full Smart Contract Security Audit
+../dataset/contracts/sproutscape
+../dataset/contracts/1-blf
+../dataset/contracts/ApeBUSD_AuditReport_InterFi
+../dataset/contracts/Holiday Token Full Smart Contract Security Audit
+../dataset/contracts/2-god
+../dataset/contracts/opti
+../dataset/contracts/mly
+../dataset/contracts/2-xfloki
+../dataset/contracts/Square Finance
+../dataset/contracts/AppleBit Smart Contract audit
+../dataset/contracts/tr7
+../dataset/contracts/ars
+../dataset/contracts/1-run
+../dataset/contracts/ContractWolf_Audit_PhoenixAI
+../dataset/contracts/WaterToken_0x46DB7e461bA59DAD609aa32A5CA7aAede607c7Fd
+../dataset/contracts/MoonFight_0xc861bfAf3b6581a25756D7B7123Ce3E5E29709E6
+../dataset/contracts/SmartContract_Audit_Solidproof_Tetherino
+../dataset/contracts/CertRise_AuditReport_InterFi
+../dataset/contracts/SafeMoneyBSC Full Smart Contract Security Audit
+../dataset/contracts/MyEducation-Staking-Audit-by-BlockSAFU
+../dataset/contracts/BILZFarm
+../dataset/contracts/FAFI_AuditReport_InterFi
+../dataset/contracts/fem
+../dataset/contracts/bsrg
+../dataset/contracts/DogeVillage_AuditReport_InterFi
+../dataset/contracts/BlockRewards_0x7785035610075Ec7BcD7c833B03996E866FE0072
+../dataset/contracts/1-atx
+../dataset/contracts/Duorice_0x18Fa0ddE9F599F42BE2CBfd37b77f2e779D8DC3a
+../dataset/contracts/JacyWaya Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Solarmine
+../dataset/contracts/Lwazi Project Full Smart Contract Security Audit
+../dataset/contracts/TosaInu_0x9b346B773739043A175e6e721281086A0787dc3d
+../dataset/contracts/KakashiInuV2
+../dataset/contracts/niza
+../dataset/contracts/FOMOCUP-Smart-Contract-Audit-Report - Numen
+../dataset/contracts/Billionaire Coin
+../dataset/contracts/nitro
+../dataset/contracts/Symbolic
+../dataset/contracts/maa
+../dataset/contracts/SmartContract_Audit_Solidproof_Survival
+../dataset/contracts/Catboy_0x39C3F75B837EAE0d6d0eA87425Ac99bD646a7B1E
+../dataset/contracts/Bitcoin Desert Full Smart Contract Security Audit
+../dataset/contracts/Jupter Wallet
+../dataset/contracts/SmartContract_Audit_Solidproof_PetWorld
+../dataset/contracts/FAYA World Smart Contract Audit Report
+../dataset/contracts/BabyX_0x80335B4CC96dCDd6d4e1242fdAC7548995E6F1A2
+../dataset/contracts/1memeshit
+../dataset/contracts/ContractWolf_Audit_Habibi
+../dataset/contracts/cryogen
+../dataset/contracts/Decats Smart Contract Audit Report-QuillAudits
+../dataset/contracts/Pitch Black Infinity Smart Contract Audit
+../dataset/contracts/SafeSex Finance
+../dataset/contracts/HyperDoge_0x687Ed287683772ec097Aa18556949b4bF64264D9
+../dataset/contracts/FANSPEL Full Smart Contract Security Audit
+../dataset/contracts/StarProtocol
+../dataset/contracts/NFT Global Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Afridex
+../dataset/contracts/1-aid
+../dataset/contracts/Cultivator_0xCDD288178ffE3D1E1B8C8488C15F3dF417070abB
+../dataset/contracts/VPLANET Full Smart Contract Security Audit
+../dataset/contracts/Assgard Full Smart Contract Security Audit
+../dataset/contracts/safep
+../dataset/contracts/2-etm
+../dataset/contracts/1-kingu
+../dataset/contracts/AnpanSwapMasterChef
+../dataset/contracts/1-fire
+../dataset/contracts/CrocoInu_0xe8b4e776241cDA5F82F48c78C1160aD6D665ff4f
+../dataset/contracts/eai
+../dataset/contracts/SatoshiSwap-by-BlockSAFU
+../dataset/contracts/mmgt
+../dataset/contracts/Rova Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Space Cats
+../dataset/contracts/Citiquest
+../dataset/contracts/Soken-LTEX
+../dataset/contracts/Cosanta
+../dataset/contracts/Hachiko
+../dataset/contracts/1-red
+../dataset/contracts/reward
+../dataset/contracts/wheely
+../dataset/contracts/Hacken-Engines of Fury
+../dataset/contracts/Radio Hero Full Smart Contract Security Audit_1
+../dataset/contracts/khaby
+../dataset/contracts/OMINO Full Smart Contract Security Audit
+../dataset/contracts/catd
+../dataset/contracts/SmartContract_Audit_Solidproof_Solidray
+../dataset/contracts/SmartContract_Audit_Solidproof_SpongebobSquare
+../dataset/contracts/Livex Network
+../dataset/contracts/etrl
+../dataset/contracts/peckshield-audit-report-btdotfinance-v1
+../dataset/contracts/METAZ
+../dataset/contracts/sow
+../dataset/contracts/VirtualEarth_0x7336E35F81F62907C63dB57Fd45bF8df5F98675B
+../dataset/contracts/reg
+../dataset/contracts/SmartContract_Audit_Solidproof_MetaverseVR
+../dataset/contracts/BetterTogether_0x379c32AbC93214514BcF42a403A1e1cf83A16dA3
+../dataset/contracts/SectorProtocol_0x585d3dFfD59b5201979363cC5432020D910DC40C
+../dataset/contracts/HinaInu_AuditReport_InterFi
+../dataset/contracts/Dragon Pool Token Full Smart Contract Security Audit
+../dataset/contracts/MuslimCoins Smart Contract Audit Report - QuillAudits
+../dataset/contracts/sfx
+../dataset/contracts/Cosmic Egg 2
+../dataset/contracts/1-kln
+../dataset/contracts/babyhktiger
+../dataset/contracts/fat
+../dataset/contracts/DIVORCE
+../dataset/contracts/LegendDoge Full Smart Contract Security Audit
+../dataset/contracts/Iosiro-TMC Token Smart Contract Audit
+../dataset/contracts/2-babydoge2
+../dataset/contracts/mvl
+../dataset/contracts/1-bossbaby
+../dataset/contracts/ShibaGaming Full Smart Contract Security Audit
+../dataset/contracts/Moon Nation
+../dataset/contracts/Kitty Kat Coin Full Smart Contract Security Audit
+../dataset/contracts/HaggleX - Audit Report
+../dataset/contracts/Smokehigh
+../dataset/contracts/ANPU TOKEN Full Smart Contract Security Audit
+../dataset/contracts/loony
+../dataset/contracts/Hacken-Chibi Dinos
+../dataset/contracts/EverWhale
+../dataset/contracts/Mew Inu Full Smart Contract Security Audit
+../dataset/contracts/Blockombat-Audit-by-BlockSAFU
+../dataset/contracts/Verichains Public Audit Report - LaunchZone Token - v1
+../dataset/contracts/ReflectorDex
+../dataset/contracts/MultiversePad Smart Contract Audit Report - QuillAudits
+../dataset/contracts/ChesterCoin Full Smart Contract Security Audit
+../dataset/contracts/BNOU-Audit-by-BlockSAFU
+../dataset/contracts/slnu
+../dataset/contracts/ShibaKenzo Full Smart Contract Security Audit
+../dataset/contracts/TOKIONFT_0x0112d5AD6bE49f290A5F7aeb0E8Ed1bCf393B8bC
+../dataset/contracts/Shiba Dao
+../dataset/contracts/ImmuneBytes-JulPadToken_Audit_Report
+../dataset/contracts/CatvillsCoin_0xa531a733070a5fF4866D1327d82e403Fa35290A6
+../dataset/contracts/LandNFT_AuditReport_InterFi
+../dataset/contracts/BeWhale Full Smart Contract Security Audit
+../dataset/contracts/BASAN
+../dataset/contracts/GenshinFlokiInu
+../dataset/contracts/SafeData Pass
+../dataset/contracts/KikuInu_0xF505aFeF1B5fC820E6192fefF5B02cD7Ba7b65Ff
+../dataset/contracts/1-hustle
+../dataset/contracts/MetaDragon_0xe9596b6728EE8C94f47C91c1892CCFD0aA86DC03
+../dataset/contracts/MascotInu Full Smart Contract Security Audit
+../dataset/contracts/twtz
+../dataset/contracts/pillbomb
+../dataset/contracts/Hacken-CryptoTanks
+../dataset/contracts/LuncGrow_0xE61FB4163034097a3844b16a06e230492DECc1c2
+../dataset/contracts/Aaromi
+../dataset/contracts/Alnassr FC fan token
+../dataset/contracts/DMToken Security Audit V2 2019 Updated - CoinFabrik Blog
+../dataset/contracts/witch
+../dataset/contracts/DogeDatingDay_0x4087D013e2503Dde13d428E2960F9036bc8fDd71
+../dataset/contracts/Hacken-RAMP DeFi
+../dataset/contracts/Guess It Full Smart Contract Security Audit
+../dataset/contracts/2-sbc
+../dataset/contracts/PetWars_0x5053a8544DdE242030C8BA100b213d551776aAD1
+../dataset/contracts/SmartContract_Audit_Solidproof_Anetly
+../dataset/contracts/BlackCatInu_0x4d429A3808a10b3C3967411a4E016415C7091633
+../dataset/contracts/PantherSwap
+../dataset/contracts/GHOSTY
+../dataset/contracts/Etherland Full Smart Contract Security Audit
+../dataset/contracts/RockyInu_0x5bFD5dd70fCD460A08492a2333182C07251AA641
+../dataset/contracts/0ade76de
+../dataset/contracts/DogHouseToken
+../dataset/contracts/BakeryDoge Full Smart Contract Security Audit
+../dataset/contracts/Vikings Inu Full Smart Contract Security Audit
+../dataset/contracts/Robust Token Full Smart Contract Security Audit
+../dataset/contracts/CARDIO-Audit-by-BlockSAFU
+../dataset/contracts/dfc
+../dataset/contracts/SmartContract_Audit_Solidproof_0xPad
+../dataset/contracts/fcs
+../dataset/contracts/nyancat
+../dataset/contracts/PROPRTY_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_RockstarDoge
+../dataset/contracts/BeMine_0x97FE1923f59B4c1F2f70A5903B93E2C517c3a6Ca
+../dataset/contracts/BTFA2_AuditReport_InterFi
+../dataset/contracts/Bamboo Full Smart Contract Security Audit
+../dataset/contracts/akld
+../dataset/contracts/Pegazus Finance Full Smart Contract Security Audit
+../dataset/contracts/Gencoin_0x0b569fA433Faa7f01f3ea880193dE38044B41DE0
+../dataset/contracts/ASSURE Full Smart Contract Security Audit
+../dataset/contracts/4-kai
+../dataset/contracts/aptd
+../dataset/contracts/Infinity Rocket Token Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_BattleWorldNFTs
+../dataset/contracts/hoh
+../dataset/contracts/PirateLand-Audit-by-BlockSAFU
+../dataset/contracts/4-str
+../dataset/contracts/ixv2
+../dataset/contracts/Supsafemoon_0x2bF0370Da03828Ac58ca83319385Ffc67571Dfdb
+../dataset/contracts/hdkn
+../dataset/contracts/Decentra Ecosystem Smart Contract Audit
+../dataset/contracts/sthm
+../dataset/contracts/buddha20
+../dataset/contracts/LOL Full Smart Contract Security Audit
+../dataset/contracts/AquaSafe_AuditReport_InterFi
+../dataset/contracts/Cybertama_0xF35f714b7498ef908Ff39f351B5629AE35350c72
+../dataset/contracts/1-ted
+../dataset/contracts/Dogey-Inu Full Smart Contract Security Audit
+../dataset/contracts/CryptoClash_0xD702dF773183db4EDFa5697C8736BcA423521B79
+../dataset/contracts/Memeflate Full Smart Contract Security Audit
+../dataset/contracts/jlt
+../dataset/contracts/Fair Venus
+../dataset/contracts/1-budz
+../dataset/contracts/CatzCoin Full Smart Contract Security Audit
+../dataset/contracts/Swipecast Full Smart Contract Security Audit
+../dataset/contracts/SafuFinance-Audit-by-BlockSAFU-min
+../dataset/contracts/MegaStarz_AuditReport_InterFi
+../dataset/contracts/Hacken-1INCH
+../dataset/contracts/fgi-king
+../dataset/contracts/YuGiOhProtocol Full Smart Contract Security Audit
+../dataset/contracts/Schrodinger Full Smart Contract Security Audit
+../dataset/contracts/SHiBGOTCHi_0x05732b6D78591E75B31022d71E55Aa810498A5a4
+../dataset/contracts/peppa
+../dataset/contracts/MetaWhale Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Verichains Public Audit Report - PocoToken - v1
+../dataset/contracts/mbean
+../dataset/contracts/AntDao_0x6Ce3c29F2766EEA28288f788561AefeF7140B621
+../dataset/contracts/BabyPokemoon_0x35359f21Abdf0f2B6aE01bFb96814738B515111e
+../dataset/contracts/Verichains Public Audit Report - LGBT Token - v1
+../dataset/contracts/1-recruito
+../dataset/contracts/1-kcoin
+../dataset/contracts/sha
+../dataset/contracts/1-kimber
+../dataset/contracts/lihua
+../dataset/contracts/Crypto Classic Full Smart Contract Security Audit
+../dataset/contracts/metakishu
+../dataset/contracts/Peachfolio Full Smart Contract Security Audit
+../dataset/contracts/SHIBA CLASSIC Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_NutsGaming
+../dataset/contracts/milesinu
+../dataset/contracts/CHILDREN IN NEED TOKEN
+../dataset/contracts/MiniTiger_0x2e10Abc27D4878fa43Ee97e600fBE41Ce2D046dc
+../dataset/contracts/tdoge-food
+../dataset/contracts/QuillAudit-Yearnyfi_Audit_Report
+../dataset/contracts/$PePe coin Full Smart Contract Security Audit
+../dataset/contracts/Afina_0xF727324d5075cbD598D1e851635aAFC0320f9c86
+../dataset/contracts/Charitas
+../dataset/contracts/Orion Cash
+../dataset/contracts/LoopNetwork
+../dataset/contracts/WONKA Full Smart Contract Security Audit
+../dataset/contracts/PayrexaFox_AuditReport_InterFi
+../dataset/contracts/finy
+../dataset/contracts/SmartContract_Audit_Solidproof_DFinityPad
+../dataset/contracts/1-babycaw
+../dataset/contracts/ContractWolf_Audit_ShebaFinance
+../dataset/contracts/Bitcoin Banana
+../dataset/contracts/Valix_AuditReport_InterFi
+../dataset/contracts/PuffyDogCoin Full Smart Contract Security Audit
+../dataset/contracts/pepe-g
+../dataset/contracts/1-vct
+../dataset/contracts/PlumCake Finance
+../dataset/contracts/WatchSports_AuditReport_InterFi
+../dataset/contracts/1-thr
+../dataset/contracts/KimJongMoon
+../dataset/contracts/BleuFi Full Smart Contract Security Audit
+../dataset/contracts/Soken-CUEX_Capital
+../dataset/contracts/DappLooker Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Eight Ball Smart Contract Security Audit
+../dataset/contracts/pooshib
+../dataset/contracts/SmartContract_Audit_Solidproof_MiniTiger
+../dataset/contracts/Fenomy_0x1E226F8527D9F73048F4b660AF44D902d4508Bc2
+../dataset/contracts/MAXIMUM_0x5a3FE7eB5e43E69ef11275A4238C91a917aD42E5
+../dataset/contracts/Zinari Standart Smart Contract Security Audit
+../dataset/contracts/2-msd
+../dataset/contracts/luncz
+../dataset/contracts/toady
+../dataset/contracts/7-mdoge
+../dataset/contracts/ContractWolf_Audit_AstroFlokiAI
+../dataset/contracts/Ragnarok Full Smart Contract Security Audit
+../dataset/contracts/Manager pro
+../dataset/contracts/hk
+../dataset/contracts/6-fft
+../dataset/contracts/HAECHI_AUDIT-%UFEFF%UFEFF%UFEFFDronefly
+../dataset/contracts/BoggieCoin Full Smart Contract Security Audit (1)
+../dataset/contracts/StakedADA_AuditReport_InterFi
+../dataset/contracts/1-golduck
+../dataset/contracts/ThunderVerse
+../dataset/contracts/momo-v2
+../dataset/contracts/SOMA NETWORK
+../dataset/contracts/ContractWolf_Audit_Betix
+../dataset/contracts/Monkey Inu Full Smart Contract Security Audit
+../dataset/contracts/lmcswap
+../dataset/contracts/SmartContract_Audit_Solidproof_PolkaCredit
+../dataset/contracts/SmartContract_Audit_Solidproof_Aggle
+../dataset/contracts/SafeMoonKiller
+../dataset/contracts/wink
+../dataset/contracts/SmartLauncher_AuditReport_InterFi
+../dataset/contracts/AKIRA
+../dataset/contracts/zoro
+../dataset/contracts/AuAg_AuditReport_InterFi
+../dataset/contracts/Water
+../dataset/contracts/GameAntz_0x930595344BbE2934b6AEa01841D2c1b0e45E29F7
+../dataset/contracts/KawaiiShiba  Full Smart Contract Security Audit
+../dataset/contracts/SonOfSanta_AuditReport_InterFi
+../dataset/contracts/Community Token Full Smart Contract Security Audit
+../dataset/contracts/Verichains Public Audit Report - STE Token - v1
+../dataset/contracts/NewYear_AuditReport_InterFi
+../dataset/contracts/2-husky
+../dataset/contracts/DogePlay Full Smart Contract Security Audit
+../dataset/contracts/1-mvp
+../dataset/contracts/ElevenGold_0x3030A49A6Bc1Fc819a488cA208ddb719f2cFa24B
+../dataset/contracts/MoonBreaker Token Smart Contract Security Audit
+../dataset/contracts/LunaChow
+../dataset/contracts/chmp
+../dataset/contracts/LetsGoBrandonToken Full Smart Contract Security Audit
+../dataset/contracts/UniswapFinance
+../dataset/contracts/2023-04-prysm-securityreview
+../dataset/contracts/Sexy69 Smart Contract Audit
+../dataset/contracts/2-ccc
+../dataset/contracts/Meta Club Full Smart Contract Security Audit
+../dataset/contracts/1-pino
+../dataset/contracts/Little Bunny Rocket Full Smart Contract Security Audit
+../dataset/contracts/Qi
+../dataset/contracts/nevis
+../dataset/contracts/PirateCash
+../dataset/contracts/TIER-1 EXCHANGE Smart Contract Security Audit
+../dataset/contracts/ShibX Full Smart Contract Security Audit
+../dataset/contracts/duzu
+../dataset/contracts/BabyPiggy Full Smart Contract Security Audit
+../dataset/contracts/1-bct
+../dataset/contracts/ConnectorCoin_0x3746519cfb4A0CA13745A38326282585dE95e0A5
+../dataset/contracts/Slappy Cat Coin Smart Contract Audit
+../dataset/contracts/dogemoon
+../dataset/contracts/PeckShield-Audit-Report-ERC20-FAT-v1
+../dataset/contracts/Rocket Finance
+../dataset/contracts/SmartContract_Audit_Solidproof_BGLToken
+../dataset/contracts/Realliq Full Smart Contract Security Audit
+../dataset/contracts/SafeMoonCash
+../dataset/contracts/2-pepeg
+../dataset/contracts/GigBoxx_0x1b7ED7b90632EDd1569Ae862Ed792D24939d26c4
+../dataset/contracts/pirb
+../dataset/contracts/MetalMineCoin Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Golden_Paws
+../dataset/contracts/QuillAudit-Starlabs_Smart_Contract_Audit_Report
+../dataset/contracts/1-pet
+../dataset/contracts/PAWGcoin
+../dataset/contracts/MisoSwap Token Full Smart Contract Security Audit
+../dataset/contracts/ALTRUCOIN Full Smart Contract Security Audit
+../dataset/contracts/stai
+../dataset/contracts/KOALA TOKEN Full Smart Contract Security Audit
+../dataset/contracts/Vacay Full Smart Contract Security Audit
+../dataset/contracts/FuraCoin Full Smart Contract Security Audit
+../dataset/contracts/AppleDAO_0xfA906F474e8276bc46c831111A8DD866C50C8638
+../dataset/contracts/ShibaZilla_AuditReport_InterFi
+../dataset/contracts/Hacken-Naga
+../dataset/contracts/MaxiCardano_AuditReport_InterFi
+../dataset/contracts/BabySymbiotes_0xBC62Dd634C58A37534ee48e43A6daAf8bc52C594
+../dataset/contracts/Everath Full Smart Contract Security Audit
+../dataset/contracts/toc
+../dataset/contracts/1-hbg
+../dataset/contracts/Supercats_0x05Fc938Cc60fB71381514877D66478bab7E2e1cE
+../dataset/contracts/epets
+../dataset/contracts/PANGEA Ocean CleanUp
+../dataset/contracts/KingKong
+../dataset/contracts/EverLit_0x0577923BAdC11eCB0728E59881099Bc021Db646F
+../dataset/contracts/Dogefather
+../dataset/contracts/1-ven
+../dataset/contracts/alts
+../dataset/contracts/SmartContract_Audit_Solidproof_navigator
+../dataset/contracts/PogCoin Full Smart Contract Security Audit
+../dataset/contracts/CoinFuel_0x7FD3Ce1752393B94f5a46e15a521119BF19C58F4
+../dataset/contracts/slash
+../dataset/contracts/karmm
+../dataset/contracts/DART Inu Full Smart Contract Security Audit
+../dataset/contracts/UniversePad
+../dataset/contracts/ShibGame_AuditReport_InterFi
+../dataset/contracts/CryptoArcadePunk_AuditReport_InterFi
+../dataset/contracts/MicroCreditToken_0xE4DdbBD505132519361d55c449eaCD153d6d7BCE
+../dataset/contracts/SkyRise
+../dataset/contracts/1-bmt
+../dataset/contracts/1-drip
+../dataset/contracts/qcwc
+../dataset/contracts/popo
+../dataset/contracts/nana
+../dataset/contracts/BalanceNetwork_0xE90334c19c798C3A18d81b8cd16594247D5B19dd
+../dataset/contracts/AnimeInu
+../dataset/contracts/SafeBezos
+../dataset/contracts/wpi
+../dataset/contracts/Catnip Money
+../dataset/contracts/Campfire_AuditReport_InterFi
+../dataset/contracts/SonOfFloki_0xF005574336B579370932CeeF3DaF7cB37f78886B
+../dataset/contracts/BabyDogeInu Full Smart Contract Security Audit
+../dataset/contracts/BABYDUO
+../dataset/contracts/bezzo
+../dataset/contracts/AquaGoat - Audit Report
+../dataset/contracts/ShibGF_AuditReport_InterFi
+../dataset/contracts/1-gspt
+../dataset/contracts/ShopIt-Audit-by-BlockSAFU
+../dataset/contracts/pwars
+../dataset/contracts/ababydoge
+../dataset/contracts/gwd
+../dataset/contracts/Pyro Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Metafish
+../dataset/contracts/elcr
+../dataset/contracts/Polka Classic
+../dataset/contracts/LittleLink
+../dataset/contracts/Hacken- ChronoTech
+../dataset/contracts/WolfGirl Full Smart Contract Security Audit
+../dataset/contracts/AlphaWolf Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_LaikaVerse
+../dataset/contracts/diamondoge
+../dataset/contracts/BlossomCoin Full Smart Contract Security Audit
+../dataset/contracts/Wealth Protocol Full Smart Contract Security Audit
+../dataset/contracts/Passive Income Bot Audit Report - QuillAudits
+../dataset/contracts/Harbour Full Smart Contract Security Audit
+../dataset/contracts/Baby Doge Bonus
+../dataset/contracts/Afrostar Full Smart Contract Security Audit
+../dataset/contracts/BabyFlokiZilla Full Smart Contract Security Audit
+../dataset/contracts/fishp
+../dataset/contracts/Nugen Operational Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Hacken-MemeBank
+../dataset/contracts/Ginoa Smart Contract Audit Report - QuillAudits
+../dataset/contracts/ninjapepe
+../dataset/contracts/dwow
+../dataset/contracts/Project Play Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Oblivion
+../dataset/contracts/fino
+../dataset/contracts/WASSIE
+../dataset/contracts/202306301749
+../dataset/contracts/Jackpot
+../dataset/contracts/crossx
+../dataset/contracts/SmartContract_Audit_Solidproof_PuzzleAndDragonsX _V2
+../dataset/contracts/skeleton
+../dataset/contracts/byb
+../dataset/contracts/Schrodinger_0x34B4CE3f6Ce9aC0d8C8b93Fb0Ad9027dF1Cb7f3b
+../dataset/contracts/apn
+../dataset/contracts/streamn
+../dataset/contracts/Smart Baby Elon Token
+../dataset/contracts/evoc
+../dataset/contracts/SmartContract_Audit_Solidproof_RobMusmToken
+../dataset/contracts/Onyx Network
+../dataset/contracts/RewardForPassion_AuditReport_InterFi
+../dataset/contracts/tlife
+../dataset/contracts/OrbitInu_0xd2Ee9Fa931272c92776d43da6f0f33eeb424F81D
+../dataset/contracts/SmartContract_Audit_Solidproof_BinaHero
+../dataset/contracts/Verichains Public Audit Report - HowlCity - v1
+../dataset/contracts/TerraBuild
+../dataset/contracts/SmartContract_Audit_Solidproof_Overlord
+../dataset/contracts/SafeDrive Full Smart Contract Security Audit
+../dataset/contracts/Ape Token Full Smart Contract Security Audit
+../dataset/contracts/tend
+../dataset/contracts/COLLECTIBLE Full Smart Contract Security Audit
+../dataset/contracts/phf
+../dataset/contracts/Kawakami_AuditReport_InterFi
+../dataset/contracts/GROKeXtreme Smart Contract Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_LilDoge
+../dataset/contracts/SmartContract_Audit_Solidproof_VerseWar
+../dataset/contracts/QuillAudit-Yummy_Smart_Contract_Audit_Report
+../dataset/contracts/4-self
+../dataset/contracts/SmartAth_0x4eD6258DA83CA1AD27e1d0F551d71017e23aD872
+../dataset/contracts/Coinbae-Fiscus-fyi
+../dataset/contracts/ShibaSaur INU Full Smart Contract Security Audit
+../dataset/contracts/Hunter Crypto Coin Full Smart Contract Security Audit
+../dataset/contracts/VIP TOKEN Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_ShebaSwapper
+../dataset/contracts/Xiasi Inu Full Smart Contract Security Audit
+../dataset/contracts/FLY SHIBA Full Smart Contract Security Audit
+../dataset/contracts/goatwolf
+../dataset/contracts/CPS-Audit-by-BlockSAFU
+../dataset/contracts/l2e
+../dataset/contracts/GoBlockchain2022
+../dataset/contracts/Son of Doge
+../dataset/contracts/shibkitty
+../dataset/contracts/SmartContract_Audit_Solidproof_TiaraNft
+../dataset/contracts/galabet
+../dataset/contracts/Hacken-Crypto Stake
+../dataset/contracts/G4AL-Entertainment_SCAudit_Report-1
+../dataset/contracts/Crinet_0x17d0b69a947Db94c825c07216905103dca2Dc732
+../dataset/contracts/Verichains Public Audit Report - ArenaPixel Token -  v1
+../dataset/contracts/PlentyCoin Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-bs
+../dataset/contracts/SmartContract_Audit_Solidproof_Conscripts
+../dataset/contracts/Exynos Protocol
+../dataset/contracts/Summarizer
+../dataset/contracts/SmartContract_Audit_Solidproof_Web3Inu
+../dataset/contracts/MetaMerce Smart Contract Audit Report - QuillAudits
+../dataset/contracts/candybar
+../dataset/contracts/NFT Marvel Fan Token Full Smart Contract Security Audit
+../dataset/contracts/MetaWorld_AuditReport_InterFi
+../dataset/contracts/Zinax Token
+../dataset/contracts/LamboDoge
+../dataset/contracts/Yield360_0xDCe927C84Ba103A64e6fC54EF5B0A7D4C6dc0F4f
+../dataset/contracts/Bitgatti Full Smart Contract Security Audit
+../dataset/contracts/Esnaf Coin
+../dataset/contracts/Warrior Token Smart Contract audit
+../dataset/contracts/HAECHI_AUDIT-Ninky
+../dataset/contracts/AVICAVE_AuditReport_InterFi
+../dataset/contracts/gren
+../dataset/contracts/jtf
+../dataset/contracts/vgm
+../dataset/contracts/zkpai
+../dataset/contracts/PayTrust_AuditReport_InterFi
+../dataset/contracts/2-cct
+../dataset/contracts/pepeelonai
+../dataset/contracts/2-cod
+../dataset/contracts/Linkka
+../dataset/contracts/PiINU_0xF03E02AcbC5eb22de027eA4F59235966F5810D4f
+../dataset/contracts/MetroFinance Full Smart Contract Security Audit
+../dataset/contracts/HiddenCakeVillage_0x0A04c401c53DfDA9f7A555e77AB4D4128Fb27cf7
+../dataset/contracts/PandaCash Full Smart Contract Security Audit
+../dataset/contracts/4-ai
+../dataset/contracts/BNBDeFi_0x455dedAcbe41c178953119847F2b95E2d9AD0a1D
+../dataset/contracts/exit
+../dataset/contracts/SmartContract_Audit_Solidproof_InpulseX
+../dataset/contracts/SmartContract_Audit_Solidproof_FlatSwap
+../dataset/contracts/TEAM20Light
+../dataset/contracts/Asuna Inu
+../dataset/contracts/BradyBucks_AuditReport_InterFi
+../dataset/contracts/1-vit
+../dataset/contracts/moblox
+../dataset/contracts/StarTrek
+../dataset/contracts/HAECHI_AUDIT-Wanda
+../dataset/contracts/3-edoge
+../dataset/contracts/Project Joule
+../dataset/contracts/Lepracoin Smart Contract Security Audit
+../dataset/contracts/chipt
+../dataset/contracts/piglet
+../dataset/contracts/YetiCoin
+../dataset/contracts/BIXBY
+../dataset/contracts/Owl Analytics
+../dataset/contracts/waka
+../dataset/contracts/ROBIN Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Revival
+../dataset/contracts/shkb
+../dataset/contracts/LaikaCoin Full Smart Contract Security Audit
+../dataset/contracts/Dollaroo Full Smart Contract Security Audit
+../dataset/contracts/BODA Full Smart Contract Security Audit
+../dataset/contracts/spongebob
+../dataset/contracts/1-sst
+../dataset/contracts/2-dk
+../dataset/contracts/TsarNetwork_AuditReport_InterFi
+../dataset/contracts/WAGMI
+../dataset/contracts/Dalmatian Shelter Full Smart Contract Security Audit
+../dataset/contracts/1-stn
+../dataset/contracts/Totoro Inu Full Smart Contract Security Audit
+../dataset/contracts/CompoundX_0xb75a07cc867616CAeAa8be2Eb1EF01D9ad17D86d
+../dataset/contracts/wallstreetpepe2
+../dataset/contracts/JoJo Inu Full Smart Contract Security Audit
+../dataset/contracts/byd
+../dataset/contracts/Alrihla_0xAAbB759E8e83140C6254AAb5bd065b7541241b8D
+../dataset/contracts/ContractWolf_Audit_Viridis_Network
+../dataset/contracts/EUSD
+../dataset/contracts/sgts
+../dataset/contracts/SmartContract_Audit_Solidproof_BruteForceFight
+../dataset/contracts/yaps
+../dataset/contracts/BNB Gold Full Smart Contract Security Audit
+../dataset/contracts/Mintea
+../dataset/contracts/BinaKeyChain
+../dataset/contracts/Rextron_AuditReport_InterFi
+../dataset/contracts/AstroDonkey Full Smart Contract Security Audit
+../dataset/contracts/safucz
+../dataset/contracts/CheetahFinance_0x6a02d9f7fD9445A9978F1A8E3A24f1a8a7e6479a
+../dataset/contracts/MetaAlt_AuditReport_InterFi
+../dataset/contracts/pepedonalds
+../dataset/contracts/Pets Of Elon
+../dataset/contracts/Elon1_0x6163b875F1de7865a33D40fD750102d6b03D00Cc
+../dataset/contracts/1-fd
+../dataset/contracts/PYRAVEUM Full Smart Contract Security Audit
+../dataset/contracts/mcubez
+../dataset/contracts/Meta Stake Finance Full Smart Contract Security Audit
+../dataset/contracts/Iosiro-CurrentCoin Token Smart Contract Audit
+../dataset/contracts/2022-10-shimacapital-ondo-securityreview
+../dataset/contracts/Dogemom Smart Contract Audit Report - QuillAudits
+../dataset/contracts/xnm
+../dataset/contracts/CacaDragon Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Okane_Academy
+../dataset/contracts/HealTheWorld_0x383B0b2ce2e1757b5e1D087D8f36013eA595541a
+../dataset/contracts/humai
+../dataset/contracts/Senpai Vault Full Smart Contract Security Audit
+../dataset/contracts/Bitcoin Mini
+../dataset/contracts/cmos
+../dataset/contracts/Baby Squid Game Full Smart Contract Security Audit
+../dataset/contracts/Bored Floki Yacht Club Full Smart Contract Security Audit
+../dataset/contracts/1-fub
+../dataset/contracts/Nugen Reward Pool Smart Contract Audit Report - QuillAudits
+../dataset/contracts/BOLAS Full Smart Contract Security Audit
+../dataset/contracts/crod
+../dataset/contracts/tele
+../dataset/contracts/AnySniperEscrow_0x89d7c52b999DE0f2D862eD944203BFA0526AE973
+../dataset/contracts/PicArtNFT Token
+../dataset/contracts/BABYXRP Full Smart Contract Security Audit
+../dataset/contracts/BabyDogeKing_0x7A35F9Ca26AB657E1Be07Df73A6c8f5BfFEc3b4B
+../dataset/contracts/ELONTUSK Full Smart Contract Security Audit
+../dataset/contracts/fldoge
+../dataset/contracts/MiniBNB
+../dataset/contracts/BinosaursToken Full Smart Contract Security Audit
+../dataset/contracts/2-isx
+../dataset/contracts/2-mthn
+../dataset/contracts/tbs
+../dataset/contracts/HAECHI_AUDIT-%UFEFF%UFEFF%UFEFFDATAM
+../dataset/contracts/BNBYield Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_LuckyBlock
+../dataset/contracts/captain
+../dataset/contracts/Inspex-Ratoken
+../dataset/contracts/SmartContract_Audit_Solidproof_ConcreteCodes
+../dataset/contracts/WORLD CUP INU Full Smart Contract Security Audit
+../dataset/contracts/EIP-1283
+../dataset/contracts/absc
+../dataset/contracts/Zuna Full Smart Contract Security Audit
+../dataset/contracts/HELL-Audit-by-BlockSAFU
+../dataset/contracts/2-sinu
+../dataset/contracts/Hacken-Bobo
+../dataset/contracts/META
+../dataset/contracts/spv
+../dataset/contracts/SmartContract_Audit_Solidproof_ShibaMoon
+../dataset/contracts/scate
+../dataset/contracts/1-blze
+../dataset/contracts/Elan_Future_Smart_Contract_Audit_Report_QuillAudits
+../dataset/contracts/ifanz
+../dataset/contracts/tigerswap
+../dataset/contracts/Catwoman_AuditReport_InterFi
+../dataset/contracts/Stage5Token_0xABB38c61a1f7Ba3267D3aa0Efe81d2d2d2df1f6A
+../dataset/contracts/NFTismus
+../dataset/contracts/SmartContract_Audit_Solidproof_Beri
+../dataset/contracts/HAKURYU
+../dataset/contracts/DKT Finance Full Smart Contract Security Audit
+../dataset/contracts/ShiraINU Full Smart Contract Security Audit
+../dataset/contracts/2-bda
+../dataset/contracts/coupleai
+../dataset/contracts/MOON BEAM
+../dataset/contracts/1-pickles
+../dataset/contracts/Dione
+../dataset/contracts/PlanetFinance Full Smart Contract Security Audit
+../dataset/contracts/sle
+../dataset/contracts/Last 1 Standing Full Smart Contract Security Audit
+../dataset/contracts/NFTFashion_0xec6F1574Fd93e16C1B1945a8B6BdCD77794D9f63
+../dataset/contracts/varti
+../dataset/contracts/skeletonkeytoken
+../dataset/contracts/Azimuth Finance
+../dataset/contracts/MicroCreditBSC_0xE4DdbBD505132519361d55c449eaCD153d6d7BCE
+../dataset/contracts/Doge Cake
+../dataset/contracts/FOOTIE PLUS Full Smart Contract Security Audit
+../dataset/contracts/Gorilla Inuvv
+../dataset/contracts/spongs
+../dataset/contracts/SmartContract_Audit_Solidproof_AxeDao
+../dataset/contracts/BABYSEC Full Smart Contract Security Audit
+../dataset/contracts/MoonBoys_AuditReport_InterFi
+../dataset/contracts/MetaGirlWarrior
+../dataset/contracts/CompoundProtocol_0x8D36223236973f2521AC8A019A57eb132Ba7a991
+../dataset/contracts/CatJAM Full Smart Contract Security Audit
+../dataset/contracts/babyllama
+../dataset/contracts/Honey
+../dataset/contracts/TouristShibaInu_0x14eB173d2b4B8d888F9886BBEC41EC1B0e18f2b6
+../dataset/contracts/1-tor
+../dataset/contracts/India Coin Full Smart Contract Security Audit
+../dataset/contracts/7-doges
+../dataset/contracts/bcp
+../dataset/contracts/Avarice
+../dataset/contracts/Acria Token Contract Audit Report - QuillAudits
+../dataset/contracts/GlovyToken
+../dataset/contracts/LycanFinance_0xAD0B6A90D616580806798BD45CA2045f53aA366e
+../dataset/contracts/1-mig
+../dataset/contracts/Coma-Audit-by-BlockSAFU
+../dataset/contracts/SmartContract_Audit_Solidproof_PocketdogeToken
+../dataset/contracts/RuffyCoin_AuditReport_InterFi
+../dataset/contracts/munk
+../dataset/contracts/EKARToken Smart Contract Audit Report - QuillAudits
+../dataset/contracts/SkyBorn Full Smart Contract Security Audit
+../dataset/contracts/Nugen Airdrop Smart Contract Audit Report - QuillAudits
+../dataset/contracts/StableGrow_0xA206a7433501c11480D433362E1c078d2D392a92
+../dataset/contracts/PandaElon_0x6E169D536553a21AE02CC0feE2E1b0672e4d5d49
+../dataset/contracts/Nomos_0xF7B7Db914e8Fd226f5648CebDc7464D1aC4f6AFc
+../dataset/contracts/optix
+../dataset/contracts/Verichains Public Audit Report - DeFiHorse Token - v1
+../dataset/contracts/XEBEC
+../dataset/contracts/Dabb Doge Full Smart Contract Security Audit
+../dataset/contracts/shflcn
+../dataset/contracts/Verichains Public Audit Report - MiLady Meme Coin Smartcontracts - v1
+../dataset/contracts/FlokiZap_AuditReport_InterFi
+../dataset/contracts/2-mojo
+../dataset/contracts/RoyalPay_0x4BED6C95AeF12f6c3e680132Ba17b7FdFB79DB7d
+../dataset/contracts/TokenHub
+../dataset/contracts/NFTTalents Smart Contract Security Audit
+../dataset/contracts/Titania Token
+../dataset/contracts/gfc
+../dataset/contracts/CRYPTO PHOENIX Full Smart Contract Security Audit-2
+../dataset/contracts/Axienomics
+../dataset/contracts/SharkBNB_0xA56591a56DFdFC53898B804752128BDcC3Fb92f2
+../dataset/contracts/mtrc
+../dataset/contracts/SmartContract_Audit_Solidproof_AutoCrypto
+../dataset/contracts/SmartContract_Audit_Solidproof_BinanceDroiyan
+../dataset/contracts/SmartContract_Audit_Solidproof_SpaceBattleShip
+../dataset/contracts/chorse
+../dataset/contracts/Kashiba Full Smart Contract Security Audit
+../dataset/contracts/PlugPRO Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_BinanceMax
+../dataset/contracts/NomyFinance_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_CrystalMonster
+../dataset/contracts/tripler
+../dataset/contracts/1-lfc
+../dataset/contracts/SmartContract_Audit_Solidproof_AceTech
+../dataset/contracts/1-mxr
+../dataset/contracts/DogeZhi_0xac302094Ae3a7B4Df2eB1f42BCeA2AB037877Ac1
+../dataset/contracts/Falcon Full Smart Contract Security Audit
+../dataset/contracts/FIA Protocol Full Smart Contract Security Audit
+../dataset/contracts/BabyCosmos Full Smart Contract Security Audit
+../dataset/contracts/ImpactXP Full Smart Contract Security Audit
+../dataset/contracts/MetaBean_AuditReport_InterFi
+../dataset/contracts/HighTaxJeet
+../dataset/contracts/Braination
+../dataset/contracts/shibo
+../dataset/contracts/MetaverseInu
+../dataset/contracts/lsl
+../dataset/contracts/Solidified-Blocks_Token_Contract_[23
+../dataset/contracts/Zatcoin Full Smart Contract Security Audit
+../dataset/contracts/Raccoon Swap
+../dataset/contracts/420x
+../dataset/contracts/inci
+../dataset/contracts/Env Finance Full Smart Contract Security Audit
+../dataset/contracts/AscentPad Full Smart Contract Security Audit
+../dataset/contracts/SmokeyTheDoge_0xaE4D943FFD9149Acb19052c4B527aEDc48885C8b
+../dataset/contracts/gasc
+../dataset/contracts/SmartContract_Audit_Solidproof_DogeDna
+../dataset/contracts/mci
+../dataset/contracts/Metagon_0xa9cB489B3e59CA5f30B45c1ec2fC068aD6551686
+../dataset/contracts/ShinobiVerse
+../dataset/contracts/Astrobolic_AuditReport_InterFi
+../dataset/contracts/hotdog
+../dataset/contracts/chc
+../dataset/contracts/SmartContract_Audit_Solidproof_Doob
+../dataset/contracts/TOP_100_CRYPTO_INDEX_by_glenty_com_Full_Smart_Contract_Security
+../dataset/contracts/Orange Grove Token Full Smart Contract Security Audit
+../dataset/contracts/PolyYeld
+../dataset/contracts/1OF1 Full Smart Contract Security Audit
+../dataset/contracts/Yarloo Full Smart Contract Security Audit
+../dataset/contracts/MADAGASCAR Full Smart Contract Security Audit
+../dataset/contracts/equality
+../dataset/contracts/warp
+../dataset/contracts/MINIKISHU Full Smart Contract Security Audit
+../dataset/contracts/BeyondPay_0x516314b6061D484cEf8ACbCe802ae0e5a2000db3
+../dataset/contracts/ayz
+../dataset/contracts/Soken-ELC
+../dataset/contracts/MGPToken Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Bullish AF Full Smart Contract Security Audit
+../dataset/contracts/DRAGNFT
+../dataset/contracts/Cowboy Shiba
+../dataset/contracts/1-ma
+../dataset/contracts/Hacken-SMEGMARS
+../dataset/contracts/KoriInu_AuditReport_InterFi
+../dataset/contracts/Extreme Beans Smart Contract Audit
+../dataset/contracts/bepro
+../dataset/contracts/CosmicX Token
+../dataset/contracts/CRIR MSH Full Smart Contract Security Audit
+../dataset/contracts/DevonRex_0xccd17457e4dfC6dA249928fbb6b215e737f3eDea
+../dataset/contracts/BurntCake_AuditReport_InterFi
+../dataset/contracts/ContractWolf_Audit_PEPACOIN
+../dataset/contracts/PRICECoin Full Smart Contract Security Audit
+../dataset/contracts/BBF_Limited_SC-Audit-Report_07022023_SA-932-1
+../dataset/contracts/PARROT-Audit-by-BlockSAFU
+../dataset/contracts/GenerationalFinance_0x67314079d9c048612E925d8518f9C42ABD797B6d
+../dataset/contracts/Fundme_0xc58aBfb46D8cd8C3709f7AB1482f4aF2890a699d
+../dataset/contracts/Fat Doge
+../dataset/contracts/DivineInu_0x32C04e0dBffaBe8A43Dd6881D8aecED44A981c8c
+../dataset/contracts/ncat
+../dataset/contracts/ATHProtocol_0xE430E7D7688a52e53B9e9291a75fa3Ac3d2d1cDb
+../dataset/contracts/Sexy Shiba
+../dataset/contracts/snake
+../dataset/contracts/ELPIS_AuditReport_InterFi
+../dataset/contracts/MoonBet Full Smart Contract Security Audit
+../dataset/contracts/FelizFinance Full Smart Contract Security Audit
+../dataset/contracts/CupidFloki_0x2C2BCBdD9817EaA0EBAd96374E96812E281B98dA
+../dataset/contracts/PolyX_AuditReport_InterFi
+../dataset/contracts/MiniSports Token Full Smart Contract Security Audit
+../dataset/contracts/bccds
+../dataset/contracts/Sensei
+../dataset/contracts/Hacken-Galeon
+../dataset/contracts/AQUAGON Full Smart Contract Security Audit
+../dataset/contracts/wash
+../dataset/contracts/PULA_audit
+../dataset/contracts/Blacktie(B4Real) Smart Contract Audit Report - QuillAudits
+../dataset/contracts/woma
+../dataset/contracts/exohood
+../dataset/contracts/InuInu_0xC6bDb96E29c38DC43f014Eed44dE4106A6A8eB5f
+../dataset/contracts/ChromaShop-Audit-by-BlockSAFU
+../dataset/contracts/cryptIt
+../dataset/contracts/zooz
+../dataset/contracts/Clown World Rising Full Smart Contract Security Audit
+../dataset/contracts/disbot
+../dataset/contracts/PRF Network Smart Contract Audit
+../dataset/contracts/Pirates of the blockchain 
+../dataset/contracts/Okratech Full Smart Contract Security Audit
+../dataset/contracts/vrl
+../dataset/contracts/Vangold Full Smart Contract Security Audit
+../dataset/contracts/2-rev
+../dataset/contracts/RocketRaccoon_AuditReport_InterFi
+../dataset/contracts/catly
+../dataset/contracts/SecurePay_0x3C691f677408b100c4045e5b77ABA7F207389B14
+../dataset/contracts/1-mkd
+../dataset/contracts/vlon
+../dataset/contracts/mrev
+../dataset/contracts/Hero Inu Full Smart Contract Security Audit
+../dataset/contracts/Metamoon_1
+../dataset/contracts/Secured MoonRat Token Smart Contract Security Audit
+../dataset/contracts/crdo
+../dataset/contracts/HONEYPAD Full Smart Contract Security Audit
+../dataset/contracts/gyc
+../dataset/contracts/ContractWolf_Audit_FlexiMine
+../dataset/contracts/CrickDao BSC Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Fox
+../dataset/contracts/Cryptospace Full Smart Contract Security Audit
+../dataset/contracts/EarthBoys
+../dataset/contracts/VCGamersStaking Full Smart Contract Security Audit
+../dataset/contracts/Reddocoin
+../dataset/contracts/SmartContract_Audit_Solidproof_Baby_Meow
+../dataset/contracts/Hacken-Fidometa-V2
+../dataset/contracts/Soken-HATOK
+../dataset/contracts/Solidified-OctoToken_Contract_[21
+../dataset/contracts/WIZARD Full Smart Contract Security Audit
+../dataset/contracts/Keanu Inu Full Smart Contract Security Audit 
+../dataset/contracts/Pixie Inu
+../dataset/contracts/SmartContract_Audit_Solidproof_Fishmoon
+../dataset/contracts/EndBlock Smart Contract Audit Report-QuillAudits
+../dataset/contracts/Fair BTC
+../dataset/contracts/Hacken-Pocket Arena
+../dataset/contracts/ARTIFICIAL INTELLIGENCE DIAGNOSTIC TOKEN 
+../dataset/contracts/acrx
+../dataset/contracts/2-moai
+../dataset/contracts/METOSHI_0xE7efb623C7dFe06b12D5453993AD3EfD5345F2b6
+../dataset/contracts/oearn
+../dataset/contracts/6-up
+../dataset/contracts/SwapBoxFactory Full Smart Contract Security Audit
+../dataset/contracts/BabyPooCoin Full Smart Contract Security Audit
+../dataset/contracts/Education Exchange
+../dataset/contracts/MetaShark_0x2366Cc8Df450519EC575E8fEA89b2Afd4fc4455d
+../dataset/contracts/culture
+../dataset/contracts/2-katz
+../dataset/contracts/CypherToken_0x872360c5ff23aFbe0F484AbBdCE2A087313F6151
+../dataset/contracts/gabecoin
+../dataset/contracts/1-mgc
+../dataset/contracts/lambro
+../dataset/contracts/aiwallet
+../dataset/contracts/claw
+../dataset/contracts/02_Smart Contract Audit_IBZ_Token
+../dataset/contracts/Incubate Smart Contract Audit Report - QuillAudits
+../dataset/contracts/ContractWolf_Audit_FRZ_Solar_System_Token
+../dataset/contracts/SlowMist Audit Report - wBETH_en-us
+../dataset/contracts/EsportGame Full Smart Contract Security Audit
+../dataset/contracts/DiarrheaCoin Full Smart Contract Security Audit
+../dataset/contracts/NFTinder
+../dataset/contracts/TasteNFT Full Smart Contract Security Audit
+../dataset/contracts/GoldenDoge Standart Smart Contract Security Audit
+../dataset/contracts/PeckShield-Security-Review-Alpha-Homora-v1
+../dataset/contracts/PotatoSalad
+../dataset/contracts/1-aibabydoge
+../dataset/contracts/SoccerInfinity_AuditReport_InterFi
+../dataset/contracts/twp2e
+../dataset/contracts/hancock
+../dataset/contracts/SmartContract_Audit_Solidproof_SQUID
+../dataset/contracts/fegceo
+../dataset/contracts/ImmuneBytes-OrangeCat_Audit_Report
+../dataset/contracts/ImmuneBytes-Tourniverse_Audit_Report
+../dataset/contracts/InfiniteEcosystem_0x1996294d6Fbda0e441f6A1C0A8d65b9D7aa17145
+../dataset/contracts/Klee Kai Full Smart Contract Security Audit
+../dataset/contracts/SecuraMasterchef
+../dataset/contracts/SmartContract_Audit_Solidproof_SimplyToken
+../dataset/contracts/CREATOR MOON TOKEN
+../dataset/contracts/rikroll
+../dataset/contracts/Chainlist
+../dataset/contracts/SmartyPay Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_Lion_FAI
+../dataset/contracts/babyshimusk
+../dataset/contracts/MetAces_0x1702e76a5be119E332805dC7C11Be26f3857c31d
+../dataset/contracts/xrp20
+../dataset/contracts/Cavapoo Full Smart Contract Security Audit
+../dataset/contracts/MandoX Full Smart Contract Security Audit
+../dataset/contracts/ATM Smart Contract Audit Report- QuillAudits
+../dataset/contracts/Megalodon Smart Contract Audit
+../dataset/contracts/BabyPanda_0xd1D613Cd9c385d3b50bFEC187f19638e91772Ae6
+../dataset/contracts/nabana
+../dataset/contracts/Verichains Public Audit Report - SDRCoin - v1
+../dataset/contracts/SwapNFT_0x5e340794b55e8A26a2A46851a82fc9c62a775869
+../dataset/contracts/FrontRunners_0xd0875027ab5D841361bF91E3f8436d5B3e5E0aC1
+../dataset/contracts/ChainCade
+../dataset/contracts/Funexcoin
+../dataset/contracts/FUKU Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Bunny Zilla Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_Honorland
+../dataset/contracts/Griffin Art
+../dataset/contracts/btcix
+../dataset/contracts/SmartContract_Audit_Solidproof_Poomoon
+../dataset/contracts/MGL_AuditReport_InterFi
+../dataset/contracts/Coinbae-Dracula
+../dataset/contracts/2-apepe
+../dataset/contracts/pezo
+../dataset/contracts/Blueseidon_0xb2f8Cb5124927f7A5d3b10eAA423d9EE355c2385
+../dataset/contracts/JokerToken Full Smart Contract Security Audit
+../dataset/contracts/IOX_0x3aF59C34D51Cb9b2253b8869855A13581b53ffc6
+../dataset/contracts/cad
+../dataset/contracts/Verichains Public Audit Report - Legend of RPS Token - v1
+../dataset/contracts/SkyLands_0xfD2150C67Fe2c754Ba63920aDdE3B1CA5CC536E8
+../dataset/contracts/dnd
+../dataset/contracts/btec
+../dataset/contracts/HyperChain Full Smart Contract Security Audit
+../dataset/contracts/LuckyShibaInu_0x29b0C585Ce9A6a2867EFE077dbE36b46ADF3Da35
+../dataset/contracts/shanghai-dragon
+../dataset/contracts/BankOfDoge-Audit-by-BlockSAFU
+../dataset/contracts/RipGabe_0x003625571edc6D3350c09d250BA0Cc7C6be84e74
+../dataset/contracts/madchad
+../dataset/contracts/Sensei Inu
+../dataset/contracts/Momotaman_AuditReport_InterFi
+../dataset/contracts/CleverMinu_Smart_Contract_Audit_Report_QuillAudits_
+../dataset/contracts/ONLYXXXNFT_0x10A30Bc96414EeDdc10C2e3a59F9D666c8B4A673
+../dataset/contracts/4-cgpt
+../dataset/contracts/Blue Origin Studios
+../dataset/contracts/WanchorToken_0x3BC73447cB14bE0A49297C1a2262Ace03872455a
+../dataset/contracts/Hamaru Full Smart Contract Security Audit
+../dataset/contracts/MaticRichSmartContract Full Smart Contract Security Audit
+../dataset/contracts/AndroMeta_0x5c09362Cb31809DFe53FaA2FADd831d7e502CFf6
+../dataset/contracts/yeet
+../dataset/contracts/SmartContract_Audit_Solidproof_CoinDogg
+../dataset/contracts/maftec
+../dataset/contracts/ICEBERG Full Smart Contract Security Audit
+../dataset/contracts/MoonConnect Standart Smart Contract Security Audit
+../dataset/contracts/zrc
+../dataset/contracts/ust
+../dataset/contracts/sarmaswap
+../dataset/contracts/Hacken-Colexion
+../dataset/contracts/11-minu
+../dataset/contracts/BearBillionaire_0x3D6bFf05308027485b3E178056f44D907A217EA4
+../dataset/contracts/eob
+../dataset/contracts/Verichains Public Audit Report - RunTogether Token v2 - v1
+../dataset/contracts/PolyFLOKI
+../dataset/contracts/Billion Full Smart Contract Security Audit
+../dataset/contracts/ppborg
+../dataset/contracts/ContractWolf_Audit_Tr8bit
+../dataset/contracts/$only
+../dataset/contracts/HibikiRun_final_Secure3_Audit_Report
+../dataset/contracts/CHAD
+../dataset/contracts/sicash
+../dataset/contracts/Cuplr_0x0D3608CE95Cd2b561298BeeD3F9fd3DDD3083163
+../dataset/contracts/CatBonk_0xDFAABAa57dEc10c049335bdAA2e949B4Ce2eAD30
+../dataset/contracts/HAECHI_AUDIT-Eco_Defi
+../dataset/contracts/dual
+../dataset/contracts/froggo-20
+../dataset/contracts/9-bee
+../dataset/contracts/SmartContract_Audit_Solidproof_Tribe
+../dataset/contracts/SmartContract_Audit_Solidproof_GallantToken
+../dataset/contracts/elonticker
+../dataset/contracts/CryptoPredictions365_0xD6Bb8653756E1A41ba0A4f4cE565f676ff7bA388
+../dataset/contracts/Shiborg_AuditReport_InterFi
+../dataset/contracts/2-catdog
+../dataset/contracts/SmartContract_Audit_Solidproof_TYGR
+../dataset/contracts/Metastarter Smart Contract Audit Report -QuillAudits_N
+../dataset/contracts/Rijent Coin
+../dataset/contracts/MetaApes_0xd764457Fadd15B52089BeE2b3c38964C7dFf0B70
+../dataset/contracts/1-aio
+../dataset/contracts/SmartContract_Audit_Solidproof_StarVerse
+../dataset/contracts/spybird
+../dataset/contracts/MamoInu_0xF30Ce631be37B95E4AfD56AE90BaB73E7193f0eB
+../dataset/contracts/The Golden Dog
+../dataset/contracts/SaitamaV3_0xd8c356dB595fc7A943E8Db68a1C2dD558E095e4B
+../dataset/contracts/5-bdoge
+../dataset/contracts/SmartContract_Audit_Solidproof_BabyKangeroo
+../dataset/contracts/ContractWolf_Audit_AeonX
+../dataset/contracts/BabyKishuInu_AuditReport_InterFi
+../dataset/contracts/mrbeast
+../dataset/contracts/Ethernity - Audit Report
+../dataset/contracts/CryptoMafia_0x2F86A794FEE552e98d46b33B135fF9126D6e136E
+../dataset/contracts/quest
+../dataset/contracts/2-cate
+../dataset/contracts/BOBATAMA_0x5F20F15d40f24DAe50a72Be3B5EddDDDFb5A5BD0
+../dataset/contracts/CISLAND Full Smart Contract Security Audit
+../dataset/contracts/1-bbet
+../dataset/contracts/PhoenixProtocol_0xeCe8531550Fc599ccB2c7734494FBc358d0a9483
+../dataset/contracts/Hacken-Meta Spatial
+../dataset/contracts/ShonToken
+../dataset/contracts/BitDiamond Smart Contract Audit Report - QuillAudits
+../dataset/contracts/DoggyNations Full Smart Contract Security Audit
+../dataset/contracts/Mooni
+../dataset/contracts/SmartContract_Audit_Solidproof_Metaplace
+../dataset/contracts/CTribe_AuditReport_InterFi
+../dataset/contracts/2-her
+../dataset/contracts/10-bb
+../dataset/contracts/neet
+../dataset/contracts/navyseal
+../dataset/contracts/feelr
+../dataset/contracts/3-honey
+../dataset/contracts/CYLUM Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_JaguarToken
+../dataset/contracts/4-frog
+../dataset/contracts/SmartContract_Audit_Solidproof_Synthesis
+../dataset/contracts/SmartContract_Audit_Solidproof_MetaCoinCity
+../dataset/contracts/2-bets
+../dataset/contracts/MetaKong_0x01860BBf8F63Eb1ed59c393C60902A0E60BdE575
+../dataset/contracts/ContractWolf_Audit_HM
+../dataset/contracts/fifadoge
+../dataset/contracts/DragonInfinity_0x362E90D67DA902Aa6Ef143755Ae153839E9b0695
+../dataset/contracts/MetaPets_AuditReport_InterFi
+../dataset/contracts/GreenFloki_0xF6419987E98045c05e6665A6E5016DE8B3d71fdd
+../dataset/contracts/$solar
+../dataset/contracts/rising
+../dataset/contracts/ShibaMeta_AuditReport_InterFi
+../dataset/contracts/Alcazar_SC-Audit-Report_01_05_23SA-1306
+../dataset/contracts/Iosiro-CHAINSQUARE Smart Contract Audit
+../dataset/contracts/jesus-20
+../dataset/contracts/BNB PAD
+../dataset/contracts/IGOCOIN
+../dataset/contracts/2-beluga
+../dataset/contracts/safecatvills
+../dataset/contracts/3-babygrok
+../dataset/contracts/France Fan Token Full Smart Contract Security Audit
+../dataset/contracts/doge-1
+../dataset/contracts/anya
+../dataset/contracts/SmartContract_Audit_Solidproof_CBerry
+../dataset/contracts/BakerySweepStake
+../dataset/contracts/Official Crypto Cowboy Token
+../dataset/contracts/Pawthereum Full Smart Contract Security Audit
+../dataset/contracts/pudge
+../dataset/contracts/Rhythm Full Smart Contract Security Audit
+../dataset/contracts/RYOSHI TOKEN
+../dataset/contracts/Island Boyz Full Smart Contract Security Audit
+../dataset/contracts/rol
+../dataset/contracts/Mysterious_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_AlinX_v2
+../dataset/contracts/1-ppepe
+../dataset/contracts/cbike
+../dataset/contracts/BeerusShiba Full Smart Contract Security Audit
+../dataset/contracts/busdm
+../dataset/contracts/BetVerse_0x528042DBA3d6B2574C22968Ad8D83C683066FAd3
+../dataset/contracts/1-bmc
+../dataset/contracts/ATFinance Full Smart Contract Security Audit
+../dataset/contracts/ContractWolf_Audit_DollarSqueeze
+../dataset/contracts/blackbeard
+../dataset/contracts/nanxa
+../dataset/contracts/Hermes Full Smart Contract Security Audit
+../dataset/contracts/y-5
+../dataset/contracts/VSJEFF FIGHT
+../dataset/contracts/kpro
+../dataset/contracts/Flokichu_AuditReport_InterFi
+../dataset/contracts/1-insig
+../dataset/contracts/14-bnb
+../dataset/contracts/MiniUSDC Full Smart Contract Security Audit
+../dataset/contracts/africa
+../dataset/contracts/Lifemoon BSC
+../dataset/contracts/Red Panda
+../dataset/contracts/cplay
+../dataset/contracts/Marsupilamii_0x6E53E24f0f7B273d27D92a909A30762d5734B649
+../dataset/contracts/Kevlar Full Smart Contract Security Audit
+../dataset/contracts/Calypso Full Smart Contract Security Audit
+../dataset/contracts/SPAY Full Smart Contract Security Audit
+../dataset/contracts/colR Coin Full Smart Contract Security Audit
+../dataset/contracts/MIDANFT_0xb0B55E1fCb2cB958C3Bff566D9e2d4cE57ce7037
+../dataset/contracts/ByteNews_AuditReport_InterFi
+../dataset/contracts/OnePunchMan
+../dataset/contracts/rube
+../dataset/contracts/pulse
+../dataset/contracts/SmartContract_Audit_Solidproof_Haven
+../dataset/contracts/SmartContract_Audit_Solidproof_WoopMoney
+../dataset/contracts/BroCoin
+../dataset/contracts/Micro Santa Coin Full Smart Contract Security Audit
+../dataset/contracts/BabyShiba_0x66A64a8A9cdc54EF97e45a051bA1c8f3D4b41A1D
+../dataset/contracts/BUSDBuffet_0x07335A076184C0453aE1987169D9c7ab7047a974
+../dataset/contracts/METANOVA_0x2ab28e04b8F362ACC9FD0F0b95a1DE3540a7e42a
+../dataset/contracts/TABOO TOKEN
+../dataset/contracts/Shinjiru Inu Full Smart Contract Security Audit
+../dataset/contracts/eversafu
+../dataset/contracts/7-pepe
+../dataset/contracts/BakePizza
+../dataset/contracts/2-ddt
+../dataset/contracts/IndependentToken-Audit-by-BlockSAFU
+../dataset/contracts/Verichains Public Audit Report - NFT Marble Token - v1
+../dataset/contracts/ContractWolf_Audit_GameGem
+../dataset/contracts/RexFinance_AuditReport_InterFi
+../dataset/contracts/Glonk Smart Contract Audit Report - QuillAudits
+../dataset/contracts/2-pedo
+../dataset/contracts/Genit Smart Contract Audit
+../dataset/contracts/MetafaceToken
+../dataset/contracts/Community Vote Power
+../dataset/contracts/2-karma
+../dataset/contracts/StarlinkInu_0xc95765C92F75b55d567653C4F58312e0AB9fbC60
+../dataset/contracts/LEVELUP Full Smart Contract Security Audit
+../dataset/contracts/smartcontract_audit_solidproof_nelometaverse
+../dataset/contracts/Bacon_0x59107a07D7448C3534917C1Cb3431100b41D12F8
+../dataset/contracts/Binance Apes Full Smart Contract Security Audit
+../dataset/contracts/doxi
+../dataset/contracts/Skatearn-Audit-by-BlockSAFU_004650
+../dataset/contracts/ent
+../dataset/contracts/2-kai
+../dataset/contracts/GAX_202311211730
+../dataset/contracts/Smart Chain Property Full Smart Contract Security Audit
+../dataset/contracts/OukaInu_0x4A33D3ea4B30228C363222746939562FbAba2f01
+../dataset/contracts/SAVIOR
+../dataset/contracts/Fair Hoge
+../dataset/contracts/DogeVerse_AuditReport_InterFi
+../dataset/contracts/CryptoEternal_AuditReport_InterFi
+../dataset/contracts/TAJIRI
+../dataset/contracts/black%20horse
+../dataset/contracts/Avocado
+../dataset/contracts/SPIKE INU Full Smart Contract Security Audit
+../dataset/contracts/CronFamily Full Smart Contract Security Audit
+../dataset/contracts/blocks
+../dataset/contracts/BeepBeepInu Smart Contract Audit
+../dataset/contracts/Univaults
+../dataset/contracts/High Rise Finance
+../dataset/contracts/PANDADAO
+../dataset/contracts/3-wow
+../dataset/contracts/1-win
+../dataset/contracts/Baby Doug Full Smart Contract Security Audit
+../dataset/contracts/SafuuRocket_0x5299Adf36d33F0142B3869ABAe4DfF15f38EAE69
+../dataset/contracts/Nugen Advisory Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-mgpt
+../dataset/contracts/aeth
+../dataset/contracts/SmartContract_Audit_Solidproof_GemGuardian
+../dataset/contracts/Cardana Full Smart Contract Security Audit
+../dataset/contracts/Kishiburno_0xff5C69e8edc6446a1898698adCf9B1149d5E0306
+../dataset/contracts/1-pepega
+../dataset/contracts/Portfolio Full Smart Contract Security Audit
+../dataset/contracts/County_AuditReport_InterFi
+../dataset/contracts/INPA Coin
+../dataset/contracts/MissionNeptune
+../dataset/contracts/GreenTrust Standart Smart Contract Security Audit
+../dataset/contracts/Solidified-AquaFi_[15_Sept_2021]
+../dataset/contracts/ImmuneBytes-Xtransfer_Audit_Report
+../dataset/contracts/SmartContract_Audit_Solidproof_dPassive
+../dataset/contracts/ReflexFinance_0x51812403611ff41c37dc91d8c2a4ab2a5fffc827
+../dataset/contracts/Super Floki Full Smart Contract Security Audit
+../dataset/contracts/Crypto2Card_0x0FB84e0f6732632dF6E597B385f15E101F7b02C3
+../dataset/contracts/SlowMist Audit Report - InsurAce_en-us
+../dataset/contracts/GLDToken
+../dataset/contracts/SmartContract_Audit_Solidproof_DracoVerse
+../dataset/contracts/Little Pony Full Smart Contract Security Audit
+../dataset/contracts/ONE PIECE Full Smart Contract Security Audit
+../dataset/contracts/MoonPower
+../dataset/contracts/PORNROCKET Full Smart Contract Security Audit
+../dataset/contracts/rdog
+../dataset/contracts/Predator Token
+../dataset/contracts/blh
+../dataset/contracts/buck
+../dataset/contracts/BurnProject90_0xEFe5bD5a8B924Ad1B69207030396a48936ac422D
+../dataset/contracts/Decent_0xEf31bAFde913C7664Aa1B17C41Bb26E0e4549e31
+../dataset/contracts/CryptRiseFinance_0x5955d6e16Ae36E756C966043d2B1cdaBa3479fA3
+../dataset/contracts/SmartContract_Audit_Solidproof_MoonWarrior
+../dataset/contracts/FuCoin
+../dataset/contracts/zns
+../dataset/contracts/ContractWolf_Audit_LobsterSwap
+../dataset/contracts/RavenTheGame_0x6f4bA85A97B914Fd7e1C52cFBa85ed57C843c6Fc
+../dataset/contracts/SmartContract_Audit_Solidproof_MarsInu
+../dataset/contracts/zangai
+../dataset/contracts/ContractWolf_Audit_Epic_Cat
+../dataset/contracts/PancakeFork(1)
+../dataset/contracts/ring
+../dataset/contracts/SlowMist Audit Report - Coin98 Dollar (CUSD)_en-us
+../dataset/contracts/1-cst
+../dataset/contracts/dmst
+../dataset/contracts/Verichains Public Audit Report - Senspark Token - v1
+../dataset/contracts/Soken-AMDG
+../dataset/contracts/SevenNodes
+../dataset/contracts/Ownex Full Smart Contract Security Audit
+../dataset/contracts/sbat
+../dataset/contracts/Chinu_0xF36750F9eB97e2b5A8DfD883176075d915a5D3dC
+../dataset/contracts/1-crazy
+../dataset/contracts/HAECHI_AUDIT-Onston
+../dataset/contracts/ImmuneBytes-YG_Finance(Token)_Audit_Report
+../dataset/contracts/BitLounge_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_UpBot
+../dataset/contracts/lvdoge
+../dataset/contracts/kita
+../dataset/contracts/Gold Retriever (GLDN) Full Smart Contract Security Audit
+../dataset/contracts/SmcAuditors-Mesh_Token_Audit
+../dataset/contracts/YYDS Smart Contract Audit Report - QuillAudits
+../dataset/contracts/mtcu
+../dataset/contracts/Push Community
+../dataset/contracts/blbm
+../dataset/contracts/HubGame_0x46bCBBB0D888dF90Eda86c9CA159C7727a8731D5
+../dataset/contracts/Meta Hangry Games Full Smart Contract Security Audit
+../dataset/contracts/QuillAudit-T99(TNN)_Smart_Contract_Audit_Report
+../dataset/contracts/Dirty Doge
+../dataset/contracts/Dangdut Universe Token
+../dataset/contracts/11-ai
+../dataset/contracts/AstroCash_AuditReport_InterFi
+../dataset/contracts/1-dragon2024
+../dataset/contracts/Doge Rise Up
+../dataset/contracts/PolyGoon Standart Smart Contract Security Audit
+../dataset/contracts/sstake
+../dataset/contracts/SafeAPY_0x9c6B51f4a4fed2830C435c46414f87546733BFD1
+../dataset/contracts/ContractWolf_Audit_ChartAI
+../dataset/contracts/dexby
+../dataset/contracts/SafeMoonCash Full Smart Contract Security Audit
+../dataset/contracts/Ballbag Full Smart Contract Security Audit
+../dataset/contracts/collie
+../dataset/contracts/1-kakashi
+../dataset/contracts/1-grv
+../dataset/contracts/LucidLands_0xE4C293Eadbb9d72d68a680F1A66979726992c396
+../dataset/contracts/PVC META
+../dataset/contracts/EXIP TOKEN - Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Hacken-FOTA
+../dataset/contracts/Traders coin Full Smart Contract Security Audit
+../dataset/contracts/good dao
+../dataset/contracts/ContractWolf_Audit_Vlad
+../dataset/contracts/SuperMegaHyperDoge Full Smart Contract Security Audit_1
+../dataset/contracts/02_Smart Contract Audit_NEXT_Token
+../dataset/contracts/future
+../dataset/contracts/Eros
+../dataset/contracts/Engine Labs Smart Contract Audit
+../dataset/contracts/AttackOnInu_0x7C41489bCeF2abdF48A5339E04F708c904CcBE23
+../dataset/contracts/babyr
+../dataset/contracts/Barbecue Full Smart Contract Security Audit
+../dataset/contracts/bender
+../dataset/contracts/2023-09-scroll-zkEVM-wave3-securityreview
+../dataset/contracts/RECKLESSAPE
+../dataset/contracts/MarsMission Finance
+../dataset/contracts/SmartContract_Audit_Solidproof_HornHub
+../dataset/contracts/kawaiINU Full Smart Contract Security Audit
+../dataset/contracts/Dextopia_0xd8cE77FeB1c7DA176b4C6E591703067C435c3E3d
+../dataset/contracts/G
+../dataset/contracts/cubes
+../dataset/contracts/PeckShield-Audit-Report-MESA-v1
+../dataset/contracts/wed
+../dataset/contracts/CERTIK-YEARNTOGETHER-AUDIT-REPORT
+../dataset/contracts/NordLoan Smart Contract Audit Report - QuillAudits
+../dataset/contracts/GreenChart
+../dataset/contracts/WaffleCake
+../dataset/contracts/f1doge
+../dataset/contracts/WorldOfApes
+../dataset/contracts/MetaSwap Gas Full Smart Contract Security Audit
+../dataset/contracts/SupportDoge Standart Smart Contract Security Audit
+../dataset/contracts/tw
+../dataset/contracts/2-sc
+../dataset/contracts/Shiba Narium
+../dataset/contracts/FALLINGSTAR Full Smart Contract Security Audit
+../dataset/contracts/wizzy
+../dataset/contracts/Soken-Ethax
+../dataset/contracts/EthSniper_AuditReport_InterFi
+../dataset/contracts/PeckShield-Audit-Report-PancakeswapLottery-v1
+../dataset/contracts/ContractWolf_Audit_JeetTherapy
+../dataset/contracts/btcbby
+../dataset/contracts/BitBurnReflect_0x8B6bF63e2b1C221dC0Fb01AE85868b83dDee1B54
+../dataset/contracts/Verichains Public Audit Report - HeroFiEgg - v1
+../dataset/contracts/mtw
+../dataset/contracts/AncestryLegion_0x644aA08ef4B6C254673924670c898eDF1E018C97
+../dataset/contracts/ContractWolf_Audit_Bitcoin_Halving_Token
+../dataset/contracts/5-mtc
+../dataset/contracts/Renewable Energy Token
+../dataset/contracts/ClubFi Network
+../dataset/contracts/rd2e
+../dataset/contracts/natodoge
+../dataset/contracts/sw
+../dataset/contracts/Rocket Boys Full Smart Contract Security Audit
+../dataset/contracts/PumaSwap Full Smart Contract Security Audit
+../dataset/contracts/pedal
+../dataset/contracts/Node Squared
+../dataset/contracts/3-ace
+../dataset/contracts/SmartContract_Audit_Solidproof_LittleGoose
+../dataset/contracts/YumYumFarm Full Smart Contract Security Audit
+../dataset/contracts/PuppySwap Token
+../dataset/contracts/mmmem
+../dataset/contracts/Cakery Swap
+../dataset/contracts/SmartContract_Audit_Solidproof_MegaDoge
+../dataset/contracts/OLYMPUS
+../dataset/contracts/dhb
+../dataset/contracts/QuillAudit-VYNC_Token_Smart_Contract_Audit_Report
+../dataset/contracts/mbc
+../dataset/contracts/DOGEFOOD Full Smart Contract Security Audit
+../dataset/contracts/3-dxr
+../dataset/contracts/ZillaMatrix
+../dataset/contracts/BabyX3
+../dataset/contracts/Fortune Cookie - Final Audit Report
+../dataset/contracts/UltramanCoin_0x733f8B3545a810214D2D27EEC8c60f93b561C050
+../dataset/contracts/DeFarm
+../dataset/contracts/ContractWolf_Audit_Lobster_BNB
+../dataset/contracts/pwg
+../dataset/contracts/1-rsc
+../dataset/contracts/pony
+../dataset/contracts/Winry Inu Full Smart Contract Security Audit
+../dataset/contracts/100xCoin Full Smart Contract Security Audit
+../dataset/contracts/HarryPotterObamaSonic10Inu_Full_Smart_Contract_Security_Audit
+../dataset/contracts/Rug Busters
+../dataset/contracts/Happy Doge Full Smart Contract Security Audit
+../dataset/contracts/The IMPOSSIBLE EXPERIMENT Full Smart Contract Security Audit
+../dataset/contracts/FirstHare_0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55
+../dataset/contracts/SquirrelToken_0xC540966Bc40c72aE514F5fcDF8Df80533863e5eE
+../dataset/contracts/pingo
+../dataset/contracts/POULTRY Full Smart Contract Security Audit
+../dataset/contracts/1-djdoge
+../dataset/contracts/4-tt
+../dataset/contracts/SmartContract_Audit_Solidproof_KnightX
+../dataset/contracts/FWC LEGENDS
+../dataset/contracts/SoccerDoge_0x377090D977f059F489f90c3c4466d29741AC024B
+../dataset/contracts/ccats
+../dataset/contracts/Dolphins Finance Full Smart Contract Security Audit
+../dataset/contracts/ElonTech Full Smart Contract Security Audit
+../dataset/contracts/smartswap
+../dataset/contracts/PirateFloki_AuditReport_InterFi
+../dataset/contracts/mtln
+../dataset/contracts/1-pmc
+../dataset/contracts/MoonAMI Full Smart Contract Security Audit
+../dataset/contracts/Squid Dogs Full Smart Contract Security Audit
+../dataset/contracts/Block Sailor
+../dataset/contracts/SmartContract_Audit_Solidproof_Planet3Coin
+../dataset/contracts/Thunderbird Token Full Smart Contract Security Audit
+../dataset/contracts/Nasa Doge Full Smart Contract Security Audit
+../dataset/contracts/Cheemspulse-Audit-by-BlockSAFU
+../dataset/contracts/AstroGrow_0x9d5758D86998D74F002C218C9967980a238BEb55
+../dataset/contracts/AmplifierFinance
+../dataset/contracts/Poollotto Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Great Ape Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_ShibaInuBillionaire
+../dataset/contracts/LOFCrypto_0xe702c303173f90094ce8c9c6CA3f198eCA0E027C
+../dataset/contracts/1-pikachu
+../dataset/contracts/FettyCoins_0x64404CBbb4c2a513EF964f7cCFE4AaA533226D82
+../dataset/contracts/SmartContract_Audit_Solidproof_ZOMI
+../dataset/contracts/Crypto Gamer
+../dataset/contracts/FloridaManCronos_AuditReport_InterFi
+../dataset/contracts/Soken-Crypto_Stake
+../dataset/contracts/Azomland Smart Contract Initial Audit report - QuillAudits
+../dataset/contracts/harm
+../dataset/contracts/syl
+../dataset/contracts/1-tvl
+../dataset/contracts/EliteCode_0xeF0b88aCCbE73B4edC8c9bFA04ebB336C2Fb339b
+../dataset/contracts/EcoSphereum
+../dataset/contracts/JUNGLE BOOK CRYPTO Full Smart Contract Security Audit
+../dataset/contracts/RedZilla Full Smart Contract Security Audit
+../dataset/contracts/msc
+../dataset/contracts/Hokkaidu Inu
+../dataset/contracts/SCRO_0xf7BcC36137eFB85320E57CCCE5C69B5B65283Ab5
+../dataset/contracts/Hacken-SOAR-V1
+../dataset/contracts/Sauron Full Smart Contract Security Audit
+../dataset/contracts/Minionverse Full Smart Contract Security Audit
+../dataset/contracts/EverGain_AuditReport_InterFi
+../dataset/contracts/SmartContract_Audit_Solidproof_LuckyDogeCoin
+../dataset/contracts/SmartContract_Audit_Solidproof_NELOProxy
+../dataset/contracts/1-imt
+../dataset/contracts/LIBEARN-Audit-by-BlockSAFU
+../dataset/contracts/ppface
+../dataset/contracts/Soken-ORGONX
+../dataset/contracts/ContractWolf_Audit_CorePAD_Token
+../dataset/contracts/Blashcoin
+../dataset/contracts/Dogeber_0x6A08D8D6bD855bA584Fb7A8e6d9941547Da969Cd
+../dataset/contracts/VegasDoge
+../dataset/contracts/BabyApolloCoin_0xF4A741fAdab5EF4096841AD83E025CC43ef1C1F6
+../dataset/contracts/SamZ_0xE115bF75d35F62f51CCcdD36EADa3815c42046a9
+../dataset/contracts/DFXR-Audit-by-BlockSAFU
+../dataset/contracts/verny
+../dataset/contracts/agata
+../dataset/contracts/SmartContract_Audit_Solidproof_Jizzjet
+../dataset/contracts/ShibaPotter_0x9E797d857373D35E6AfbF50cfCD20aF2718a39B7
+../dataset/contracts/2-bush
+../dataset/contracts/3-isx
+../dataset/contracts/Nemesis
+../dataset/contracts/ssl
+../dataset/contracts/FUTAINU Full Smart Contract Security Audit
+../dataset/contracts/niff
+../dataset/contracts/FoundationToken Comprehensive Smart Contract Audit
+../dataset/contracts/ContractWolf_Audit_Tr8bitSafenet
+../dataset/contracts/elep
+../dataset/contracts/3-mdoge
+../dataset/contracts/RyujiInu_0x279dc2a2700c192A817Cb8DFadA3c02a7BA8a337
+../dataset/contracts/Axis Token Smart Contract Audit Report - QuillAudits
+../dataset/contracts/1-fk
+../dataset/contracts/MiniApecoin_0x5aC31C662Af6008A113e0EbfeD4EF8d889a4cAfE
+../dataset/contracts/QuillAudit-RedLine_Blockchain_Smart_Contract_Audit_Report
+../dataset/contracts/tav
+../dataset/contracts/2-lsd
+../dataset/contracts/tnl
+../dataset/contracts/bend
+../dataset/contracts/SaturnV Gold
+../dataset/contracts/dmn
+../dataset/contracts/JEDSTAR Full Smart Contract Security Audit
+../dataset/contracts/trgi
+../dataset/contracts/Cardence Full Smart Contract Security Audit
+../dataset/contracts/riseinu
+../dataset/contracts/Verichains Public Audit Report - GPTVerse Token - v1
+../dataset/contracts/bfm
+../dataset/contracts/Asthedic
+../dataset/contracts/3-gen
+../dataset/contracts/scri
+../dataset/contracts/Mini Monkey Swap
+../dataset/contracts/chapo
+../dataset/contracts/AVALYZER
+../dataset/contracts/BitValley_0xdD8B490001D081eD065239644dae8D1a77b8A91F
+../dataset/contracts/SmartContract_Audit_Solidproof_SSA
+../dataset/contracts/RhinoInu_0xbc9d0DE492a077498Dff1F91707BcBB9Ee281034
+../dataset/contracts/pbit
+../dataset/contracts/ai-floki
+../dataset/contracts/SmartContract_Audit_Solidproof_ShibaStarter
+../dataset/contracts/SwapTracker_AuditReport_InterFi
+../dataset/contracts/InfinityPad_AuditReport_InterFi
+../dataset/contracts/KATS-Audit-by-BlockSAFU
+../dataset/contracts/American Justice League Full Smart Contract Security Audit
+../dataset/contracts/DaddyDollar_0xc53dbB909A5077B180093b4603D5535bF7bF97E0
+../dataset/contracts/FlokiDollar_0x8039db18f60aE075AA4d9f67adf0b642BA816f43
+../dataset/contracts/2-mm
+../dataset/contracts/ORON Full Smart Contract Security Audit
+../dataset/contracts/Family Shark Safe Smart Contract Audit Report - QuillAudits
+../dataset/contracts/Grumpy Smart Contract Audit
+../dataset/contracts/ContractWolf_Audit_KEIKO
+../dataset/contracts/MetaCars Full Smart Contract Security Audit
+../dataset/contracts/SmartContract_Audit_Solidproof_StarDust
+../dataset/contracts/KEYNFTS Full Smart Contract Security Audit
+../dataset/contracts/Hacken-Morbex Finance
+../dataset/contracts/fb
+../dataset/contracts/shonen
+../dataset/contracts/MelodityICO_AuditReport_InterFi
+../dataset/contracts/BURNACE Full Smart Contract Security Audit
+../dataset/contracts/DolphinRoyale  Full Smart Contract Security Audit
+../dataset/contracts/StepUp_0x63b9cD65Dc31A533A0B0B12d5764217713a69114
+../dataset/contracts/SmcAuditors-District0x_Audit
+../dataset/contracts/SpeedForceFinance_0x589E90c584DAa693E7F746DaEAa804dd5879857B
+../dataset/contracts/Gamer
+../dataset/contracts/sdd
+../dataset/contracts/Labra Full Smart Contract Security Audit
+../dataset/contracts/BabyShark Full Smart Contract Security Audit
+../dataset/contracts/sakai
+../dataset/contracts/XProject
+../dataset/contracts/1-tmt
+../dataset/contracts/Hoichi Staking
+../dataset/contracts/votetrump2024
+../dataset/contracts/driven
+../dataset/contracts/wpy
+../dataset/contracts/QuillAudit-YFPI_Finance_Audit_Report
+../dataset/contracts/Elon Diablo Smart Contract Audit
+../dataset/contracts/2-tor
+../dataset/contracts/SmartContract_Audit_Solidproof_CXPAD
+../dataset/contracts/Shibao Full Smart Contract Security Audit
+../dataset/contracts/DNACash_0x46708e294a47Eac98B8Ef07a48424290BA61f997
+../dataset/contracts/broly-inu
+../dataset/contracts/SmartContract_Audit_Solidproof_Unipad
+../dataset/contracts/FX Wallet Full Smart Contract Security Audit
+../dataset/contracts/BUSDAutoMine
+../dataset/contracts/1-feed
+../dataset/contracts/Bafe
+../dataset/contracts/ContractWolf_Audit_FUD_BABIES_Token
+../dataset/contracts/Arix Exchange
+../dataset/contracts/Ecochaintoken Full Smart Contract Security Audit
+../dataset/contracts/Soken-Polygame
+../dataset/contracts/girles
+../dataset/contracts/Santa Coin Full Smart Contract Security Audit
+../dataset/contracts/02_Smart Contract Audit_Nearpad_Core
+../dataset/contracts/RiseUp Full Smart Contract Security Audit
+../dataset/contracts/DRAGIX Token
+../dataset/contracts/cthl
+../dataset/contracts/PuppyShiba_0x31e3c2a59501052fE259002ad36C3cd9A9822235
+../dataset/contracts/ProjectXmemePolygon_Presale Smart Contract Audit
+../dataset/contracts/ShinobiVerse_1
+../dataset/contracts/esdao
+../dataset/contracts/SmartContract_Audit_Solidproof_Tripedia
+../dataset/contracts/SafeGalaxy
+../dataset/contracts/cosmo
+../dataset/contracts/parmy-token
+../dataset/contracts/BillzHub Full Smart Contract Security Audit
+../dataset/contracts/CryptoDogs Full Smart Contract Security Audit
+../dataset/contracts/Baby Bitcoin Full Smart Contract Security Audit
+../dataset/contracts/BNBMasters_0x06ec8bAe8539e402BE3ED7E624d4bd674f94783e
+../dataset/contracts/drb
+../dataset/contracts/Froggies Full Smart Contract Security Audit
+../dataset/contracts/edu3

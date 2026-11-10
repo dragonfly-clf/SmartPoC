@@ -1,0 +1,34 @@
+#### L09 - Dead Code Elimination
+
+**Criticality** minor
+
+**Location** contract.sol#L123,106,110,114,118,87,98,14,75,79
+
+##### Description
+
+Functions that are not used in the contract, and make the code's size bigger.
+
+|Criticality|minor|
+|---|---|
+|Location|contract.sol#L123,106,110,114,118,87,98,14,75,79|
+
+```
+mod
+_msgData
+sendValue
+isContract
+functionCallWithValue
+functionCall
+_functionCallWithValue
+
+```
+...
+
+
+##### Recommendation
+
+Remove unused functions.
+
+
+-----
+

@@ -1,0 +1,373 @@
+BitPump Exchange’s Centralization Status
+
+v BitPump Exchange’s smart contract has an active ownership.
+
+
+-----
+
+## Static Analysis
+
+**Symbol** **Meaning**
+
+🛑 Function can modify state
+
+💵 Function is payable
+
+🔒 Function is locked
+
+🔐 Function can be accessed
+
+❗ Important functionality
+```
+| **IBEP20** | Interface | |||
+| └ | totalSupply | External ❗ |  |NO❗ |
+| └ | decimals | External ❗ |  |NO❗ |
+| └ | symbol | External ❗ |  |NO❗ |
+| └ | name | External ❗ |  |NO❗ |
+| └ | getOwner | External ❗ |  |NO❗ |
+| └ | balanceOf | External ❗ |  |NO❗ |
+| └ | transfer | External ❗ | 🛑 |NO❗ |
+| └ | allowance | External ❗ |  |NO❗ |
+| └ | approve | External ❗ | 🛑 |NO❗ |
+| └ | transferFrom | External ❗ | 🛑 |NO❗ |
+||||||
+| **SafeMath** | Library | |||
+| └ | add | Internal 🔒 |  | |
+| └ | sub | Internal 🔒 |  | |
+| └ | sub | Internal 🔒 |  | |
+| └ | mul | Internal 🔒 |  | |
+| └ | div | Internal 🔒 |  | |
+| └ | div | Internal 🔒 |  | |
+| └ | mod | Internal 🔒 |  | |
+| └ | mod | Internal 🔒 |  | |
+
+```
+
+🛑
+
+
+🔒
+
+
+❗
+
+```
+||||||
+
+```
+
+💵
+
+```
+| **Context** | Implementation | |||
+| └ | <Constructor> | Internal 🔒 | 🛑 | |
+| └ | _msgSender | Internal 🔒 |  | |
+| └ | _msgData | Internal 🔒 |  | |
+||||||
+| **Ownable** | Implementation | Context |||
+| └ | <Constructor> | Internal 🔒 | 🛑 | |
+| └ | owner | Public ❗ |  |NO❗ |
+| └ | renounceOwnership | Public ❗ | 🛑 | onlyOwner |
+
+```
+
+Function is payable
+
+Function is locked
+
+Function can be accessed
+
+Important functionality
+```
+**IBEP20** | Interface | |||
+| └ | totalSupply | External ❗ |  |NO❗ |
+| └ | decimals | External ❗ |  |NO❗ |
+| └ | symbol | External ❗ |  |NO❗ |
+| └ | name | External ❗ |  |NO❗ |
+| └ | getOwner | External ❗ |  |NO❗ |
+| └ | balanceOf | External ❗ |  |NO❗ |
+| └ | transfer | External ❗ | 🛑 |NO❗ |
+| └ | allowance | External ❗ |  |NO❗ |
+| └ | approve | External ❗ | 🛑 |NO❗ |
+| └ | transferFrom | External ❗ | 🛑 |NO❗ |
+**SafeMath** | Library | |||
+| └ | add | Internal 🔒 |  | |
+| └ | sub | Internal 🔒 |  | |
+| └ | sub | Internal 🔒 |  | |
+| └ | mul | Internal 🔒 |  | |
+| └ | div | Internal 🔒 |  | |
+| └ | div | Internal 🔒 |  | |
+| └ | mod | Internal 🔒 |  | |
+| └ | mod | Internal 🔒 |  | |
+**Context** | Implementation | |||
+ <Constructor> | Internal 🔒 | 🛑 | |
+| └ | _msgSender | Internal 🔒 |  | |
+
+```
+
+🔐
+
+
+🔒
+
+
+❗
+
+
+❗
+
+
+-----
+
+```
+| └ | transferOwnership | Public ❗ | 🛑 | onlyOwner |
+| └ | _transferOwnership | Internal 🔒 | 🛑 | |
+||||||
+| **BitPump** | Implementation | Context, IBEP20, Ownable |||
+| └ | <Constructor> | Public ❗ | 🛑 |NO❗ |
+| └ | getOwner | External ❗ |  |NO❗ |
+| └ | decimals | External ❗ |  |NO❗ |
+| └ | symbol | External ❗ |  |NO❗ |
+| └ | name | External ❗ |  |NO❗ |
+| └ | totalSupply | External ❗ |  |NO❗ |
+| └ | balanceOf | External ❗ |  |NO❗ |
+| └ | transfer | External ❗ | 🛑 |NO❗ |
+| └ | allowance | External ❗ |  |NO❗ |
+| └ | approve | External ❗ | 🛑 |NO❗ |
+| └ | transferFrom | External ❗ | 🛑 |NO❗ |
+| └ | increaseAllowance | Public ❗ | 🛑 |NO❗ |
+| └ | decreaseAllowance | Public ❗ | 🛑 |NO❗ |
+| └ | mint | Public ❗ | 🛑 | onlyOwner |
+| └ | mint | Public ❗ | 🛑 | onlyOwner |
+| └ | _transfer | Internal 🔒 | 🛑 | |
+| └ | _mint | Internal 🔒 | 🛑 | |
+| └ | _burn | Internal 🔒 | 🛑 | |
+| └ | _approve | Internal 🔒 | 🛑 | |
+| └ | _burnFrom | Internal 🔒 | 🛑 | |
+
+```
+```
+| └ | symbol | External ❗ |  |NO❗ |
+| └ | name | External ❗ |  |NO❗ |
+| └ | totalSupply | External ❗ |  |NO❗ |
+| └ | balanceOf | External ❗ |  |NO❗ |
+| └ | transfer | External ❗ | 🛑 |NO❗ |
+| └ | allowance | External ❗ |  |NO❗ |
+| └ | approve | External ❗ | 🛑 |NO❗ |
+| └ | transferFrom | External ❗ | 🛑 |NO❗ |
+| └ | increaseAllowance | Public ❗ | 🛑 |NO❗ |
+| └ | decreaseAllowance | Public ❗ | 🛑 |NO❗ |
+| └ | mint | Public ❗ | 🛑 | onlyOwner |
+| └ | mint | Public ❗ | 🛑 | onlyOwner |
+| └ | _transfer | Internal 🔒 | 🛑 | |
+| └ | _mint | Internal 🔒 | 🛑 | |
+| └ | _burn | Internal 🔒 | 🛑 | |
+| └ | _approve | Internal 🔒 | 🛑 | |
+| └ | _burnFrom | Internal 🔒 | 🛑 | |
+
+```
+
+❗
+
+
+🔒
+
+
+❗
+
+
+❗
+
+
+❗
+
+
+❗
+
+
+-----
+
+## Software Analysis
+
+### Function Signatures
+```
+39509351 => increaseAllowance(address,uint256)
+18160ddd => totalSupply()
+313ce567 => decimals()
+95d89b41 => symbol()
+06fdde03 => name()
+893d20e8 => getOwner()
+70a08231 => balanceOf(address)
+a9059cbb => transfer(address,uint256)
+dd62ed3e => allowance(address,address)
+095ea7b3 => approve(address,uint256)
+23b872dd => transferFrom(address,address,uint256)
+771602f7 => add(uint256,uint256)
+b67d77c5 => sub(uint256,uint256)
+e31bdc0a => sub(uint256,uint256,string)
+c8a4ac9c => mul(uint256,uint256)
+a391c15b => div(uint256,uint256)
+b745d336 => div(uint256,uint256,string)
+f43f523a => mod(uint256,uint256)
+71af23e8 => mod(uint256,uint256,string)
+119df25f => _msgSender()
+8b49d47e => _msgData()
+8da5cb5b => owner()
+715018a6 => renounceOwnership()
+f2fde38b => transferOwnership(address)
+d29d44ee => _transferOwnership(address)
+a457c2d7 => decreaseAllowance(address,uint256)
+a0712d68 => mint(uint256)
+40c10f19 => mint(address,uint256)
+30e0789e => _transfer(address,address,uint256)
+4e6ec247 => _mint(address,uint256)
+6161eb18 => _burn(address,uint256)
+104e81ff => _approve(address,address,uint256)
+a22b35ce => _burnFrom(address,uint256)
+
+```
+```
+313ce567 => decimals()
+95d89b41 => symbol()
+06fdde03 => name()
+893d20e8 => getOwner()
+70a08231 => balanceOf(address)
+a9059cbb => transfer(address,uint256)
+dd62ed3e => allowance(address,address)
+095ea7b3 => approve(address,uint256)
+23b872dd => transferFrom(address,address,uint256)
+771602f7 => add(uint256,uint256)
+b67d77c5 => sub(uint256,uint256)
+e31bdc0a => sub(uint256,uint256,string)
+c8a4ac9c => mul(uint256,uint256)
+a391c15b => div(uint256,uint256)
+b745d336 => div(uint256,uint256,string)
+f43f523a => mod(uint256,uint256)
+71af23e8 => mod(uint256,uint256,string)
+119df25f => _msgSender()
+8b49d47e => _msgData()
+8da5cb5b => owner()
+715018a6 => renounceOwnership()
+f2fde38b => transferOwnership(address)
+d29d44ee => _transferOwnership(address)
+a457c2d7 => decreaseAllowance(address,uint256)
+a0712d68 => mint(uint256)
+40c10f19 => mint(address,uint256)
+30e0789e => _transfer(address,address,uint256)
+4e6ec247 => _mint(address,uint256)
+6161eb18 => _burn(address,uint256)
+104e81ff => _approve(address,address,uint256)
+a22b35ce => _burnFrom(address,uint256)
+
+```
+
+-----
+
+### Inheritance Graph
+
+
+-----
+
+## Manual Analysis
+
+**Function** **Description** **Available** **Status**
+
+provides information about the total token
+
+**Total Supply** Yes **Passed**
+
+supply
+
+provides account balance of the owner's
+
+**Balance Of** Yes **Passed**
+
+account
+
+executes transfers of a specified number of
+
+**Transfer** Yes **Passed**
+
+tokens to a specified address
+
+allow a spender to withdraw a set number of
+
+**Approve** Yes **Passed**
+
+tokens from a specified account
+
+returns a set number of tokens from a spender
+
+**Allowance** Yes **Passed**
+
+to the owner
+
+executes the creation of a specified number of
+
+**Mint** Yes **! High**
+
+tokens and adds it to the total supply
+
+executes transfer of contract ownership to a
+
+**Transfer Ownership** Yes **Passed**
+
+specified wallet
+
+**Renounce** executes transfer of contract ownership to a
+
+Yes **Passed**
+
+**Ownership** dead address
+
+
+**Total Supply** Yes **Passed**
+
+supply
+
+provides account balance of the owner's
+
+**Balance Of** Yes **Passed**
+
+account
+
+executes transfers of a specified number of
+
+**Transfer** Yes **Passed**
+
+tokens to a specified address
+
+allow a spender to withdraw a set number of
+
+**Approve** Yes **Passed**
+
+tokens from a specified account
+
+returns a set number of tokens from a spender
+
+**Allowance** Yes **Passed**
+
+to the owner
+
+executes the creation of a specified number of
+
+Yes **! High**
+
+tokens and adds it to the total supply
+
+executes transfer of contract ownership to a
+
+**Transfer Ownership** Yes **Passed**
+
+specified wallet
+
+**Renounce** executes transfer of contract ownership to a
+
+Yes **Passed**
+
+**Ownership** dead address
+
+
+-----
+
+### 
